@@ -1,0 +1,441 @@
+route_id,agency_id,route_short_name,route_long_name,route_color,route_type
+18178778,0,01-A085-01,01-A085-01 : SAN MIGUEL TOTO → Terminal Toluca,,3
+18212710,0,01-A011-07,01-A011-07 : Toluca → Atarasquillo,,3
+18212712,0,01-A011-05,01-A011-05 : Toluca → Santa María Tlalmimilolpan,,3
+18212716,0,01-A085-04,01-A085-04 : TLACOTEPEC → Toluca CENTRO,,3
+18212734,0,01-A011-12,01-A011-12 : Toluca → Cholula,,3
+18212736,0,01-A085-02,01-A085-02 : TLACOTEPEC → Terminal Toluca,,3
+18212738,0,01-A011-11,01-A011-11 : Toluca → Acazulco,,3
+18212742,0,01-A085-05,01-A085-05 : ZARAGOZA → Terminal Toluca,,3
+18212744,0,01-A085-06,01-A085-06 : SAN ÁNDRES OCOTLÁN → Terminal Toluca,,3
+18212798,0,01-A085-07,01-A085-07 : LA HUERTA → Terminal Toluca,,3
+18212802,0,01-A011-19,01-A011-19 : Toluca → San Francisco Xochicuautla,,3
+18212806,0,01-A085-08,01-A085-08 : CALIMAYA → Toluca CENTRO,,3
+18212813,0,01-A011-09,01-A011-09 : Toluca → El Charco,,3
+18212821,0,01-A011-17,01-A011-17 : Xonacatlán → Santa María Tlalmimilolpan,,3
+18212846,0,01-A085-03,01-A085-03 : OCOTITLÁN → Terminal Toluca,,3
+18265941,1,01-A011-05,01-A011-05 : Toluca → Santa María Tlalmimilolpan,,3
+18265943,1,01-A011-04,01-A011-04 : Toluca → Santiago Tianguistenco por Acueducto,,3
+18265983,1,01-A011-02,01-A011-02 : Toluca → Santiago Tianguistenco,,3
+18266002,1,01-A011-07,01-A011-07 : Toluca → Atarasquillo,,3
+18266011,1,01-A011-01,01-A011-01 : Toluca → Santiago Tianguistenco por carretera México-Toluca,,3
+18266023,1,01-A011-08,01-A011-08 : Toluca → San Miguel Ameyalco,,3
+18266067,1,01-A011-03,01-A011-03 : Toluca → Chalma,,3
+18266070,1,01-A011-09,01-A011-09 : Toluca → El Charco,,3
+18266131,1,01-A011-01,01-A011-01 : Santiago Tianguistenco por carretera México-Toluca → Toluca,,3
+18266173,2,01-A012-14,01-A012-14 : Toluca Centro → Jicaltepec,,3
+18266201,1,01-A011-10,01-A011-10 : Terminal Toluca → San Mateo Atenco,,3
+18266208,1,01-A011-15,01-A011-15 : Toluca → Cerrillo,,3
+18266214,2,01-A012-14,01-A012-14 : Jicaltepec → Toluca Centro,,3
+18268019,1,01-A011-11,01-A011-11 : Toluca → Acazulco,,3
+18268072,1,01-A011-13,01-A011-13 : Toluca → Almaya,,3
+18268107,1,01-A011-03,01-A011-03 : Chalma → Toluca,,3
+18268117,1,01-A011-14,01-A011-14 : Almaya → Santiago Tianguistenco,,3
+18268120,1,01-A011-17,01-A011-17 : Xonacatlán → Santa María Tlalmimilolpan,,3
+18268133,1,01-A011-04,01-A011-04 : Santiago Tianguistenco por Acueducto → Toluca,,3
+18268136,1,01-A011-16,01-A011-16 : San Nicolás Peralta → C.U.,,3
+18268140,1,01-A011-18,01-A011-18 : Toluca → San Lorenzo,,3
+18268144,1,01-A011-05,01-A011-05 : Santa María Tlalmimilolpan → Toluca,,3
+18268152,1,01-A011-19,01-A011-19 : Toluca → San Francisco Xochicuautla,,3
+18268203,3,01-A168-06,01-A168-06 : Barrio de Balbuena → Terminal Toluca,,3
+18268365,1,01-A011-20,01-A011-20 : Toluca → San Lorenzo Huitzizilapan,,3
+18268510,1,01-A011-21,01-A011-21 : Toluca → Metro Toreo,,3
+18268545,2,01-A012-06,01-A012-06 : Toluca → San Diego Linares por Villa Seca,,3
+18268559,2,01-A012-03,01-A012-03 : Toluca → Colonia Lerdo de Tejada,,3
+18269212,1,01-A011-02,01-A011-02 : Santiago Tianguistenco → Toluca,,3
+18284841,2,01-A012-04,01-A012-04 : Terminal Toluca → San Carlos,,3
+18289699,2,01-A012-07,01-A012-07 : Terminal Toluca → San Pablo Autopan,,3
+18289706,2,01-A012-08,01-A012-08 : Terminal Toluca → Canal Cutzamala,,3
+18291869,2,01-A012-09,01-A012-09 : Toluca → San Pablo por El Tecojote,,3
+18291925,4,01-A026-01A,01-A026-01A : Fraccionamiento SUTEYM → San Pedro Tultepec,,3
+18291941,2,01-A012-02,01-A012-02 : Toluca → Mina México,,3
+18291951,2,01-A012-10,01-A012-10 : Toluca Centro → San Pablo,,3
+18291954,5,01-A026-02,01-A026-02 : Aeropuerto → San Luis Mextepec,,3
+18291959,2,01-A012-13,01-A012-13 : Toluca Centro → Central de abasto,,3
+18291963,1,01-A011-07,01-A011-07 : Atarasquillo → Toluca,,3
+18291965,0,01-A134-12,01-A134-12 : SAN Pablo Autopan → TERMINAL,,3
+18291971,1,01-A011-13,01-A011-13 : Almaya → Toluca,,3
+18291974,1,01-A011-08,01-A011-08 : San Miguel Ameyalco → Toluca,,3
+18291977,5,01-A026-03,01-A026-03 : Toluca Centro → Tecaxic por Morelos,,3
+18291998,2,01-A012-11,01-A012-11 : Terminal Toluca → San Andrés Cuexcontitlán por La Maquinita,,3
+18292019,2,01-A012-05,01-A012-05 : Toluca → Palmillas,,3
+18292021,2,01-A012-12,01-A012-12 : Terminal Toluca → Tecnológico de San Pablo por El Tecojote,,3
+18292060,4,01-A026-04,01-A026-04 : San Pedro Tultepec → San Francisco Tlalcilalcalpan,,3
+18292175,5,01-A026-05,01-A026-05 : Santa María del Monte → San Francisco Tlalcilalcalpan,,3
+18292226,0,01-A026-06,01-A026-06 : San Juan de las Huertas → Ojo de agua,,3
+18334498,1,01-A011-14,01-A011-14 : Santiago Tianguistenco → Almaya,,3
+18334502,1,01-A011-06,01-A011-06 : San Nicolás Peralta → Toluca,,3
+18334522,1,01-A011-15,01-A011-15 : Cerrillo → Toluca,,3
+18334536,1,01-A011-16,01-A011-16 : C.U. → San Nicolás Peralta,,3
+18334552,1,01-A011-11,01-A011-11 : Acazulco → Toluca,,3
+18494467,1,01-A011-17,01-A011-17 : Santa María Tlalmimilolpan → Xonacatlán,,3
+18494515,1,01-A011-18,01-A011-18 : San Lorenzo → Toluca,,3
+18510029,1,01-A011-19,01-A011-19 : San Francisco Xochicuautla → Toluca,,3
+18510108,1,01-A011-20,01-A011-20 : San Lorenzo Huitzizilapan → Toluca,,3
+18511109,1,01-A011-21,01-A011-21 : Metro Toreo → Toluca,,3
+18582498,0,01-A047-01,01-A047-01 : Terminal Toluca → San Diego de los Padres,,3
+18702473,4,01-A026-04,01-A026-04 : San Francisco Tlalcilalcalpan → San Pedro Tultepec,,3
+18704711,2,01-A012-01,01-A012-01 : La Palma → Terminal Toluca,,3
+18704717,2,01-A012-02,01-A012-02 : Mina México → Toluca,,3
+18704763,2,01-A012-03,01-A012-03 : Colonia Lerdo de Tejada → Toluca,,3
+18704775,2,01-A012-04,01-A012-04 : San Carlos → Terminal Toluca,,3
+18704787,2,01-A012-05,01-A012-05 : Palmillas → Toluca,,3
+18704821,2,01-A012-06,01-A012-06 : San Diego Linares por Villa Seca → Toluca,,3
+18704854,2,01-A012-07,01-A012-07 : San Pablo Autopan → Terminal Toluca,,3
+18708785,2,01-A012-09,01-A012-09 : San Pablo por El Tecojote → Toluca,,3
+18708963,2,01-A012-10,01-A012-10 : San Pablo → Toluca Centro,,3
+18709005,2,01-A012-11,01-A012-11 : San Andrés Cuexcontitlán por La Maquinita → Terminal Toluca,,3
+18709039,2,01-A012-12,01-A012-12 : Tecnológico de San Pablo por El Tecojote → Terminal Toluca,,3
+18709052,2,01-A012-08,01-A012-08 : Canal Cutzamala → Terminal Toluca,,3
+18709057,2,01-A012-13,01-A012-13 : Central de abasto → Toluca Centro,,3
+18709064,5,01-A026-03,01-A026-03 : Tecaxic por Morelos → Toluca Centro,,3
+18709204,5,01-A026-05,01-A026-05 : San Francisco Tlalcilalcalpan → Santa María del Monte,,3
+18709212,5,01-A026-06,01-A026-06 : Ojo de agua → San Juan de Las Huertas,,3
+18709213,6,01-A047-02,01-A047-02 : Cerrilo Vista Hermosa por El Arbolito → Terminal Toluca,,3
+18709218,6,01-A047-03,01-A047-03 : Terminal Toluca → San Nicolás Tolentino por San Mateo Otzacatipan,,3
+18722171,6,01-A047-04,01-A047-04 : San Pedro Totoltepec por La Cruz Comalco → Terminal Toluca,,3
+18732694,7,01-A083-01B,01-A083-01B : La Maquinita → El Arbolito,,3
+18732705,7,01-A083-04,01-A083-04 : Fraccionamiento Rincón de San Lorenzo → Terminal Toluca,,3
+18735441,8,01-A085-09,01-A085-09 : Balderas → Terminal Toluca,,3
+18735457,8,01-A085-10,01-A085-10 : El Refugio → Terminal Toluca,,3
+18735466,8,01-A085-10,01-A085-10 : Terminal Toluca → El Refugio,,3
+18735497,7,01-A083-05,01-A083-05 : Toluca → Cerrilo,,3
+18735536,7,01-A083-05,01-A083-05 : Cerrilo → Toluca,,3
+18735566,7,01-A083-06,01-A083-06 : Terminal Toluca → Constitución Totoltepec,,3
+18735575,7,01-A083-06,01-A083-06 : Constitución Totoltepec → Terminal Toluca,,3
+18735597,7,01-A083-07,01-A083-07 : Cerrilo → Toluca Rafael M. Hidalgo,,3
+18736621,7,01-A083-08,01-A083-08 : La Crespa → Terminal Toluca,,3
+18736638,7,01-A083-07A,01-A083-07A : Cerrilo Canal Viejo → Toluca Rafael M. Hidalgo,,3
+18736640,7,01-A083-09,01-A083-09 : San Angelín → Terminal Toluca,,3
+18736641,7,01-A083-07A,01-A083-07A : Toluca Rafael M. Hidalgo → Cerrilo Canal Viejo,,3
+18736642,7,01-A083-09,01-A083-09 : Terminal Toluca → San Angelín,,3
+18736662,7,01-A083-10,01-A083-10 : Toluca → Fraccionamiento Rincón de San Lorenzo,,3
+18736694,7,01-A083-12,01-A083-12 : El Arbolito → Villa Cuauhtemoc,,3
+18736695,7,01-A083-13,01-A083-13 : Terminal Toluca → Colonia San Antonio Abad,,3
+18736703,7,01-A083-08,01-A083-08 : Terminal Toluca → La Crespa,,3
+18736934,7,01-A083-14,01-A083-14 : La Floresta → Rafael M. Hidalgo,,3
+18736999,7,01-A083-11,01-A083-11 : Cerrilo vía Naucalpan → Terminal Toluca,,3
+18737003,7,01-A083-14,01-A083-14 : Rafael M. Hidalgo → La Floresta,,3
+18737050,7,01-A083-11,01-A083-11 : Terminal Toluca → Cerrilo vía Naucalpan,,3
+18737087,7,01-A083-13,01-A083-13 : Colonia San Antonio Abad → Terminal Toluca,,3
+18737153,9,01-A084-01,01-A084-01 : Jiquipilco → Terminal por San Cristóbal,,3
+18739303,9,01-A084-01,01-A084-01 : Terminal por San Cristóbal → Jiquipilco,,3
+18739338,9,01-A084-02,01-A084-02 : Temoaya → Toluca por San Diego Alcalá,,3
+18739350,9,01-A084-02,01-A084-02 : Toluca por San Diego Alcalá → Temoaya,,3
+18739358,8,01-A085-12,01-A085-12 : San Bartolomé Tlatelulco → Toluca Centro,,3
+18739365,9,01-A084-03,01-A084-03 : Centro Ceremonial Otomí → Terminal Toluca,,3
+18739378,8,01-A085-12,01-A085-12 : Toluca Centro → San Bartolomé Tlatelulco,,3
+18739379,9,01-A084-03,01-A084-03 : Terminal Toluca → Centro Ceremonial Otomí,,3
+18739380,9,01-A084-04,01-A084-04 : Jiquipilco El Viejo → Terminal Toluca,,3
+18739383,8,01-A085-14,01-A085-14 : San Juan Tilapa → Toluca Centro,,3
+18739384,9,01-A084-04,01-A084-04 : Terminal Toluca → Jiquipilco El Viejo,,3
+18739385,9,01-A084-08,01-A084-08 : San José Las Lomas → Toluca,,3
+18739386,9,01-A084-06,01-A084-06 : San Lorenzo Oyamel → Villa Cuauhtemoc,,3
+18739396,8,01-A085-14,01-A085-14 : Toluca Centro → San Juan Tilapa,,3
+18739397,9,01-A084-05,01-A084-05 : Tlaltenanguito → Terminal Toluca,,3
+18739416,9,01-A084-08,01-A084-08 : Toluca → San José Las Lomas,,3
+18739425,8,01-A085-15,01-A085-15 : San Juan Tilapa → Terminal Toluca,,3
+18739431,9,01-A084-09,01-A084-09 : Revolución → Toluca por San Andrés,,3
+18739433,9,01-A084-05,01-A084-05 : Terminal Toluca → Tlaltenanguito,,3
+18739435,9,01-A084-09,01-A084-09 : Toluca por San Andrés → Revolución,,3
+18739441,9,01-A084-06,01-A084-06 : Villa Cuauhtemoc → San Lorenzo Oyamel,,3
+18739443,9,01-A084-10,01-A084-10 : San Juan Jiquipilco → Portezuelos,,3
+18739445,9,01-A084-10,01-A084-10 : Portezuelos → San Juan Jiquipilco,,3
+18739446,9,01-A084-11,01-A084-11 : Temoaya → Toluca,,3
+18739457,9,01-A084-13,01-A084-13 : Enthavi → Terminal Toluca,,3
+18739458,8,01-A085-15,01-A085-15 : Terminal Toluca → San Juan Tilapa,,3
+18739465,8,01-A085-19,01-A085-19 : Zaragoza → Toluca Centro,,3
+18739470,9,01-A084-13,01-A084-13 : Terminal Toluca → Enthavi,,3
+18739473,8,01-A085-16,01-A085-16 : CBTIS Capultitlán → San Andrés Ocotlán,,3
+18739474,0,01-A085-21,01-A085-21 : Ocotitlán - Toluca Centro → Metepec,,3
+18739475,8,01-A085-19,01-A085-19 : Toluca Centro → Zaragoza,,3
+18739483,10,01-A086-01,01-A086-01 : Terminal Toluca → San Miguel Yuxtepec,,3
+18739502,9,01-A084-14,01-A084-14 : Comalco → Toluca,,3
+18739503,10,01-A086-01,01-A086-01 : San Miguel Yuxtepec → Terminal Toluca,,3
+18739505,8,01-A085-20,01-A085-20 : La Huerta → Toluca Centro,,3
+18739516,10,01-A086-02,01-A086-02 : Terminal Toluca → Ejido Piloto,,3
+18739518,8,01-A085-20,01-A085-20 : Toluca Centro → La Huerta,,3
+18739519,9,01-A084-14,01-A084-14 : Toluca → Comalco,,3
+18739527,8,01-A085-16,01-A085-16 : San Andrés Ocotlán → CBTIS Capultitlán,,3
+18739528,10,01-A086-03,01-A086-03 : San Diego Alcalá → Terminal Toluca,,3
+18739535,10,01-A086-02,01-A086-02 : Ejido Piloto → Terminal Toluca,,3
+18739537,9,01-A084-15,01-A084-15 : Laurel → Terminal Toluca,,3
+18739547,10,01-A086-04,01-A086-04 : San Gaspar → Terminal Toluca,,3
+18739557,0,01-A085-21,01-A085-21 : Metepec → Ocotitlán - Toluca Centro,,3
+18739561,9,01-A084-15,01-A084-15 : Terminal Toluca → Laurel,,3
+18739624,10,01-A086-05,01-A086-05 : Allende → Terminal Toluca,,3
+18739673,10,01-A086-05,01-A086-05 : Terminal Toluca → Allende,,3
+18756034,10,01-A086-03,01-A086-03 : Terminal Toluca → San Diego Alcalá,,3
+18756038,11,01-A087-01,01-A087-01 : Tlachayola → Terminal Toluca,,3
+18756044,11,01-A087-01,01-A087-01 : Terminal Toluca → Tlachayola,,3
+18756184,12,01-A087-02,01-A087-02 : Taborda → Terminal Toluca,,3
+18756212,12,01-A087-02,01-A087-02 : Terminal Toluca → Taborda,,3
+18756216,11,01-A087-03,01-A087-03 : San José La Costa → Terminal Toluca,,3
+18756218,11,01-A087-03,01-A087-03 : Terminal Toluca → San José La Costa,,3
+18756221,11,01-A087-04,01-A087-04 : Ranchería San Carlos → Terminal Toluca,,3
+18765970,8,01-A085-17,01-A085-17 : Toluca Centro → Tlacotepec,,3
+18765971,11,01-A087-06,01-A087-06 : Barrio de Balbuena → Terminal Toluca,,3
+18765983,11,01-A087-06,01-A087-06 : Terminal Toluca → Barrio de Balbuena,,3
+18765988,8,01-A085-18,01-A085-18 : Tlacotepec → General Motors por Tollocan,,3
+18765996,8,01-A085-18,01-A085-18 : General Motors por Tollocan → Tlacotepec,,3
+18766238,9,01-A084-16,01-A084-16 : La Providencia → Terminal Toluca,,3
+18766349,12,01-A087-07,01-A087-07 : Tlachayola → Terminal Toluca,,3
+18766356,12,01-A087-07,01-A087-07 : Terminal Toluca → Tlachayola,,3
+18766357,13,01-A092-02,01-A092-02 : Zacamulpa → Terminal Toluca,,3
+18766358,13,01-A092-03,01-A092-03 : El Charco → Terminal Toluca por Flor de Gallo,,3
+18766365,13,01-A092-01,01-A092-01 : Terminal Toluca → Villa Nicolás Romero,,3
+18766368,13,01-A092-03,01-A092-03 : Terminal Toluca por Flor de Gallo → El Charco,,3
+18766369,13,01-A092-04,01-A092-04 : Terminal Toluca → Santiago Tejocotillos por Carretera Federal,,3
+18766373,11,01-A087-04,01-A087-04 : Terminal Toluca → Ranchería San Carlos,,3
+18766376,13,01-A092-04,01-A092-04 : Santiago Tejocotillos por Carretera Federal → Terminal Toluca,,3
+18766377,9,01-A084-16,01-A084-16 : Terminal Toluca → La Providencia,,3
+18766381,9,01-A084-17,01-A084-17 : Central de abasto → Toluca Centro por El Rastro,,3
+18768312,5,01-A113-05,01-A113-05 : Toluca → CRISA,,3
+18768324,14,01-A115-01,01-A115-01 : CalIxtlahuaca → Terminal Toluca,,3
+18768395,14,01-A115-01,01-A115-01 : Terminal Toluca → CalIxtlahuaca,,3
+18768446,14,01-A115-03,01-A115-03 : Acahualco → Puente Pilares,,3
+18768725,14,01-A115-04,01-A115-04 : San Marcos Yachihuacaltepec → Centro Cultural,,3
+18768791,14,01-A115-04,01-A115-04 : Centro Cultural → San Marcos Yachihuacaltepec,,3
+18768803,14,01-A115-05,01-A115-05 : Cacalomacan → Puente Pilares,,3
+18768823,14,01-A115-06,01-A115-06 : Puente Pilares → San Cristóbal Tecolit,,3
+18768889,14,01-A115-07,01-A115-07 : Santa Cruz Cuauhtenco → CalIxtlahuaca,,3
+18769524,14,01-A115-08,01-A115-08 : San Juan de Las Huertas → Puerta Tollotzin,,3
+18769527,14,01-A115-08,01-A115-08 : Puerta Tollotzin → San Juan de Las Huertas,,3
+18769548,14,01-A115-08A,01-A115-08A : San Pedro Tejalpa → Puerta Tollotzin,,3
+18769577,14,01-A115-08A,01-A115-08A : Puerta Tollotzin → San Pedro Tejalpa,,3
+18769580,13,01-A092-02,01-A092-02 : Terminal Toluca → Zacamulpa,,3
+18769581,14,01-A115-09,01-A115-09 : San Francisco Tlalcilalcalpan → Puente Pilares,,3
+18769589,14,01-A115-09,01-A115-09 : Puente Pilares → San Francisco Tlalcilalcalpan,,3
+18769593,14,01-A115-10,01-A115-10 : San Cristóbal Tecolit → Puente Pilares,,3
+18769626,14,01-A115-11,01-A115-11 : Santa Cruz Cuauhtenco → Puente Pilares,,3
+18769641,14,01-A115-11,01-A115-11 : Puente Pilares → Santa Cruz Cuauhtenco,,3
+18769647,14,01-A115-18,01-A115-18 : San Juan de Las Huertas → CalIxtlahuaca,,3
+18769649,14,01-A115-15,01-A115-15 : Zinacantepec → Central de abastos por boulevard Aeropuerto,,3
+18769664,14,01-A115-19,01-A115-19 : Acahualco → Puente Pilares por Las Torres,,3
+18769670,14,01-A115-19,01-A115-19 : Puente Pilares por Las Torres → Acahualco,,3
+18769675,14,01-A115-13,01-A115-13 : San Juan de Las Huertas → Puente Pilares por La Terminal,,3
+18769686,15,01-A125-01,01-A125-01 : San Mateo Capulhuac → Fábrica María,,3
+18769687,15,01-A125-02,01-A125-02 : Terminal Toluca → San Mateo Capulhuac,,3
+18769689,14,01-A115-13,01-A115-13 : Puente Pilares por La Terminal → San Juan de Las Huertas,,3
+18769693,15,01-A125-01,01-A125-01 : Fábrica María → San Mateo Capulhuac,,3
+18769698,14,01-A115-14,01-A115-14 : Cacalomacan → San Marcos Yachihuacaltepec,,3
+18769705,15,01-A125-02,01-A125-02 : San Mateo Capulhuac → Terminal Toluca,,3
+18769707,15,01-A125-03,01-A125-03 : Fábrica María → Terminal Toluca por Parque industrial 2000,,3
+18769713,14,01-A115-15,01-A115-15 : Central de abastos por boulevard Aeropuerto → Zinacantepec,,3
+18769725,14,01-A115-17,01-A115-17 : San Marcos Yachihuacaltepec → San Felipe Tlalmimilolpan,,3
+18769798,15,01-A125-03,01-A125-03 : Terminal Toluca por Parque industrial 2000 → Fábrica María,,3
+18769803,14,01-A115-16,01-A115-16 : San Cristóbal Tecolit → Pilares,,3
+18769840,15,01-A125-04,01-A125-04 : San Agustín Mimbres → Terminal Toluca,,3
+18769842,15,01-A125-08,01-A125-08 : Santa Ana Jilotzingo → Terminal Toluca,,3
+18769849,15,01-A125-08,01-A125-08 : Terminal Toluca → Santa Ana Jilotzingo,,3
+18769861,15,01-A125-09,01-A125-09 : Fábrica María → Terminal Toluca por Isidro Fabela,,3
+18769875,15,01-A125-12,01-A125-12 : Fábrica María → Terminal Toluca por Isidro Fabela,,3
+18769885,14,01-A115-17,01-A115-17 : San Felipe Tlalmimilolpan → San Marcos Yachihuacaltepec,,3
+18770036,5,01-A113-02,01-A113-02 : Toluca → Tenango del Valle,,3
+18779546,16,01-A130-01,01-A130-01 : Terminal Toluca → La Capilla,,3
+18781276,12,01-A087-05,01-A087-05 : San lorenzo Ejido → Terminal Toluca,,3
+18781288,12,01-A087-05,01-A087-05 : Terminal Toluca → San lorenzo Ejido,,3
+18781310,13,01-A092-01,01-A092-01 : Villa Nicolás Romero → Terminal Toluca,,3
+18782084,9,01-A084-17,01-A084-17 : Toluca Centro por El Rastro → Central de abasto,,3
+18782085,5,01-A113-02,01-A113-02 : Tenango del Valle → Toluca,,3
+18782088,5,01-A113-03,01-A113-03 : Toluca → Santiago Tianguistenco,,3
+18782104,15,01-A125-05,01-A125-05 : Villa Cuauhtemoc → Terminal Toluca,,3
+18782127,15,01-A125-05,01-A125-05 : Terminal Toluca → Villa Cuauhtemoc,,3
+18782137,15,01-A125-06,01-A125-06 : San Pedro Arriba → Terminal Toluca,,3
+18782420,15,01-A125-06,01-A125-06 : Terminal Toluca → San Pedro Arriba,,3
+18785813,15,01-A125-07,01-A125-07 : Revolución → Terminal Toluca,,3
+18786512,16,01-A130-03,01-A130-03 : Toluca → San Lorenzo Oyamel,,3
+18786516,16,01-A130-03,01-A130-03 : San Lorenzo Oyamel → Toluca,,3
+18793997,16,01-A130-04,01-A130-04 : Xonacatlán → Otzolotepec,,3
+18794003,16,01-A130-04,01-A130-04 : Otzolotepec → Xonacatlán,,3
+18794052,16,01-A130-06,01-A130-06 : Álvaro Obregón → Terminal Toluca,,3
+18794130,16,01-A130-06,01-A130-06 : Terminal Toluca → Álvaro Obregón,,3
+18796176,16,01-A130-07,01-A130-07 : San Miguel Mimiapan → Xonacatlán,,3
+18796179,16,01-A130-05,01-A130-05 : La Capilla → Terminal Toluca,,3
+18796182,15,01-A125-09,01-A125-09 : Terminal Toluca por Isidro Fabela → Fábrica María,,3
+18796193,15,01-A125-07,01-A125-07 : Terminal Toluca → Revolución,,3
+18796202,15,01-A125-10,01-A125-10 : Terminal Toluca por Antiguo Camino → Villa Cuauhtemoc,,3
+18796207,10,01-A134-03,01-A134-03 : INFONAVIT San Francisco → C.U.,,3
+18796212,15,01-A125-11,01-A125-11 : Terminal Toluca por Villas Santín → Fábrica María,,3
+18796213,10,01-A134-03,01-A134-03 : C.U. → INFONAVIT San Francisco,,3
+18796214,10,01-A134-05,01-A134-05 : Las Palomas → Centro Toluca,,3
+18796215,16,01-A130-08,01-A130-08 : La Huanica por Santa Ana Jilotzingo → Xonacatlán,,3
+18796219,17,01-A134-06,01-A134-06 : Centro Cultural Mexiquense → Las Palomas,,3
+18796220,18,01-A134-04,01-A134-04 : INFONAVIT San Francisco → C.U.,,3
+18796222,18,01-A134-02,01-A134-02 : San Martín Toltepec → Toluca Centro,,3
+18796223,10,01-A134-09,01-A134-09 : Circuito → Tollocan Sur,,3
+18796224,15,01-A125-12,01-A125-12 : Terminal Toluca por Isidro Fabela → Fábrica María,,3
+18796226,10,01-A134-05,01-A134-05 : Centro Toluca → Las Palomas,,3
+18796227,17,01-A134-07,01-A134-07 : C.U. → San Pablo Autopan,,3
+18796228,16,01-A130-09,01-A130-09 : Xonacatlán → Xochicuautla por San Nicolás Peralta,,3
+18796233,12,01-A134-10,01-A134-10 : Rancho La Mora → Tienda ISSEMYM Toluca,,3
+18796234,12,01-A134-11,01-A134-11 : Circuito → Tollocan Norte,,3
+18796241,19,01-A134-12,01-A134-12 : San Pablo Autopan → Terminal,,3
+18796243,12,01-A134-11,01-A134-11 : Tollocan Norte → Circuito,,3
+18796244,19,01-A134-12,01-A134-12 : Terminal → San Pablo Autopan,,3
+18796245,17,01-A134-13,01-A134-13 : Terminal Toluca → Mercado Hidalgo,,3
+18796246,10,01-A134-09,01-A134-09 : Tollocan Sur → Circuito,,3
+18796247,17,01-A134-13,01-A134-13 : Mercado Hidalgo → Terminal Toluca,,3
+18796248,17,01-A134-07,01-A134-07 : San Pablo Autopan → C.U.,,3
+18796250,12,01-A134-10,01-A134-10 : Tienda ISSEMYM Toluca → Rancho La Mora,,3
+18796251,16,01-A130-10,01-A130-10 : Villa Cuauhtemoc → Central camionera por boulevard Miguel Alemán,,3
+18796252,18,01-A134-18,01-A134-18 : La Pilita → Centro Cultural Mexiquense,,3
+18796253,12,01-A134-14,01-A134-14 : C.U. → Barrio de Guadalupe,,3
+18796254,0,01-A134-21,01-A134-21 : Unidad habitacional Hank González → C.U.,,3
+18796264,17,01-A134-17,01-A134-17 : Terminal Toluca → La Pilita,,3
+18796267,16,01-A130-10,01-A130-10 : Central camionera por boulevard Miguel Alemán → Villa Cuauhtemoc,,3
+18796282,12,01-A134-22,01-A134-22 : San Antonio Buenavista → Barrio de Guadalupe,,3
+18796283,18,01-A134-18,01-A134-18 : Centro Cultural Mexiquense → La Pilita,,3
+18796291,12,01-A134-26,01-A134-26 : San Cristóbal Huichochitlán → Terminal Toluca,,3
+18796294,12,01-A134-26,01-A134-26 : Terminal Toluca → San Cristóbal Huichochitlán,,3
+18796301,12,01-A134-23,01-A134-23 : San Mateo Atenco → Parque Sierra Morelos,,3
+18796307,0,01-A134-29,01-A134-29 : C.U. → Unidad habitacional Carlos Hank González,,3
+18796308,19,01-A134-25,01-A134-25 : San Cristóbal Huichochitlán → C.U.,,3
+18796312,20,01-A136-01,01-A136-01 : La Crespa → Capultitlán,,3
+18796325,20,01-A136-01,01-A136-01 : Capultitlán → La Crespa,,3
+18796327,21,01-A136-02,01-A136-02 : La Crespa → Las Margaritas,,3
+18796329,0,01-A136-03B,01-A136-03B : Metepec por Pino Suárez → San Felipe,,3
+18796332,0,01-A136-06,01-A136-06 : La Crespa → Metepec,,3
+18796334,0,01-A136-03B,01-A136-03B : San Felipe → Metepec por Pino Suárez,,3
+18796342,16,01-A130-05,01-A130-05 : Terminal Toluca → La Capilla,,3
+18796372,22,01-A137-03,01-A137-03 : San Mateo Otzacatipan → Las Margaritas,,3
+18796407,22,01-A137-03,01-A137-03 : Las Margaritas → San Mateo Otzacatipan,,3
+18815999,22,01-A137-04,01-A137-04 : Capultitlán → La Cruz Comalco,,3
+18819389,19,01-A134-20,01-A134-20 : San Juan Tilapa → San Mateo Atenco,,3
+18819586,22,01-A137-09,01-A137-09 : San Ángel Inn → Seminario,,3
+18823412,19,01-A134-25,01-A134-25 : C.U. → San Cristóbal Huichochitlán,,3
+18823464,22,01-A137-09,01-A137-09 : Seminario → San Ángel Inn,,3
+18823543,5,01-A138-01,01-A138-01 : La Pilita → C.U.,,3
+18823559,20,01-A136-05,01-A136-05 : La Crespa → Las Margaritas,,3
+18823899,20,01-A136-05,01-A136-05 : Las Margaritas → La Crespa,,3
+18825286,10,01-A134-28,01-A134-28 : San Mateo Atenco → Metepec,,3
+18825302,23,01-A138-02,01-A138-02 : Tecnológico de Toluca → Santa Ana Tlapaltitlán,,3
+18825516,23,01-A138-02,01-A138-02 : Santa Ana Tlapaltitlán → Tecnológico de Toluca,,3
+18827294,23,01-A138-03,01-A138-03 : Santa María Totoltepec → San Mateo Oxtotitlán,,3
+18827306,23,01-A138-03,01-A138-03 : San Mateo Oxtotitlán → Santa María Totoltepec,,3
+18827318,5,01-A138-04,01-A138-04 : San Buenaventura → Central de abastoS por Boulevard,,3
+18827321,5,01-A138-04,01-A138-04 : Central de abastoS por Boulevard → San Buenaventura,,3
+18827377,5,01-A138-05,01-A138-05 : La Pilita → Tollocan,,3
+18827386,5,01-A138-05,01-A138-05 : Tollocan → La Pilita,,3
+18827432,5,01-A138-06,01-A138-06 : Centro Toluca por Torres → La Pilita,,3
+18836846,24,01-A152-05,01-A152-05 : San Marcos Yachihuacaltepec → Toluca Centro,,3
+18838435,23,01-A138-07,01-A138-07 : Santa María Totoltepec → Zinacantepec,,3
+18839451,24,01-A152-01,01-A152-01 : Terminal Toluca → C.U.,,3
+18839598,24,01-A152-06,01-A152-06 : La Pilita → C.U.,,3
+18839607,16,01-A130-07,01-A130-07 : Xonacatlán → San Miguel Mimiapan,,3
+18839794,24,01-A152-03,01-A152-03 : La Asunción → C.U. por Torres,,3
+18839833,21,01-A136-03,01-A136-03 : San Felipe → Metepec,,3
+18839904,24,01-A152-02,01-A152-02 : Toluca Centro por Cinco de mayo → La Pilita,,3
+18839951,24,01-A152-03,01-A152-03 : C.U. por Torres → La Asunción,,3
+18840028,24,01-A152-06,01-A152-06 : C.U. → La Pilita,,3
+18840226,24,01-A152-07,01-A152-07 : Las Margaritas → Santiago Miltepec,,3
+18840370,25,01-A137-01,01-A137-01 : Seminario → Toluca Centro,,3
+18840408,24,01-A152-04,01-A152-04 : C.U. → CODAGEM,,3
+18840447,24,01-A152-08,01-A152-08 : San Felipe Tlalmimilolpan → SEP,,3
+18840448,24,01-A152-09,01-A152-09 : ISSSTE → centro por Pino Suárez,,3
+18840449,24,01-A152-08,01-A152-08 : SEP → San Felipe Tlalmimilolpan,,3
+18840539,25,01-A137-01,01-A137-01 : Toluca Centro → Seminario,,3
+18840584,24,01-A152-12,01-A152-12 : C.U. → San Marcos Yachihuacaltepec,,3
+18840585,24,01-A152-10,01-A152-10 : Seminario → Santiago Miltepec,,3
+18840589,24,01-A152-10,01-A152-10 : Santiago Miltepec → Seminario,,3
+18840621,24,01-A152-11,01-A152-11 : Colonia Nuevo Progreso → Metepec,,3
+18840622,24,01-A152-12,01-A152-12 : San Marcos Yachihuacaltepec → C.U.,,3
+18840623,24,01-A152-13,01-A152-13 : Hospital Nicolás San Juan → Fraccionamiento Paseo del Valle,,3
+18840853,24,01-A152-13,01-A152-13 : Fraccionamiento Paseo del Valle → Hospital Nicolás San Juan,,3
+18840864,24,01-A152-11,01-A152-11 : Metepec → Colonia Nuevo Progreso,,3
+18840908,25,01-A137-02,01-A137-02 : La Pilita → C.U.,,3
+18840917,26,01-A153-05,01-A153-05 : La Concepción → Toluca,,3
+18840953,26,01-A153-03,01-A153-03 : Tenango del Valle → San Juan La Isla,,3
+18840954,26,01-A153-04,01-A153-04 : Calimaya → Tenango del Valle,,3
+18841006,26,01-A153-05,01-A153-05 : Toluca → La Concepción,,3
+18841007,26,01-A153-03,01-A153-03 : San Juan La Isla → Tenango del Valle,,3
+18841013,25,01-A137-02,01-A137-02 : C.U. → La Pilita,,3
+18841014,26,01-A153-08,01-A153-08 : Xalatlaco → Santiago Tianguistenco,,3
+18841019,26,01-A153-06,01-A153-06 : San Pedro Tlaltizapan → Santiago Tianguistenco,,3
+18841100,26,01-A153-08,01-A153-08 : Santiago Tianguistenco → Xalatlaco,,3
+18841117,26,01-A153-09,01-A153-09 : Santa Cruza de Bravo → Santiago Tianguistenco,,3
+18841218,26,01-A153-09,01-A153-09 : Santiago Tianguistenco → Santa Cruza de Bravo,,3
+18841295,26,01-A153-10,01-A153-10 : Santiago Tianguistenco → El Capulin,,3
+18841308,26,01-A153-11,01-A153-11 : San Juan Tomasaquillo → Santiago Tianguistenco,,3
+18841309,26,01-A153-10,01-A153-10 : El Capulin → Santiago Tianguistenco,,3
+18841318,26,01-A153-11,01-A153-11 : Santiago Tianguistenco → San Juan Tomasaquillo,,3
+18841338,26,01-A153-13,01-A153-13 : San Miguel de Ocampo → Tenango del Valle,,3
+18853746,26,01-A153-13,01-A153-13 : Tenango del Valle → San Miguel de Ocampo,,3
+18858644,26,01-A153-15,01-A153-15 : Toluca → Almoloya del Río,,3
+18864539,27,01-A137-05,01-A137-05 : Toluca Centro → Santa María Nativitas,,3
+18864603,27,01-A137-08,01-A137-08 : Almoloya de Juárez → La Pilita,,3
+18864665,27,01-A137-08,01-A137-08 : La Pilita → Almoloya de Juárez,,3
+18864804,25,01-A137-06,01-A137-06 : Almoloya de Juárez → Seminario,,3
+18864836,25,01-A137-06,01-A137-06 : Seminario → Almoloya de Juárez,,3
+18864927,26,01-A153-16,01-A153-16 : Santiago Tianguistenco → Tenango port Almoloya del Río,,3
+18869176,25,01-A137-07,01-A137-07 : CalIxtlahuaca → Seminario,,3
+18869177,28,01-A215-04,01-A215-04 : Capultitlán → San Mateo Otzacatipan,,3
+18869179,26,01-A153-16,01-A153-16 : Tenango port Almoloya del Río → Santiago Tianguistenco,,3
+18869183,5,01-A162-01,01-A162-01 : CRISA → Terminal Toluca,,3
+18869206,0,01-A215-11,01-A215-11 : Toluca por Zamarrero → San Miguel Almoloyan,,3
+18869212,24,01-A152-05,01-A152-05 : Toluca Centro → San Marcos Yachihuacaltepec,,3
+18869328,26,01-A153-12,01-A153-12 : Tenango del Valle → Monte de Pozos,,3
+18870107,29,01-A156-03,01-A156-03 : Las Margaritas → Santiago Tlaxomulco,,3
+18870163,25,01-A137-07,01-A137-07 : Seminario → CalIxtlahuaca,,3
+18870262,28,01-A215-09,01-A215-09 : Colonia Jiménez Gallardo → CalIxtlahuaca,,3
+18874306,23,01-A138-07,01-A138-07 : Zinacantepec → Santa María Totoltepec,,3
+18874432,23,01-A138-08,01-A138-08 : Tecnológico de Toluca → San Buenaventrua,,3
+18874474,26,01-A153-12,01-A153-12 : Monte de Pozos → Tenango del Valle,,3
+18874864,29,01-A156-02,01-A156-02 : San Marcos Yachihuacaltepec → Metepec,,3
+18874884,5,01-A162-01,01-A162-01 : Terminal Toluca → CRISA,,3
+18875061,29,01-A156-04,01-A156-04 : Hospital Nicolás San Juan → Seminario,,3
+18875182,28,01-A215-04,01-A215-04 : San Mateo Otzacatipan → Capultitlán,,3
+18878036,29,01-A156-02,01-A156-02 : Metepec → San Marcos Yachihuacaltepec,,3
+18878072,26,01-A153-14,01-A153-14 : Toluca vía Santiago Tilapa → Xalatlaco,,3
+18878108,29,01-A156-07,01-A156-07 : San Marcos → La Pila por Plaza Las Américas,,3
+18878110,29,01-A156-06,01-A156-06 : Tlaxomulco → Seminario,,3
+18878114,29,01-A156-07,01-A156-07 : La Pila por Plaza Las Américas → San Marcos,,3
+18878117,29,01-A156-09,01-A156-09 : San Diego de Los Padres → Terminal Toluca,,3
+18878119,29,01-A156-09,01-A156-09 : Terminal Toluca → San Diego de Los Padres,,3
+18878123,29,01-A156-08,01-A156-08 : Hospital Nicolás San Juan → Seminario,,3
+18878126,29,01-A156-03,01-A156-03 : Santiago Tlaxomulco → Las Margaritas,,3
+18878134,29,01-A156-06,01-A156-06 : Seminario → Tlaxomulco,,3
+18878138,29,01-A156-10,01-A156-10 : Colonia Hidalgo → Central de abastos por libramiento Bicentenario,,3
+18878146,29,01-A156-11,01-A156-11 : C.U. por vía Las Torres → Metepec,,3
+18878152,29,01-A156-12,01-A156-12 : San Marcos Yachihuacaltepec → Parque industrial Toluca 2000,,3
+18878155,5,01-A162-10,01-A162-10 : Toluca → Tenango,,3
+18878159,5,01-A162-10,01-A162-10 : Tenango → Toluca,,3
+18878160,29,01-A156-10,01-A156-10 : Central de abastos por libramiento Bicentenario → Colonia Hidalgo,,3
+18878161,29,01-A156-04,01-A156-04 : Seminario → Hospital Nicolás San Juan,,3
+18878164,5,01-A162-11,01-A162-11 : Xochiaca → Toluca,,3
+18878166,5,01-A162-16,01-A162-16 : Toluca → Chalma,,3
+18878167,3,01-A168-01,01-A168-01 : Tlachayola → Terminal Toluca,,3
+18878169,3,01-A168-02,01-A168-02 : Taborda → Terminal Toluca,,3
+18878171,29,01-A156-05,01-A156-05 : San Mateo Otzacatipan → Toluca Centro,,3
+18878173,3,01-A168-01,01-A168-01 : Terminal Toluca → Tlachayola,,3
+18878176,3,01-A168-03,01-A168-03 : San José La Costa → Terminal Toluca,,3
+18878179,3,01-A168-03,01-A168-03 : Terminal Toluca → San José La Costa,,3
+18878181,3,01-A168-02,01-A168-02 : Terminal Toluca → Taborda,,3
+18878183,29,01-A156-05,01-A156-05 : Toluca Centro → San Mateo Otzacatipan,,3
+18878186,3,01-A168-06,01-A168-06 : Terminal Toluca → Barrio de Balbuena,,3
+18878187,3,01-A168-04,01-A168-04 : Ranchería San Carlos → Terminal Toluca,,3
+18878191,29,01-A156-08,01-A156-08 : Seminario → Hospital Nicolás San Juan,,3
+18878193,3,01-A168-04,01-A168-04 : Terminal Toluca → Ranchería San Carlos,,3
+18878194,3,01-A168-07,01-A168-07 : Terminal Toluca → San Lorenzo Toxico,,3
+18878202,28,01-A215-03,01-A215-03 : La Pila → Centro por Torres,,3
+18878204,28,01-A215-03,01-A215-03 : Centro por Torres → La Pila,,3
+18878205,28,01-A215-05,01-A215-05 : Toluca Centro → Colonia Jiménez Gallardo,,3
+18878211,30,01-A215-08,01-A215-08 : La Pila → CalIxtlahuaca,,3
+18878212,28,01-A215-02,01-A215-02 : Santa María Nativitas → Toluca Centro,,3
+18878213,30,01-A215-08,01-A215-08 : CalIxtlahuaca → La Pila,,3
+18878216,28,01-A215-09,01-A215-09 : CalIxtlahuaca → Colonia Jiménez Gallardo,,3
+18878224,0,01-A215-08B,01-A215-08B : Plaza Las Américas → CalIxtlahuaca,,3
+18878225,29,01-A156-12,01-A156-12 : Parque industrial Toluca 2000 → San Marcos Yachihuacaltepec,,3
+18878234,28,01-A215-02,01-A215-02 : Toluca Centro → Santa María Nativitas,,3
+18878236,5,01-A162-11,01-A162-11 : Toluca → Xochiaca,,3
+18878246,0,01-A215-10,01-A215-10 : Toluca por Zamarrero → San Luis Mextepec,,3
+18878247,5,01-A162-16,01-A162-16 : Chalma → Toluca,,3
+18878252,0,01-A215-08B,01-A215-08B : CalIxtlahuaca → Plaza Las Américas,,3
+18878258,30,01-A215-06,01-A215-06 : Tecaxic → Seminario,,3
+18878268,30,01-A215-07,01-A215-07 : CalIxtlahuaca → Seminario,,3
+18878271,31,01-A168-05,01-A168-05 : Terminal Toluca → Salitre de Ma,,3
+18878279,30,01-A215-07,01-A215-07 : Seminario → CalIxtlahuaca,,3
+18910283,30,01-A215-06,01-A215-06 : Seminario → Tecaxic,,3
+18934075,28,01-A215-05,01-A215-05 : Colonia Jiménez Gallardo → Toluca Centro,,3
+18937710,3,01-A168-06,01-A168-06 : Barrio de Balbuena → Terminal Toluca,,3
+19093687,1,01-A011-01,01-A011-01 : Toluca → Santiago Tianguistenco por carretera México-Toluca,,3

@@ -1,0 +1,150 @@
+route_id,agency_id,route_short_name,route_long_name,route_color,route_type
+15257790,0,VME,Amarilla - Issste - Fovissste,fbe51d,3
+15489318,0,DCI,Amarilla - Infonavit - Central,fbe51d,3
+15489347,0,WWJ,Amarilla - Central - Infonavit,fbe51d,3
+15489349,0,GKM,Amarilla - Issste - Vista Hermosa,fbe51d,3
+15489350,1,GRC,Roja y Azul - Nicolás Romero - Tres Cruces,009fff,3
+15489351,1,BBJ,Roja y Azul - Las Canoas - Nicolás Romero,009fff,3
+15489352,2,WPA,Azul - Zitácuaro - Puente de San Miguel (por Moctezuma),0000ff,3
+15489359,0,UCK,Amarilla - Vista Hermosa - Infonavit,fbe51d,3
+15489361,0,NCE,Amarilla - Central - Infonavit - Alberca,fbe51d,3
+15489363,1,VJT,Roja y Azul - Tres Cruces - Nicolás Romero,009fff,3
+15489370,2,FZH,Azul - Las Peras - Zitácuaro,0000ff,3
+15489371,2,MSF,Azul - Zitácuaro - Pedregal,0000ff,3
+15489373,2,WET,Azul - Zitácuaro - Rincón de Ahorcados,0000ff,3
+15489374,2,CZJ,Azul - Rincón de Ahorcados - Zitácuaro,0000ff,3
+15489384,2,DWW,Azul - Rincón de Ex-Hacienda - Zitácuaro,0000ff,3
+15489386,2,UWW,Azul - Zitácuaro - Las Peras,0000ff,3
+15489390,0,GNW,Amarilla - Alberca - Infonavit - Central,fbe51d,3
+15489397,2,LEF,Azul - Seis Palos - Zitácuaro,0000ff,3
+15489423,3,UQO,Blanca - Zitácuaro - Mesa de Cedano (La Palma),8891ab,3
+15489428,4,GDN,Morada - Zaragoza - UPN,6409bc,3
+15489440,1,YXM,Roja y Azul - Nicolás Romero - Campamento,009fff,3
+15489443,2,GRI,Azul - Zitácuaro - Rincón de Ex-Hacienda,0000ff,3
+15489552,2,DXE,Azul - Zitácuaro - Copándaro,0000ff,3
+15489561,5,HOV,Rojo y Negro - Zitácuaro - Rincón de San Felipe,2e2a2a,3
+15489589,5,GUO,Rojo y Negro - Rincón de San Felipe - Zitácuaro,2e2a2a,3
+15503952,6,MHN,Verde - Zitácuaro - Puerto Azul (Rincón de Corungueo),3ba63b,3
+15503971,2,FVO,Azul - Zitácuaro - Seis Palos,0000ff,3
+15503978,1,SVP,Roja y Azul - Campamento - Nicolás Romero,009fff,3
+15504024,2,DTK,Azul - Copándaro - Zitácuaro,0000ff,3
+15504053,2,TEP,Azul - Pedregal - Zitácuaro,0000ff,3
+15504060,2,TMP,Azul - Zitácuaro - La Pera,0000ff,3
+15504152,2,RTZ,Azul - La Pera - Zitácuaro,0000ff,3
+15504158,2,NSC,Azul - Zitácuaro - Landeros,0000ff,3
+15504695,2,DDN,Azul - Landeros - Zitácuaro,0000ff,3
+15506144,2,HSV,Azul - La Palma - Zitácuaro,0000ff,3
+15506192,2,XBR,Azul - Zitácuaro - La Palma,0000ff,3
+15506193,2,OZG,Azul - Susupuato - Los Hoyos - El Tanque - Zitácuaro,0000ff,3
+15506215,3,LEI,Blanca - Zitácuaro - Mesa de Cedano (Hotel El Dorado),8891ab,3
+15506717,2,MSU,Azul - Zitácuaro - Salesiano-Hucaz,0000ff,3
+15506718,2,TZP,Azul - Salesiano-Hucaz - Zitácuaro,0000ff,3
+15506722,2,NJS,Azul - Puente de San Miguel (por Moctezuma) - Zitácuaro,0000ff,3
+15506727,6,NBM,Verde - Puerto Azul - Zitácuaro,3ba63b,3
+15506734,2,PAS,Azul - Central - Independencia (por Pueblita),0000ff,3
+15506739,7,LUM,Roja - Vicente Suárez - IMSS,ed3a3a,3
+15506740,7,YQV,Roja - IMSS - Mercadito,ed3a3a,3
+15506769,6,UIL,Verde - Piedras de Lumbre - Zitácuaro,3ba63b,3
+15506776,2,CPP,Azul - Central - Independencia (por Centro),0000ff,3
+15506782,6,NCX,Verde - Valle Verde (El Granejo) - Zitácuaro,3ba63b,3
+15506805,6,NIP,Verde - Zitácuaro - Piedras de Lumbre,3ba63b,3
+15506806,2,GLP,Azul - Central - Morelos (por Pueblita),0000ff,3
+15506829,6,QQT,Verde - Valle Verde (Corungueo) - Zitácuaro,3ba63b,3
+15506834,7,PFR,Roja - Mercadito - IMSS,ed3a3a,3
+15506839,2,DQM,Azul - Zitácuaro - El Tanque - Los Hoyos - Susupuato,0000ff,3
+15506844,8,IOD,Naranja - Barandillas - La Palma,f47e2b,3
+15506856,9,NNS,Guinda - Las Lomas - Zitácuaro,a41333,3
+15506858,8,FHK,Naranja - Gas - Central,f47e2b,3
+15506859,8,NEC,Naranja - Central - Gas,f47e2b,3
+15506879,10,BSC,Café - CORREGIDORA ESQ. NICOLÁS ROMERO (SAN MIGUEL) -,703d0d,3
+15506889,10,VPP,Café - MÉXICO 68 -,703d0d,3
+15506895,9,SXJ,Guinda - Zitácuaro - La Palma,a41333,3
+15506896,8,XXL,Naranja - La Palma - Barandillas,f47e2b,3
+15506921,10,QGP,Café - CORREGIDORA ESQ. NICOLÁS ROMERO (SAN MIGUEL) -,703d0d,3
+15506928,10,UPJ,Café - MÉXICO 68 -,703d0d,3
+15506962,11,CDV,Dorada y Marrón - Centro - Las Rosas,ce9c0a,3
+15518868,0,PHN,Amarilla - Fovissste - Issste,fbe51d,3
+15530520,9,IWE,Guinda - Zitácuaro - Zirahuato (Colectivo foráneo A),a41333,3
+15530522,11,OXY,Dorada y Marrón - Centro - Las Rosas,ce9c0a,3
+15530536,3,RRV,Blanca - Zitácuaro - El Polvorín (ICATMI),8891ab,3
+15530561,8,EAW,Naranja - Circuito Revolución -,f47e2b,3
+15530563,3,VLX,Blanca - Tecnológico - Zitácuaro,8891ab,3
+15530564,3,SRM,Blanca - Zitácuaro - Coatepec de Morelos (San Pancho),8891ab,3
+15530577,9,GAO,Guinda - Zitácuaro - Zirahuato (Colectivo foráneo B),a41333,3
+15530582,3,FUI,Blanca - PROLONGACION DE MORELOS ESQ. JULIA NAMNO -,8891ab,3
+15530583,3,QBJ,Blanca - Zitácuaro - Loma Larga,8891ab,3
+15530586,10,DTG,Café - MÉXICO 68 -,703d0d,3
+15530609,3,CSU,Blanca - Zitácuaro - San Mateo (Crescencio Morales),8891ab,3
+15530612,3,JOD,Blanca - Mesa de San Felipe - Zitácuaro,8891ab,3
+15530613,0,QZR,Amarilla - CARR. A ZITACUARO - Amarilla,fbe51d,3
+15530622,6,VSH,Verde - Zitácuaro - Puerto Azul,3ba63b,3
+15530626,9,QTI,Guinda - Zitácuaro - Los Zapotes,a41333,3
+15530653,12,GHG,verde - Puerto Azul - Zitácuaro,3ba63b,3
+15530656,3,UWP,Blanca - Zitácuaro - Crescencio Morales,8891ab,3
+15530667,3,FTO,Blanca - Crescencio Morales - Zitácuaro,8891ab,3
+15530671,13,UTP,Rosa - Mesa de Cedano (La Palma) - Zitácuaro,dd49af,3
+15530674,3,MDO,Blanca - Donaciano Ojeda - Zitácuaro,8891ab,3
+15530694,13,ACP,Rosa - Mesa de Cedano (Hotel El Dorado) - Zitácuaro,dd49af,3
+15530720,9,YKD,Guinda - Zirahuato - Zitácuaro (Colectivo Foráneo B),a41333,3
+15530758,0,BFX,Amarilla - PABLO NERUDA ESQ. GRAL. PUEBLITA - Amarilla,fbe51d,3
+15530768,3,BPG,Blanca - Zitácuaro - Donaciano Ojeda,8891ab,3
+15530776,4,TSM,"Morada - EN EL ESTACIONAMIENTO DE LA FERIA , FRENTE ALA UPN - Morada",6409bc,3
+15530790,0,JKW,Amarilla - CALLE SIN NOMBRE COL. NUEVO AMANECER HASTA SU BASE FRENTE A LA IGLESIA - Amarilla,fbe51d,3
+15530808,0,FPF,Amarilla - PABLO NERUDA ESQ. GRAL. PUEBLITA - Amarilla,fbe51d,3
+15530862,4,TXR,"Morada - EN EL ESTACIONAMIENTO DE LA FERIA , FRENTE ALA UPN - Morada",6409bc,3
+15530863,3,NNV,Blanca - JOSE MA. COSS OTE. HASTA SU BASE ESQUINA CON LEANDRO VALLE SUR -,8891ab,3
+15530880,4,RLK,Morada - EN LA CALLE MORELOS LOCALIDAD LA ENCARNACIONA UN COSTADO DE CARR. FED. ZITACUARO - TUZANTLA -,6409bc,3
+15530888,2,ZXB,Azul - CUAUHTÉMOC FRENTE A CENTRO COMERCIAL AURRERÁ -,0000ff,3
+15530889,9,MIY,Guinda - La Palma - Zitácuaro,a41333,3
+15530890,3,AST,Blanca - Lázaro Cárdenas y Moctezuma - Mesa de Cedano,8891ab,3
+15530896,2,JVN,Azul - CUAUHTÉMOC FRENTE A CENTRO COMERCIAL AURRERÁ -,0000ff,3
+15530897,10,BBM,Café - CORREGIDORA ESQ. NICOLÁS ROMERO (SAN MIGUEL) -,703d0d,3
+15530932,2,QVW,Azul - VICENTE GUERRERO HASTA SU BASE FRENTE A LA PLAZA -,0000ff,3
+15530934,11,KQT,Dorada y Marrón - Las Rosas - Centro,ce9c0a,3
+15530939,11,QMK,Dorada y Marrón - Las Rosas - Centro,ce9c0a,3
+15530946,2,LWH,Azul - CUAUHTÉMOC FRENTE A CENTRO COMERCIAL AURRERÁ -,0000ff,3
+15530955,2,OJX,Azul - TERRACERIA (JENGUARO) -,0000ff,3
+15530956,2,AFR,Azul - DR. EMILIO GARCIA ENTRE CUAUHTEMOC Y SANTOS DEGOLLADO -,0000ff,3
+15530971,2,YNP,Azul - GONZÁLEZ ORTEGA PTE. ESQ. MANUEL DOBLADO -,0000ff,3
+15530992,2,FKI,Azul - CIUDAD DE LA INDEPENDENCIA ESQUINA PLAN DE AYALA -,0000ff,3
+15530996,2,JRR,Azul - GONZÁLEZ ORTEGA PTE. ESQ. MANUEL DOBLADO -,0000ff,3
+15531008,6,GZQ,Verde - MOCTEZUMA ORIENTE -,3ba63b,3
+15531009,9,RKP,Guinda - Zitácuaro - La Encarnación,a41333,3
+15531011,14,WWY,Roja y Negra - Zitácuaro - San Felipe - Macutzio,2e2a2a,3
+15531023,6,WRP,Verde - PROLONGACIÓN CALLE CRESCENCIO MORALES PONIENTE -,3ba63b,3
+15531281,3,GGB,Blanca - Salesiano - Centro - Cerrito (Circuito),8891ab,3
+15531328,3,ASL,Blanca - Central - Degollado (Circuito),8891ab,3
+15531332,13,SZH,"Rosa - Mesa de Cedano - Lázaro Cárdenas, esq. Moctezuma",dd49af,3
+15532570,9,WRW,Guinda - Zirahuato - Zitácuaro (Colectivo Foráneo A),a41333,3
+15532820,6,ZBY,Verde - PROLONGACIÓN CALLE CRESCENCIO MORALES PONIENTE -,3ba63b,3
+15532957,6,TLN,Verde - Zitácuaro - Valle Verde (Corungueo),3ba63b,3
+15532967,2,GIL,"Azul - AV. INDEPENDENCIA HASTA LA BASE EN ESQUINA SOR JUAN INÉS DE LA CRUZ, COL. INDEPENDENCIA -",0000ff,3
+15537689,13,HBG,Rosa - Zitácuaro - Lienzo Charro,dd49af,3
+15543571,13,JDV,Rosa - Lienzo Charro - Zitácuaro,dd49af,3
+15551255,6,SRR,Verde - MOCTEZUMA ORIENTE -,3ba63b,3
+15551481,3,DCT,Blanca - Zitácuaro - Tecnológico,8891ab,3
+15553486,3,RNH,Blanca - Toma de Agua - Zitácuaro,8891ab,3
+15553535,3,KDZ,Blanca - Zitácuaro - Mesa de San Felipe,8891ab,3
+15553573,14,EEW,Roja y Negra - Macutzio - San Felipe - Zitácuaro,2e2a2a,3
+15553574,6,RXG,Verde - Zitácuaro - Valle Verde (El Granejo),3ba63b,3
+15553613,3,UBI,Blanca - Loma Larga - Zitácuaro,8891ab,3
+15553633,3,EXN,Blanca - Zitácuaro - El Escobal,8891ab,3
+15553656,2,VLP,Azul - TERRACERIA HASTA SU BASE EN EL AGUACATE. -,0000ff,3
+15553724,3,PJQ,Blanca - El Escobal - Zitácuaro,8891ab,3
+15553803,3,UBT,Blanca - Zitácuaro - Toma de Agua,8891ab,3
+15553817,3,FDL,Blanca - Zitácuaro - Manzanillos,8891ab,3
+15553844,15,WIU,Coral - Coral - Coral,f66c5e,3
+15554578,3,PRW,Blanca - Manzanillos - Zitácuaro,8891ab,3
+15589308,2,QKU,Azul - Central - Morelos (por Centro),0000ff,3
+15589323,3,WYL,Blanca - Zitácuaro - Emiliano Zapata,8891ab,3
+15589333,3,AWH,Blanca - Emiliano Zapata - Zitácuaro,8891ab,3
+15594038,1,XAV,Roja y Azul - Nicolás Romero - El Cerezo,009fff,3
+15594040,1,ZJU,Roja y Azul - El Cerezo - Nicolás Romero,009fff,3
+15594042,3,MQN,Blanca - El Polvorín (ICATMI) - Zitácuaro,8891ab,3
+15594049,3,XGW,Blanca - San Mateo (Crescencio Morales) - Zitácuaro,8891ab,3
+15594053,9,TFE,Guinda - La Encarnación - Zitácuaro,a41333,3
+15597215,6,DAA,Verde - Puerto Azul (Rincón de Corungueo) - Zitácuaro,3ba63b,3
+15597755,16,NEP,Azul Cielo - Pueblo Nuevo - Zitácuaro,79c4da,3
+15597759,16,BVF,Azul Cielo - Zitácuaro - Pueblo Nuevo,79c4da,3
+15597762,9,UJB,Guinda - Zitácuaro - Las Lomas,a41333,3
+15597782,7,AQA,Roja - IMSS - Vicente Suárez,ed3a3a,3

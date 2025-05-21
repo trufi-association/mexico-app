@@ -1,0 +1,87 @@
+route_id,agency_id,route_short_name,route_long_name,route_color,route_type
+17706527,0,AM1,AM1 : Acanto → Centro,f2cb30,3
+17775421,0,AM1,AM1 : Centro → Acanto,f2cb30,3
+17775434,0,AM2,AM2 : Atacheo → Centro,f2cb30,3
+17777588,0,AM2,AM2 : Centro → Atacheo,f2cb30,3
+17777601,0,AM3,AM3 : El Vergel → Centro,f2cb30,3
+17777607,0,AM3,AM3 : Centro → El Vergel,f2cb30,3
+17777616,0,AM4,AM4 : La Ladera → Centro,f2cb30,3
+17828754,0,AM4,AM4 : Centro → La Ladera,f2cb30,3
+17830100,0,AM7,AM7 : Centro → IMSS Romero,f2cb30,3
+17830101,0,AM5,AM5 : Centro → Linda Vista,f2cb30,3
+17830117,0,AM7,AM7 : IMSS Romero → Centro,f2cb30,3
+17830125,0,AM6,AM6 : Centro → Monte Olivo,f2cb30,3
+17830138,0,AM5,AM5 : Linda Vista → Centro,f2cb30,3
+17830143,0,AZ1,AZ1 : Centro → Central Camionera,70b2e3,3
+17830144,0,AZ1,AZ1 : Central Camionera → Centro,70b2e3,3
+17830149,0,AZ2,AZ2 : Central Camionera → Centro → IMSS,70b2e3,3
+17830154,0,AZ2,AZ2 : IMSS → Centro → Central Camionera,70b2e3,3
+17830170,0,AZ3,AZ3 : Central Camionera → IMSS Romero,70b2e3,3
+17830196,0,AM6,AM6 : Monte Olivo → Centro,f2cb30,3
+17830200,0,CF1,CF1 : UNIVA Jacona → La Pradera,945a31,3
+17830211,0,CF1,CF1 : La Pradera → UNIVA Jacona,945a31,3
+17830215,0,CF2,CF2 : IMSS Romero → Panteón Jacona,945a31,3
+17830224,0,CF2,CF2 : Panteón Jacona → IMSS Romero,945a31,3
+17830236,0,CF3,CF3 : Trasierra → 5 de mayo → Valencia,945a31,3
+17830241,0,CF4,CF4 : Lomas Universidad → Torcazas,945a31,3
+17830243,0,CF3,CF3 : Valencia → Valle → Trasierra,945a31,3
+17830286,0,CF5,CF5 : Valencia → Valle → Trasierra,945a31,3
+17830328,0,CF4,CF4 : Torcazas → Lomas Universidad,945a31,3
+17830377,0,CF5,CF5 : Trasierra → Dr. Verduzco → Valencia,945a31,3
+17830378,0,GR1,GR1 : Valencia → Libramiento,7e858a,3
+17830387,0,MR1,MR1 : San Joaquín → Río Nuevo,5d22a6,3
+17830388,0,GR1,GR1 : Libramiento → Valencia,7e858a,3
+17830390,0,MR1,MR1 : Río Nuevo → San Joaquín,5d22a6,3
+17830512,0,NR1,NR1 : La Planta → Valencia,e4821e,3
+17831913,0,NR1,NR1 : Valencia → La Planta,e4821e,3
+17831914,0,RJ1,RJ1 : Ario de Rayón → Central Camionera,c22922,3
+17831926,0,RJ2,RJ2 : Central Camionera → El Llano → Chavinda,c22922,3
+17831927,0,NR2,NR2 : Tamándaro → Valencia,e4821e,3
+17831928,0,RJ3,RJ3 : Central Camionera → El Tepehuaje,c22922,3
+17831931,0,RJ1,RJ1 : Central Camionera → Ario de Rayón,c22922,3
+17831933,0,RJ3,RJ3 : El Tepehuaje → Central Camionera,c22922,3
+17831935,0,NR2,NR2 : Valencia → Tamándaro,e4821e,3
+17831936,0,RJ4,RJ4 : Central Camionera → La Esperanza,c22922,3
+17831944,0,RJ4,RJ4 : La Esperanza → Central Camionera,c22922,3
+17832001,0,RJ6,RJ6 : Ex-Hacienda → La Libertad,c22922,3
+17832003,0,RJ2,RJ2 : Chavinda → El Llano → Central Camionera,c22922,3
+17832011,0,RJ5,RJ5 : Magallanes → La Cuestita → Central Camionera,c22922,3
+17832012,0,RJ8,RJ8 : Lopez Mateos → Central Camionera → Ex-Hacienda,c22922,3
+17832021,0,RJ6,RJ6 : La Libertad → Ex-Hacienda,c22922,3
+17832027,0,RJ5,RJ5 : Central Camionera → Magallanes → La Cuestita,c22922,3
+17832033,0,RJ8,RJ8 : Ex-Hacienda → Central Camionera → Lopez Mateos,c22922,3
+17832036,0,RS1,RS1 : Bosque → Palo Alto,d26eb7,3
+17832037,0,RJ9,RJ9 : Central Camionera → San Juan Palmira → Chavinda,c22922,3
+17832040,0,RJ9,RJ9 : Chavinda → San Juan Palmira → Central Camionera,c22922,3
+17832053,0,RS1,RS1 : Palo Alto → Bosque,d26eb7,3
+17832057,0,RS2,RS2 : Centro → Central Camionera → Chaparaco,d26eb7,3
+17832067,0,RJ7,RJ7 : Abastos Canindo → Central Camionera → Lopez Mateos,c22922,3
+17832085,0,RS3,RS3 : San Joaquín → Circunvalación,d26eb7,3
+17832220,0,RS2,RS2 : Chaparaco → Central Camionera → Centro,d26eb7,3
+17832531,0,RS5,RS5 : Ario de Rayón (La Libertad) → Opeño,d26eb7,3
+17832545,0,RS6,RS6 : Central Camionera → Rancho Nuevo,d26eb7,3
+17832555,0,RS4,RS4 : Centro → Ex-Hacienda,d26eb7,3
+17832575,0,RS3,RS3 : Circunvalación → San Joaquín,d26eb7,3
+17832597,0,AZ3,AZ3 : IMSS Romero → Central Camionera,70b2e3,3
+17832604,0,EN1,EN1 : La Rinconada → Arboledas,958b26,3
+17832613,0,EN2,EN2 : Centro → Central Camionera → Chaparaco,958b26,3
+17832614,0,RS4,RS4 : Ex-Hacienda → Centro,d26eb7,3
+17832615,0,VR1,VR1 : Libramiento → Palo Alto,93ba2c,3
+17832627,0,RS5,RS5 : Opeño → Ario de Rayón (La Libertad),d26eb7,3
+17832666,0,EN3,EN3 : Ex-Hacienda → Centro,958b26,3
+17832667,0,EN2,EN2 : Chaparaco → Central Camionera → Centro,958b26,3
+17832669,0,EN3,EN3 : Centro → Ex-Hacienda,958b26,3
+17832739,0,RJ7,RJ7 : Lopez Mateos → Central Camionera → Abastos Canindo,c22922,3
+17832742,0,EN5,EN5 : Central Camionera → Rancho Nuevo,958b26,3
+17832743,0,VR1,VR1 : Palo Alto → Libramiento,93ba2c,3
+17832751,0,EN5,EN5 : Rancho Nuevo → Central Camionera,958b26,3
+17832755,0,EN1,EN1 : Arboledas → La Rinconada,958b26,3
+17832772,0,VD1,VD1 : Centro → Altamira,3d6d31,3
+17832773,0,EN4,EN4 : Centro → Generalísimo Morelos,958b26,3
+17832781,0,VD2,VD2 : Ario de Rayón → Centro,3d6d31,3
+17832783,0,VD3,VD3 : Centro → Valle Dorado,3d6d31,3
+17832795,0,VD3,VD3 : Valle Dorado → Centro,3d6d31,3
+17832808,0,VD2,VD2 : Centro → Ario de Rayón,3d6d31,3
+17835104,0,VD1,VD1 : Altamira → Centro,3d6d31,3
+17835173,0,RS6,RS6 : Rancho Nuevo → Central Camionera,d26eb7,3
+17992169,0,EN4,EN4 : Generalísimo Morelos → Centro,958b26,3

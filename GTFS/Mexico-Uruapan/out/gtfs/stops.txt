@@ -1,0 +1,2001 @@
+stop_id,stop_name,stop_lat,stop_lon
+1600426554,Portal Guzmán y Avenida Emilio Carranza y Calle Juan Ayala,19.4212901,-102.0649074
+1850744429,Portal Guzmán y Portal Carrillo y Calle Manuel Ocaranza,19.4209842,-102.0638395
+1850744430,Portal Carrillo y Portal Matamoros y Calle Cupatitzio,19.4207016,-102.0628031
+1824647328,Portal Matamoros y Calle Álvaro Obregón y Calle 5 de Febrero y Portal Degollado,19.4203885,-102.0617508
+1824647323,Calle Álvaro Obregón y Calle Aldama y Calle Nicolás Romero,19.4200748,-102.0606745
+1978328220,Calle Aldama y Calle José María Morelos,19.4190907,-102.0609975
+1978328201,Calle Aldama y Calle Nicolás Bravo,19.4180826,-102.0613283
+1833353269,Calle Nicolás Bravo y Avenida Las Américas y Calle Miguel Silva,19.4177908,-102.0602732
+6740353256,Avenida Las Américas,19.4170398,-102.0594552
+1978328183,Avenida Las Américas y Avenida 5 de Mayo,19.4167956,-102.0584462
+1978328166,Avenida Las Américas,19.4165138,-102.057454
+8425287156,Avenida Las Américas,19.4162332,-102.0564501
+1978328156,Avenida Las Américas y Prolongación Acapulco,19.4158935,-102.0553373
+1978328148,Avenida Las Américas,19.415423,-102.0535683
+1978328144,Avenida Las Américas y Calle Mazatlán,19.4151754,-102.0526372
+1978328167,Calle Mazatlán y Calle José María Morelos,19.4166454,-102.0522022
+1978328202,Calle Mazatlán y Calle Francisco Sarabia,19.4180897,-102.0517848
+1237001844,Calle Francisco Sarabia y Calle Paseo General Lázaro Cárdenas,19.4179072,-102.0507801
+8407312921,Calle Paseo General Lázaro Cárdenas,19.418877,-102.049937
+1854525969,Calle Paseo General Lázaro Cárdenas y Prolongación Jalisco,19.4197708,-102.0492098
+3611321958,Calle Paseo General Lázaro Cárdenas,19.4205967,-102.048275
+6736366469,Calle Paseo General Lázaro Cárdenas y Calle Monterrey,19.4215112,-102.0479203
+7222610071,Calle Paseo General Lázaro Cárdenas,19.4228655,-102.047737
+2979747149,Calle Paseo General Lázaro Cárdenas y Calle Moctezuma,19.4245062,-102.0479967
+6760662129,Innominada,19.4253822,-102.0480328
+6732898549,Calzada Benito Juárez,19.425512,-102.0457564
+6769581289,Calzada Benito Juárez,19.4255444,-102.04451
+297699338,Calzada Benito Juárez y Avenida del Cerro,19.4257938,-102.0431639
+3588281167,Calzada Benito Juárez,19.4260444,-102.0421942
+8503553956,Calzada Benito Juárez,19.426484,-102.0407981
+3611324230,Calzada Benito Juárez,19.4270301,-102.0388542
+1941818884,Calzada Benito Juárez y 5a. Cerrada,19.4275748,-102.0369755
+6644604556,Calzada Benito Juárez,19.42799,-102.0357532
+6644565080,Calzada Benito Juárez,19.4283421,-102.0346069
+8496640885,Calzada Benito Juárez y Calle Hermanos López Rayón,19.4286631,-102.0335603
+3588505494,Calzada Benito Juárez y Lázaro Cárdenas,19.4291909,-102.031883
+8478475066,Calzada Benito Juárez,19.4297296,-102.0300328
+6813224126,Calzada Benito Juárez,19.4300035,-102.0291115
+1236968090,Calzada Benito Juárez,19.4304134,-102.0279383
+8478024106,Calzada Benito Juárez,19.4309361,-102.0268992
+1236968117,Calzada Benito Juárez,19.4316284,-102.0256366
+3171491278,Libramiento Oriente,19.4304973,-102.0251155
+3588282257,Libramiento Oriente,19.4293906,-102.0251504
+6828075906,Libramiento Oriente,19.4284421,-102.0251772
+1414760784,Libramiento Oriente y Camino a La Cofradía,19.4296586,-102.0250235
+3588282259,Camino a La Cofradía,19.4298965,-102.0238522
+3588282261,Camino a La Cofradía,19.4305137,-102.0231146
+3588321993,Camino a La Cofradía,19.4310424,-102.0217074
+3588282263,Camino a La Cofradía,19.4317272,-102.0209179
+6813224086,Camino a La Cofradía,19.4322949,-102.0200416
+8478272888,Camino a La Cofradía,19.4328155,-102.0191154
+3588282267,Camino a La Cofradía,19.4337406,-102.0178065
+5237280562,Avenida Revelero,19.4336077,-102.0170076
+8478264695,Avenida Revelero,19.4327877,-102.0161113
+5237280563,Avenida Revelero,19.4316568,-102.0161482
+5237280548,Avenida Revelero,19.4305717,-102.0162352
+3588282310,Avenida Revelero y Calle Bendita,19.4291952,-102.0163633
+3588282312,Calle Bendita,19.4292777,-102.0175185
+3588282308,Calle La Cofradía y Calle Piedra Ancha,19.4303458,-102.0178159
+3588282313,Calle Piedra Ancha,19.430285,-102.0170586
+1600414474,Avenida Anillo de Circunvalación,19.4297214,-102.0755768
+4600289331,Avenida Anillo de Circunvalación,19.4305993,-102.0753723
+6591902286,Callejón de los Magueyes,19.4312979,-102.07479
+3589042045,Calzada Fray Juan de San Miguel,19.4307716,-102.0738072
+6820602741,Calzada Fray Juan de San Miguel,19.4298194,-102.0731351
+1177822840,Calzada La Quinta,19.428615,-102.0729769
+3590272542,Calzada La Quinta,19.4277554,-102.0725049
+1177821913,Calzada La Quinta y Calle Lago 1,19.4265531,-102.0720255
+1177822355,Calzada La Quinta y Calle Pino Suárez,19.4254542,-102.0715228
+3590272575,Calzada La Quinta y Avenida Independencia,19.424216,-102.0710275
+1824641188,Calzada La Quinta y Avenida Emilio Carranza,19.4231843,-102.0713785
+3616872254,Avenida Emilio Carranza y Calle Rafaél M. Vega,19.4228325,-102.0702891
+1863504383,Avenida Emilio Carranza,19.422525,-102.069252
+1863504391,Avenida Emilio Carranza,19.4222258,-102.0681571
+1863504378,Avenida Emilio Carranza,19.4219161,-102.0670857
+1863504389,Avenida Emilio Carranza,19.4216108,-102.0660241
+1824647332,Calle Álvaro Obregón,19.4197804,-102.0596605
+1850625709,Calle Álvaro Obregón y Avenida 5 de Mayo,19.4192118,-102.0577022
+1850625711,Calle Álvaro Obregón,19.4189094,-102.0566336
+8425287158,Calle Álvaro Obregón y Calle Francisco Sarabia,19.4186496,-102.0556115
+1850699104,Calle Francisco Sarabia y Calle Yucatán y Prolongación Acapulco,19.4184428,-102.0545317
+1854493752,Calle Francisco Sarabia y Calle Sinaloa,19.418307,-102.0535732
+6806551771,Calle Francisco Sarabia,19.418146,-102.0522582
+1600465728,Calle Francisco Sarabia,19.4179867,-102.050968
+1978328200,Calzada La Fuente,19.4179756,-102.0500191
+3611321954,Calzada La Fuente,19.4178547,-102.0487482
+1600442906,Calzada La Fuente,19.417732,-102.0474583
+1600442949,Calzada La Fuente y Boulevard Industrial y Avenida Lázaro Cárdenas,19.4175909,-102.0465155
+5237252310,Calzada La Fuente,19.4174099,-102.0454138
+3150773660,Calzada La Fuente,19.417231,-102.0444542
+1600442896,Calzada La Fuente y Calle Bugambilia y Calle Macarena,19.4169781,-102.0430729
+3150265717,Calzada La Fuente,19.4167844,-102.0418915
+3150773652,Calzada La Fuente,19.4165771,-102.04062
+1600442964,Calzada La Fuente,19.4164076,-102.0396229
+3150265708,Calzada La Fuente,19.4162597,-102.0386446
+3596797638,Calzada La Fuente,19.4161876,-102.0376521
+1600442933,Calzada de la Fuente,19.4161547,-102.0365913
+1600442891,Calzada de la Fuente,19.4161699,-102.0355212
+1600442963,Calzada de la Fuente,19.4164261,-102.0344792
+1600443004,Calzada de la Fuente,19.4166513,-102.0335485
+3596797833,Calzada de la Fuente,19.4164165,-102.0324835
+1600442934,Calzada de la Fuente,19.4157791,-102.0303726
+1600442945,Calzada de la Fuente,19.4152504,-102.0295921
+3596797837,Calzada de la Fuente,19.4141627,-102.0285521
+3596797842,Calzada de la Fuente,19.4131149,-102.0275772
+3596797860,Calzada de la Fuente,19.412459,-102.0265224
+1414760854,Calzada de la Fuente y Calzada Gabriel Cervera y Libramiento Oriente,19.4119007,-102.0256137
+3610729409,Calzada Gabriel Cervera,19.411225,-102.0247502
+1941889920,Calzada Gabriel Cervera y Calle General Cristóbal Limón,19.4105141,-102.0240884
+3610729403,Calle General Manuel M. Santos,19.4096888,-102.0237014
+3610729399,Calle General Manuel M. Santos,19.4089221,-102.0231837
+1941889947,Calle General Manuel M. Santos,19.4081595,-102.0226642
+3610729438,Calle Plan de Ayala,19.4072653,-102.0224918
+3600822666,Calle Plan de Ayala,19.4065599,-102.0231342
+3600822664,Calle Plan de Ayala,19.4057118,-102.0238839
+3600822657,Calle Plan de Ayala y Calle Tulipán,19.4048778,-102.0245986
+3600822672,Calle Tulipán,19.4041646,-102.0236729
+3600822678,Calle Tulipán,19.4034799,-102.0226994
+6644662916,Calle Tulipán,19.4027982,-102.0217842
+3616657385,Calle Tulipán,19.4020223,-102.0206811
+3600822698,Calle Tulipán,19.4013241,-102.0196994
+3616872028,Camino Viejo a Tejerias y Calle de la Vid,19.3995017,-102.0198538
+3600822724,Calle de la Vid,19.3989492,-102.0190149
+3600822651,Calle de la Vid,19.3982391,-102.0180188
+3588282303,Avenida Revelero,19.4302051,-102.016261
+5237280571,Avenida Revelero,19.4312914,-102.0161883
+3588282300,Avenida Revelero,19.4323239,-102.016061
+5237280554,Avenida Revelero,19.4332366,-102.0166055
+3588282296,Camino a La Cofradía y Avenida Revelero,19.4340355,-102.0173231
+3616872473,Camino a La Cofradía y Camino Viejo a la Cofradía,19.4330453,-102.0188033
+8478272881,Camino Viejo a la Cofradía,19.4340296,-102.0187962
+3588321676,Camino Viejo a la Cofradía,19.4348731,-102.0182745
+3588321674,Camino Viejo a la Cofradía y Carretera Pátzcuaro-Uruapan,19.4355253,-102.0188794
+8478475059,Carretera Pátzcuaro-Uruapan,19.434859,-102.0198913
+6828075937,Carretera Pátzcuaro-Uruapan,19.4343628,-102.02076
+6813224153,Carretera Pátzcuaro-Uruapan,19.4333353,-102.0226116
+6828658676,Calzada Benito Juárez,19.4328814,-102.0234975
+6828658677,Calzada Benito Juárez,19.4324309,-102.0243472
+1414760837,Libramiento Oriente,19.4317295,-102.0249475
+4747906494,Calzada Benito Juárez,19.4316551,-102.0259022
+1236968098,Calzada Benito Juárez,19.4309601,-102.0273219
+6813224137,Calzada Benito Juárez,19.4303847,-102.0285223
+3616872388,Calzada Benito Juárez y Calle Gustavo Díaz Ordaz,19.4296061,-102.0310441
+3588505501,Calzada Benito Juárez y Calle Adolfo López Mateos,19.4290905,-102.032727
+8506317439,Calzada Benito Juárez,19.4285651,-102.034387
+3588505542,Calzada Benito Juárez,19.4281413,-102.035753
+6751310910,Innominada,19.4277581,-102.036716
+6751310908,Innominada,19.4274645,-102.0376404
+3588505578,Calzada Benito Juárez,19.4271965,-102.038913
+3588505584,Calzada Benito Juárez,19.4267918,-102.0402258
+6732783628,Calzada Benito Juárez,19.4263841,-102.041677
+6769581286,Calzada Benito Juárez,19.4259928,-102.0430444
+3588505616,Calzada Benito Juárez y Avenida Paseo de la Cima,19.4257087,-102.044486
+3588505645,Calzada Benito Juárez y Calle Loma Larga,19.425641,-102.0457399
+1236968044,Calzada Benito Juárez,19.4257045,-102.0473532
+1405971231,Calzada Benito Juárez y Paseo General Lázaro Cárdenas,19.4258152,-102.0485498
+3588505723,Calzada Benito Juárez,19.4259598,-102.05001
+3588505728,Calzada Benito Juárez y Prolongación Michoacán,19.4260201,-102.0510532
+3588505737,Calzada Benito Juárez y Prolongación Sinaloa,19.4261051,-102.0520118
+8505806758,Calzada Benito Juárez,19.4261984,-102.0529623
+1236968049,Calzada Benito Juárez,19.4263754,-102.0545453
+3588505786,Calzada Benito Juárez,19.427184,-102.0572518
+3589041395,Calzada Benito Juárez,19.4278275,-102.0593755
+3616872339,Calzada Benito Juárez,19.4281212,-102.0603237
+6724936201,Calzada Benito Juárez y Juan Delgado,19.4284544,-102.0614336
+1600426540,Calzada Benito Juárez y Calle Juan Ayala,19.4287702,-102.0625175
+3616872323,Calle Juan Ayala,19.4275158,-102.0629237
+3590272584,Calle Juan Ayala,19.4265298,-102.06328
+1978328282,Calle Juan Ayala,19.4255032,-102.063627
+1978328276,Calle Juan Ayala y Calle Isaac Arriaga,19.4244416,-102.0639685
+1978328262,Calle Juan Ayala y Calle Pino Suárez,19.4234203,-102.0642722
+1854760261,Calle Juan Ayala y Avenida Independencia,19.422344,-102.0645921
+1850744465,Portal Guzmán,19.4211168,-102.0643042
+3588505530,Calle Hermanos López Rayón,19.4270315,-102.0331552
+8496640886,Calle Hermanos López Rayón,19.4284158,-102.0334066
+3588505553,Calzada Benito Juárez,19.4277669,-102.0369807
+3588505577,Calzada Benito Juárez,19.4274805,-102.0379283
+1833353237,Calle Cupatitzio y Calle José María Morelos y Calle Francisco I. Madero,19.4196905,-102.0631182
+1456891659,Calle Cupatitzio y Calle Nicolás Bravo,19.4186818,-102.0634674
+1833353271,Calle Cupatitzio,19.4177196,-102.0637646
+1824647322,Calle Cupatitzio y Avenida Benito Juárez,19.4167485,-102.0640708
+3616657636,Calle Cupatitzio,19.4155221,-102.0644869
+1983214829,Calle Cupatitzio y Calle Abasolo,19.413767,-102.0650433
+1983214917,Calle Cupatitzio,19.412807,-102.0653478
+1824641190,Calle Cupatitzio y Calle Licenciado Primo Verdad,19.4117936,-102.0656679
+4149853614,Calle Cupatitzio,19.410389,-102.0661758
+8433660383,Calle Cupatitzio,19.409252,-102.0665169
+3592234077,Calle Cupatitzio,19.4078595,-102.0668097
+12106845547,Calle Cupatitzio,19.4069188,-102.066878
+1854760275,Calle Cupatitzio,19.4055261,-102.0665662
+3592234050,Calle Casa del Niño,19.4040319,-102.0666179
+1854799165,Calle Casa del Niño,19.4030948,-102.0668211
+1854799119,Calle Casa del Niño y Calle Alejandrina,19.4023105,-102.0674729
+3592234060,Calle Alejandrina,19.4027459,-102.0684814
+3592234055,Calle Alejandrina,19.4031487,-102.0693416
+4598743325,Calle Alejandrina,19.4036675,-102.070425
+8451925767,Avenida Tinto Fino,19.40458,-102.0718104
+4598743336,Avenida Tinto Fino,19.4054356,-102.0727725
+4598743403,Avenida Tinto Fino,19.4060078,-102.0738155
+6838547424,Avenida Tinto Fino,19.4063721,-102.0747176
+4598743341,Avenida Tinto Fino,19.4063987,-102.0747461
+3590272564,Calle Delicias y Calle Justo Sierra,19.4306935,-102.0700802
+3590272568,Calle Delicias,19.4301925,-102.0690587
+3590272571,Calle Delicias,19.4297217,-102.0680051
+6754198934,Pradera,19.4292161,-102.0671967
+3590272557,Calle Justo Sierra y Calle Revolución,19.428506,-102.0662506
+1863504394,Calle Revolución y Calzada Benito Juárez,19.4296786,-102.0659005
+1863504384,Calzada Benito Juárez y Prolongación Felipe Carrillo Puerto,19.4293614,-102.064861
+1863504387,Calzada Benito Juárez,19.4289667,-102.0636228
+1600426534,Calle Juan Ayala y Calzada Benito Juárez,19.4286804,-102.0625474
+1600426483,Calzada Benito Juárez y Calle Juan Delgado y Juan Delgado,19.4283571,-102.0614653
+1854760238,Calzada Benito Juárez,19.4280348,-102.0604218
+1854760265,Calzada Benito Juárez,19.4277228,-102.0593995
+1854760286,Calzada Benito Juárez y Prolongación Nicolás Romero y Calle Nicolás Romero,19.4273239,-102.0581045
+3590272696,Calzada Benito Juárez,19.4269092,-102.0567617
+1236968045,Calzada Benito Juárez y Calle Francisco Villa y Prolongación Francisco Villa,19.4263885,-102.0550509
+3616872297,Calzada Benito Juárez,19.4261836,-102.0539033
+6737194898,Calzada Benito Juárez,19.4260855,-102.0528934
+1854493760,Calzada Benito Juárez y Calle Michoacán y Prolongación Michoacán,19.4259071,-102.0510677
+1854493742,Calzada Benito Juárez,19.4258412,-102.0500298
+6725250019,Calzada Benito Juárez,19.4256945,-102.0490651
+12124488039,Calle Paseo General Lázaro Cárdenas,19.425088,-102.0483632
+2010117936,Calle Paseo General Lázaro Cárdenas,19.4236069,-102.0479076
+2013194384,Calle Paseo General Lázaro Cárdenas,19.4223889,-102.0478995
+6736366470,Calle Paseo General Lázaro Cárdenas,19.420918,-102.0481557
+1854526013,Calle Paseo General Lázaro Cárdenas,19.4200111,-102.0491803
+1854526009,Calle Paseo General Lázaro Cárdenas,19.418917,-102.0501365
+1600465692,Calle Paseo General Lázaro Cárdenas y Calle Francisco Sarabia,19.418079,-102.0507511
+1833353233,Calle Paseo General Lázaro Cárdenas y Calle José María Morelos,19.4164007,-102.0512628
+1833353265,Calle Paseo General Lázaro Cárdenas y Avenida Las Américas,19.4150134,-102.0516589
+1853562329,Calle Paseo General Lázaro Cárdenas,19.4135987,-102.0520593
+1853562334,Calle Paseo General Lázaro Cárdenas,19.4123268,-102.0524204
+1853562333,Calle Paseo General Lázaro Cárdenas,19.4112825,-102.0527181
+1853562340,Calle Paseo General Lázaro Cárdenas y Calle Jesús González Ortega,19.4103273,-102.0529904
+1853562339,Calle Paseo General Lázaro Cárdenas y Calle Gran Parada,19.409244,-102.0532993
+1853562338,Calle Paseo General Lázaro Cárdenas,19.4078751,-102.0536928
+1237001852,Calle Paseo General Lázaro Cárdenas,19.4066212,-102.0540655
+2010106124,Calle Paseo General Lázaro Cárdenas,19.4052051,-102.0545636
+2010109000,Calle Paseo General Lázaro Cárdenas,19.4040608,-102.0548921
+2010109584,Calle Paseo General Lázaro Cárdenas y Calle París,19.402854,-102.0552148
+2013194302,Calle Paseo General Lázaro Cárdenas y Calle Roma,19.4016934,-102.0555086
+6909588976,Calle Paseo General Lázaro Cárdenas,19.4005072,-102.0558725
+2010120430,Calle Paseo General Lázaro Cárdenas,19.3993361,-102.0562014
+3598932011,Calle Paseo General Lázaro Cárdenas y Avenida Estocolmo,19.3981441,-102.0565185
+2013194285,Calle Paseo General Lázaro Cárdenas,19.3969783,-102.0568737
+2013194283,Calle Paseo General Lázaro Cárdenas y Glorieta Agrobiología,19.3960945,-102.0571351
+9347487310,Avenida Paseo de la Revolución,19.3948843,-102.0575273
+1854775979,Avenida Paseo de la Revolución y Plan de San Luis,19.3934515,-102.0579308
+3598932020,Avenida Paseo de la Revolución,19.3922994,-102.0582709
+3598932024,Avenida Paseo de la Revolución,19.391269,-102.0585479
+3598932026,Avenida Paseo de la Revolución,19.3901299,-102.0588677
+8474946905,Avenida Paseo de la Revolución,19.3890492,-102.0591578
+1237001837,Avenida Paseo de la Revolución,19.3879873,-102.0593456
+6935214588,Avenida Paseo de la Revolución,19.3868063,-102.0594184
+2013197614,Avenida Paseo de la Revolución,19.3856945,-102.0594811
+8523043178,Avenida Paseo de la Revolución,19.3842914,-102.0595981
+3598932250,Avenida Paseo de la Revolución,19.3832214,-102.0596476
+2013197609,Avenida Paseo de la Revolución,19.3817848,-102.0596864
+8321823413,Avenida Paseo de la Revolución,19.3808736,-102.0596651
+2013197606,Avenida Paseo de la Revolución,19.3796835,-102.0597863
+6821357597,Avenida Paseo de la Revolución,19.3782836,-102.0598513
+2013197601,Avenida Paseo de la Revolución,19.3770218,-102.0599204
+6821357598,Avenida Paseo de la Revolución,19.3761487,-102.0597533
+11254752464,Avenida Paseo de la Revolución,19.3750743,-102.0588712
+6821357595,Avenida Paseo de la Revolución,19.3737223,-102.0578196
+6928162027,Avenida Paseo de la Revolución,19.3726549,-102.0569887
+3599133713,Avenida Paseo de la Revolución,19.3709281,-102.0556552
+1985956887,Innominada,19.3702072,-102.0550085
+8523742120,Libramiento Oriente,19.3708711,-102.0544135
+6879379523,Libramiento Oriente,19.3718885,-102.0537361
+3599133734,Libramiento Oriente,19.3730377,-102.0529569
+3616871638,Libramiento Oriente,19.3738772,-102.0523957
+3599646289,Libramiento Oriente,19.3746855,-102.0518755
+3599646294,Libramiento Oriente,19.375589,-102.0509566
+1414760879,Libramiento Oriente,19.3762952,-102.0499154
+1414760763,Libramiento Oriente y Calle Ricardo Flores Magón,19.3771832,-102.04868
+1414760855,Libramiento Oriente,19.3779193,-102.0478413
+1414760764,Libramiento Oriente,19.3786543,-102.0472518
+3616657148,Calle Profesor Enrique Flores Magón,19.3783752,-102.0457592
+3616657150,Calle Enrique Aguilar y Avenida Juan Martínez,19.3784763,-102.0449647
+3599646449,Avenida Juan Martínez y Avenida Erandeni y Avenida Quirindavara,19.3777553,-102.0436381
+3599646401,Avenida Quirindavara y Profesor Jorge Orozco A.,19.3791427,-102.0428824
+3599646551,Profesor Jorge Orozco A.,19.3782174,-102.0412347
+3599133647,Profesor Jorge Orozco A.,19.377603,-102.0402647
+3599646491,Profesor Jorge Orozco A. y Tamakua,19.377183,-102.0392051
+3616657144,Tamakua,19.3781255,-102.038776
+3616657167,Tamakua y Calle Francisco Javier Loza y Calle Bosque de San Juan,19.3793101,-102.038206
+3616657165,Calle Francisco Javier Loza,19.3789925,-102.0370246
+3599646664,Calle Francisco Javier Loza,19.3787452,-102.0358059
+3599646686,Callejón Antonio Sosa Perdomo,19.3792222,-102.0352574
+3616657209,Callejón Antonio Sosa Perdomo y Camino Viejo a Santa Rosa,19.3825469,-102.0345275
+3616657208,Camino Viejo a Santa Rosa,19.3823423,-102.0335158
+3616657207,Camino Viejo a Santa Rosa,19.3821457,-102.0325032
+3616657206,Camino Viejo a Santa Rosa,19.3819444,-102.031495
+1414760857,Libramiento Oriente,19.4128844,-102.0252714
+1414760810,Libramiento Oriente,19.4137886,-102.0251776
+3610905568,Libramiento Oriente,19.4150211,-102.0251536
+3610905575,Libramiento Oriente y Prolongación Carrillo Puerto,19.4167929,-102.0251993
+3616657656,Prolongación Carrillo Puerto,19.4163667,-102.0237887
+3616657649,Prolongación Carrillo Puerto,19.4160141,-102.022626
+3610905581,Prolongación Carrillo Puerto,19.4156155,-102.0213986
+3616872156,Prolongación Carrillo Puerto y Andador Frans Halls,19.4152743,-102.0203527
+3610905613,Andador Frans Halls,19.4163285,-102.0204677
+3610905599,Andador Frans Halls,19.4173986,-102.0205815
+3610905595,Andador Frans Halls,19.4182967,-102.0207826
+3616872192,Calle José Clemente Orozco y Calle Leonardo Da Vinci,19.418697,-102.0200823
+3616872216,Calle Leonardo Da Vinci y Calzada Salvador Dalí,19.4199517,-102.0200166
+3616872213,Calzada Salvador Dalí,19.4199074,-102.0188847
+8477784190,Calzada La Presa,19.4216566,-102.0180814
+8477784187,Calzada La Presa,19.4227342,-102.0179392
+8477784186,Calzada La Presa y Boulevard Industrial,19.4239737,-102.0179889
+8474706120,Boulevard Industrial y Avenida Villamar,19.4243428,-102.0145538
+8474706119,Avenida Villamar,19.420732,-102.0145074
+8474706117,Avenida Villamar,19.4196721,-102.0145449
+8474681510,Avenida Villamar,19.4184946,-102.014557
+8474681512,Avenida Villamar,19.4175599,-102.0145302
+3611251677,Avenida Villamar,19.4165367,-102.0144242
+3611251671,Avenida Villamar,19.4154147,-102.0144027
+3611251659,Avenida Villamar,19.4143592,-102.0143107
+3611251655,Avenida Villamar,19.4134745,-102.0143384
+4691668890,Calle Aldama,19.4170994,-102.061651
+1926707089,Calle Aldama y Avenida Benito Juárez,19.4161081,-102.0620223
+1926707087,Avenida Benito Juárez,19.4157722,-102.0609234
+6806511360,Avenida Benito Juárez,19.4154419,-102.0598154
+8424801575,Avenida Benito Juárez,19.4151585,-102.0588858
+1824647324,Avenida Benito Juárez y Manuel Perez Coronado y Avenida Francisco Villa,19.4145187,-102.0568395
+1926707071,Manuel Perez Coronado,19.4135914,-102.0571465
+1926707064,Manuel Perez Coronado,19.4125989,-102.0574943
+1926707059,Manuel Perez Coronado y Calle Jesús González Ortega,19.4115976,-102.0578041
+1926707053,Manuel Perez Coronado y Calle Gran Parada,19.4105496,-102.0581225
+2013194355,Manuel Perez Coronado,19.40966,-102.0583892
+4691668904,Manuel Perez Coronado,19.4086681,-102.0586568
+1850627904,Manuel Perez Coronado,19.4077441,-102.0589197
+1850744432,Manuel Perez Coronado,19.4068795,-102.059185
+1850744499,Manuel Perez Coronado,19.4050113,-102.0586434
+8478415321,Manuel Perez Coronado,19.4038803,-102.0586605
+2013194322,Calle París,19.4033756,-102.0571131
+2013194316,Calle París,19.4031211,-102.0561812
+6925437524,Libramiento Oriente,19.3800657,-102.0463064
+1414760779,Libramiento Oriente,19.3813133,-102.0454747
+8499836802,Libramiento Oriente,19.3829214,-102.0444295
+2029265497,Libramiento Oriente y Camino Viejo a Santa Rosa,19.3837629,-102.0438773
+8496355311,Libramiento Oriente,19.3848509,-102.0431718
+8496392617,Libramiento Oriente,19.385732,-102.0426004
+6821211437,Libramiento Oriente,19.387371,-102.0415353
+8522935635,Libramiento Oriente,19.3887337,-102.0406405
+6896975957,Libramiento Oriente,19.3905098,-102.0394801
+1414760842,Libramiento Oriente,19.3952953,-102.0363983
+8557061639,Libramiento Oriente,19.3961335,-102.0358637
+8523766630,Libramiento Oriente,19.3976256,-102.03488
+8523766635,Libramiento Oriente,19.3984457,-102.0343402
+1822482812,Avenida San Francisco Uruapan,19.3987687,-102.0322986
+1822482850,Avenida San Francisco Uruapan,19.3986929,-102.0313759
+1822482836,Avenida San Francisco Uruapan,19.3972001,-102.0291443
+1822482849,Avenida San Francisco Uruapan y Melchor Muzquiz,19.3959542,-102.0271712
+1822482826,Avenida San Francisco Uruapan,19.3952855,-102.026235
+1822482819,Avenida San Francisco Uruapan,19.3946327,-102.0252425
+1822482818,Avenida San Francisco Uruapan,19.3939497,-102.0243319
+1822482841,Avenida San Francisco Uruapan,19.3932757,-102.0233667
+1822482825,Avenida San Francisco Uruapan,19.3926386,-102.022389
+1895543645,Avenida San Francisco Uruapan y Calle Manuel Ávila Camacho,19.391902,-102.0210579
+3600713824,Avenida San Francisco Uruapan,19.3914837,-102.0201502
+1895543607,Avenida San Francisco Uruapan,19.3912392,-102.0188228
+6912966529,Avenida San Francisco Uruapan,19.3911103,-102.0176355
+1824611980,Avenida San Francisco Uruapan y Calle Río Volga,19.3905314,-102.0164718
+3599671535,Calle Río Volga,19.3891413,-102.0167056
+3599671539,Calle Río Volga,19.3879997,-102.0170165
+3599671499,Calle Río Volga,19.3869277,-102.016848
+3616871659,Callejón Antonio Sosa Perdomo,19.3796228,-102.0351765
+3616657156,Calle Francisco Javier Loza y Callejón Antonio Sosa Perdomo,19.3786632,-102.0354038
+3599646660,Calle Francisco Javier Loza,19.3789121,-102.0366227
+3616657166,Calle Francisco Javier Loza,19.379155,-102.0378547
+3599646630,Tamakua,19.3784807,-102.0386035
+6927998911,Tamakua y Avenida Santa Rosa,19.3772956,-102.0391448
+3599646626,Avenida Santa Rosa,19.3777407,-102.0401759
+6925443712,Avenida Lago de Pátzcuaro,19.3783268,-102.0411756
+6925443713,Avenida Lago de Pátzcuaro,19.378987,-102.0424267
+3616657126,Calle Profesor Enrique Flores Magón,19.3777327,-102.0445775
+3599646347,Calle Profesor Enrique Flores Magón,19.3789251,-102.0469782
+1414760819,Libramiento Oriente,19.3783455,-102.0476946
+1414760809,Libramiento Oriente,19.3776155,-102.0484071
+3599133058,Libramiento Oriente,19.3768742,-102.0494476
+8523256034,Libramiento Oriente,19.3758237,-102.0509088
+1414760833,Libramiento Oriente,19.3751751,-102.0516633
+3616871640,Libramiento Oriente,19.3739141,-102.0525987
+3599133599,Libramiento Oriente,19.3729977,-102.0532096
+3599133603,Libramiento Oriente,19.3721631,-102.0537643
+1414760765,Libramiento Oriente,19.3705786,-102.0548882
+8528033096,Avenida Paseo de la Revolución,19.3709655,-102.0555136
+6641266804,Avenida Paseo de la Revolución,19.372071,-102.0563569
+3598932228,Avenida Paseo de la Revolución,19.3733242,-102.0573109
+8527092387,Avenida Paseo de la Revolución,19.3741097,-102.0579224
+8523873872,Avenida Paseo de la Revolución,19.3756844,-102.0591442
+1237001822,Avenida Paseo de la Revolución,19.3765639,-102.0596834
+6407266054,Avenida Paseo de la Revolución,19.377605,-102.0597582
+6407266053,Avenida Paseo de la Revolución,19.378876,-102.0597137
+2013197607,Avenida Paseo de la Revolución,19.380654,-102.059523
+2013197610,Avenida Paseo de la Revolución,19.3817698,-102.059524
+8523873867,Avenida Paseo de la Revolución,19.3831238,-102.0594987
+3598932425,Avenida Paseo de la Revolución,19.3840387,-102.0594559
+3598932234,Avenida Paseo de la Revolución,19.3856666,-102.0593525
+3598932232,Avenida Paseo de la Revolución,19.386789,-102.0592927
+3598932231,Avenida Paseo de la Revolución,19.3879133,-102.0592543
+3598932199,Avenida Paseo de la Revolución y Calle Hermanos Flores Magón,19.389005,-102.0589896
+3588250094,Avenida Paseo de la Revolución y Calle Lázaro Cárdenas,19.390103,-102.058739
+8474651174,Avenida Paseo de la Revolución,19.3911634,-102.0584701
+2730522298,Avenida Paseo de la Revolución,19.3923233,-102.0581209
+8460870639,Avenida Paseo de la Revolución y Plan de San Luis,19.393341,-102.057831
+6407266046,Avenida Paseo de la Revolución,19.3944765,-102.0574622
+6879762058,Avenida Paseo de la Revolución y Glorieta Agrobiología,19.3956159,-102.0571229
+6879762052,Calle Paseo General Lázaro Cárdenas,19.3965119,-102.0568067
+2011814299,Calle Paseo General Lázaro Cárdenas y Avenida Estocolmo,19.3980975,-102.056332
+2013194291,Calle Paseo General Lázaro Cárdenas,19.39928,-102.0559957
+6909588980,Calle Paseo General Lázaro Cárdenas,19.4003269,-102.0556895
+2013194300,Calle Paseo General Lázaro Cárdenas y Calle Roma,19.4016338,-102.055309
+2010119287,Calle Paseo General Lázaro Cárdenas,19.4027842,-102.0549784
+2010119264,Calle Paseo General Lázaro Cárdenas,19.4039882,-102.0546589
+2010117992,Calle Paseo General Lázaro Cárdenas,19.4051464,-102.0543107
+1237001824,Calle Paseo General Lázaro Cárdenas,19.4061958,-102.0540094
+8556826668,Calle Paseo General Lázaro Cárdenas,19.4072199,-102.0536755
+2013194347,Calle Paseo General Lázaro Cárdenas y Calle Gran Parada,19.409188,-102.0530959
+6810246325,Calle Paseo General Lázaro Cárdenas y Calle Jesús González Ortega,19.4102729,-102.0527771
+6810246326,Calle Paseo General Lázaro Cárdenas,19.4112273,-102.0524967
+1850625716,Calle Paseo General Lázaro Cárdenas y Avenida Benito Juárez,19.412838,-102.0520234
+6810246323,Calle Paseo General Lázaro Cárdenas,19.4142169,-102.0516222
+6591917294,Calle Paseo General Lázaro Cárdenas y Calle José María Morelos,19.4163355,-102.0509997
+1853612080,Calle Francisco Sarabia y Calle Paseo General Lázaro Cárdenas y Calzada la Fuente,19.4178737,-102.0505817
+1405971218,Paseo General Lázaro Cárdenas,19.4254216,-102.0482629
+3588505714,Calzada Benito Juárez,19.4258688,-102.0490466
+3589041465,Calzada Benito Juárez,19.4291151,-102.0636183
+3589041490,Calzada Benito Juárez,19.4294879,-102.06481
+3589041599,Calzada Benito Juárez y Calle Revolución,19.4298191,-102.065846
+3616872342,Prolongación Felipe Carrillo Puerto,19.4281899,-102.0652221
+3590272583,Prolongación Felipe Carrillo Puerto y Calle Lerdo de Tejada,19.4271557,-102.0655243
+3616872322,Calle Lerdo de Tejada y Calle Revolución,19.4274505,-102.0665913
+3616872331,Calle Lerdo de Tejada,19.4277578,-102.0676298
+3590272582,Calle Lerdo de Tejada y Alonso de la Rea,19.4280753,-102.0686758
+6591902840,Privada Manuel Chávez,19.4287929,-102.0692884
+3616872386,Privada Manuel Chávez,19.4295094,-102.0698907
+3590272548,Privada Manuel Chávez y Calle Justo Sierra,19.4304083,-102.0700707
+2011819562,Andador Molino del Rey y Calle Niza,19.3937516,-102.0489925
+3588250115,Calle Batallón de Morelos y Calle Luxemburgo,19.394442,-102.0485434
+6821358470,Calle Batallón de Morelos,19.3939731,-102.0477761
+3596916295,Calle Tipitín,19.3930205,-102.0480296
+3596916323,Prolongación Antonio Talavera y Andador Molino del Rey,19.3927364,-102.0491523
+3596916348,Andador Alvarado y Calle Doctor Juan de Alvarado,19.3927105,-102.0499125
+6641240957,Calle Doctor Juan de Alvarado,19.3930685,-102.0508647
+3598932037,Calle Doctor Juan de Alvarado,19.3933304,-102.0518705
+3596916353,Calle Doctor Juan de Alvarado y Calle Cuba,19.3937175,-102.0534758
+3598932036,Calle Cuba,19.3927902,-102.0535523
+3598932079,Plan de San Luis,19.3923761,-102.0540071
+3616657275,Plan de San Luis,19.3926331,-102.0549276
+3598932053,Plan de San Luis,19.3928902,-102.0558652
+8460870640,Plan de San Luis,19.3933589,-102.0577251
+2013194306,Calle Roma,19.4019673,-102.0565159
+2013194310,Calle Roma,19.4022234,-102.0574427
+3598931993,Manuel Perez Coronado,19.402466,-102.0583554
+2010109583,Calle París y Manuel Perez Coronado,19.4037716,-102.0586269
+2013143603,Calle Efren Capiz y Norte,19.4035003,-102.059408
+3588250153,Norte,19.4033746,-102.0604306
+6879651370,Norte,19.4030706,-102.0613155
+6879651352,Norte,19.4031842,-102.0622238
+3588250144,Norte,19.4036256,-102.063085
+3592374639,Calle Norte,19.4042848,-102.0638731
+3588250139,Calle Norte,19.4049677,-102.0644703
+3588250136,Calle Norte,19.404821,-102.0653715
+1854760268,Norte,19.4052596,-102.06629
+1854760271,Calle Cupatitzio,19.4070819,-102.0668129
+1983214716,Calle Cupatitzio,19.4083725,-102.0666511
+6823929808,Calle Cupatitzio,19.4096078,-102.0663437
+2013140040,Calle Cupatitzio,19.4109853,-102.0659199
+1824641191,Calle Licenciado Primo Verdad y Calle Manuel Ocaranza,19.4120972,-102.0667253
+1983214929,Calle Manuel Ocaranza,19.4131056,-102.06641
+1983214975,Calle Manuel Ocaranza y Calle Abasolo,19.4140543,-102.0660676
+1824641183,Calle Manuel Ocaranza,19.4150599,-102.065743
+1983215100,Calle Manuel Ocaranza y Calle Caracol,19.4160591,-102.0654526
+8478069726,Calle Manuel Ocaranza,19.4171615,-102.0650536
+1824641181,Calle Manuel Ocaranza,19.4180497,-102.0648474
+1978328218,Calle Manuel Ocaranza,19.4190336,-102.0644845
+1978328237,Calle Manuel Ocaranza y Calle Francisco I. Madero,19.4199894,-102.0641589
+1978328239,Calle Francisco I. Madero,19.4202955,-102.0652247
+1978328240,Calle Francisco I. Madero,19.4206172,-102.0663444
+1978328241,Calle Francisco I. Madero y Calle Miguel Treviño,19.4209309,-102.0674455
+1978328232,Calle Miguel Treviño,19.419898,-102.067721
+1983215208,Calle Miguel Treviño,19.4190559,-102.0680488
+1895543639,Calle Miguel Treviño y Calle Jesús García,19.4188871,-102.0692711
+4691668867,Prolongación Agustín Melgar,19.4185255,-102.0701367
+1983215206,Prolongación Agustín Melgar y Anillo de Circunvalación,19.4189475,-102.0714972
+3590272743,Prolongación Agustín Melgar,19.419245,-102.0725658
+4691668940,Prolongación Agustín Melgar,19.4196253,-102.0735055
+4702871376,Prolongación Agustín Melgar,19.4199524,-102.0746266
+3590385112,Prolongación Agustín Melgar,19.4204802,-102.0754051
+4600289058,Prolongación Agustín Melgar y Calle Mariano Matamoros,19.4209232,-102.0763392
+4600289289,Calle Mariano Matamoros,19.4211063,-102.0770147
+3610729680,Jacona,19.4079191,-102.0097746
+3616657522,Calle Pátzcuaro,19.4087249,-102.0100039
+3610729682,Calle Pátzcuaro,19.4089714,-102.0111645
+3610729681,Calle Pátzcuaro y Camino a Tejerías,19.4092498,-102.0123495
+5237280525,Felix Rodríguez de la Fuente y Avenida de las Torres,19.408883,-102.0138462
+3616657499,Avenida de las Torres,19.4080266,-102.0139307
+3610729506,Apatzingán,19.4072579,-102.0147009
+6804163839,Calle Los Pinos,19.4072158,-102.0158726
+3610729492,Calle Los Pinos,19.407169,-102.0174927
+3616657485,Manuel M. Santos,19.4073568,-102.0190693
+3616872079,Manuel M. Santos y Calle Cueramo,19.4074047,-102.020236
+3616657510,Calle Cueramo,19.4082875,-102.0200098
+1895543626,Calle Cueramo y Calzada Gabriel Cervera,19.4094212,-102.0196323
+3610903390,Calzada Gabriel Cervera,19.4096685,-102.020618
+3610729414,Calzada Gabriel Cervera,19.4098922,-102.0216138
+3610729410,Calzada Gabriel Cervera y Calle Amado Aguirre,19.4102456,-102.0233802
+3610729407,Calzada Gabriel Cervera,19.4108543,-102.0244134
+1895543653,Calzada Gabriel Cervera,19.4115798,-102.0250727
+1600442953,Calzada de la Fuente,19.4149089,-102.02923
+3596797835,Calzada de la Fuente,19.4155501,-102.0299163
+3596797671,Calzada de la Fuente,19.4162634,-102.0319524
+8414270604,Calzada de la Fuente,19.4165375,-102.0328981
+8427202108,Calzada de la Fuente,19.4165677,-102.0339179
+3150773646,Calzada de la Fuente,19.4162407,-102.0352019
+3150773645,Calzada de la Fuente,19.4161559,-102.0362306
+1600465694,Calzada La Fuente y Calzada de la Fuente y Costa Rica,19.4161787,-102.0372686
+3150773666,Costa Rica,19.4175315,-102.0370184
+1853612083,Costa Rica y Calle República de Honduras,19.418549,-102.0368609
+3150773699,Calle República de Honduras,19.41874,-102.037982
+3150773702,Calle República de Honduras y Calle Río Lerma,19.418921,-102.0390346
+3150773707,Calle República de Honduras,19.4191118,-102.0402056
+3150773711,Calle República de Honduras,19.4192952,-102.0413294
+6783727850,Calle República de Honduras y Calle Macarena,19.4194937,-102.0425813
+3150773720,Calle República de Honduras y Boulevard Industrial,19.4196759,-102.0435999
+1854526000,Boulevard Industrial y Prolongación Jalisco,19.4192712,-102.0444998
+6591917301,Prolongación Jalisco,19.4194192,-102.0460622
+3625996952,Prolongación Jalisco,19.4195242,-102.0470224
+3611321955,Prolongación Jalisco,19.4196873,-102.0484735
+1237001832,Calle Paseo General Lázaro Cárdenas,19.4195052,-102.0496939
+1850699121,Calle Francisco Sarabia,19.4181742,-102.0517601
+1854493713,Calle Francisco Sarabia y Calle Sinaloa,19.4183867,-102.0535509
+1600465687,Calle Francisco Sarabia y Calle Yucatán,19.4185282,-102.0545022
+1978328193,Prolongación Acapulco y Calle José María Morelos,19.4173657,-102.0548988
+1978328195,Calle José María Morelos y Avenida Francisco Villa,19.417635,-102.0559248
+1978328199,Calle José María Morelos,19.4179105,-102.0569573
+1978328204,Calle José María Morelos y Avenida 5 de Mayo,19.4182422,-102.0579977
+1978328214,Calle José María Morelos y Calle Miguel Silva,19.4187941,-102.0599488
+1978328224,Calle José María Morelos y Calle 5 de Febrero,19.4193826,-102.0620295
+3633028563,Calle Portal Mercado,19.4210216,-102.0622057
+1850781291,Calle Portal Mercado,19.4213112,-102.0633017
+1850744501,Calle Melchor Ocampo y Avenida Independencia y Calle Donato Guerra,19.4221474,-102.0638614
+1978328256,Avenida Independencia y Calle Aquiles Serdán,19.4226674,-102.0657015
+1978328258,Avenida Independencia,19.4229776,-102.0667659
+1978328260,Avenida Independencia,19.4232902,-102.0678333
+1978328264,Avenida Independencia,19.4235871,-102.0688814
+3616872263,Avenida Independencia y Calle Rafaél M. Vega,19.4239166,-102.0699651
+3590272534,Calzada La Quinta,19.4299043,-102.0725739
+1177822675,Calzada La Quinta,19.4310043,-102.0723045
+4452048191,Calzada La Quinta,19.4320055,-102.0728137
+6754262871,Calzada La Quinta,19.4327129,-102.0740587
+6799581180,Innominada,19.4334208,-102.0746197
+4691667165,Avenida Anillo de Circunvalación,19.4327892,-102.0752487
+3589042240,Avenida Anillo de Circunvalación,19.4319954,-102.0759814
+4600289355,Avenida Anillo de Circunvalación y Avenida Lenin,19.431198,-102.0757195
+3616872469,Calle Paseo de los Fresnos,19.4327195,-102.0864882
+3590272285,Calle Paseo de los Fresnos,19.4318074,-102.0864062
+3590272286,Calle Paseo de los Fresnos y CallePaseo del Nogal,19.4307854,-102.0863338
+3590272288,Calle Paseo de los Fresnos,19.4297027,-102.0862233
+4600289369,Avenida Francisco J. Mújica,19.4291259,-102.0855689
+4600289367,Avenida Francisco J. Mújica y Calle Nicolás Régules,19.4294014,-102.0837051
+1600414571,Avenida Francisco J. Mújica,19.4295577,-102.0825147
+4600289365,Avenida Francisco J. Mújica,19.4295359,-102.0812776
+4600289348,Avenida Lenin y Calle César Augusto Sandino,19.4299252,-102.080152
+6789177566,Avenida Lenin,19.4302608,-102.0790869
+1600414664,Avenida Lenin,19.4306017,-102.0778666
+6791284149,Avenida Lenin,19.4309133,-102.0766783
+4600289342,Avenida Anillo de Circunvalación,19.4319905,-102.0757666
+4600289339,Avenida Anillo de Circunvalación,19.4327141,-102.0751647
+1177822253,Calzada La Quinta,19.4328607,-102.0742869
+8481642025,Calzada La Quinta,19.4321645,-102.0730788
+1600426566,Calzada La Quinta,19.4313965,-102.0724136
+1177821845,Calzada La Quinta,19.4302369,-102.0724131
+6820609402,Calzada Fray Juan de San Miguel y Calzada La Quinta,19.4292325,-102.0729942
+1177822312,Calzada La Quinta,19.4279199,-102.0725914
+6859019870,Calle Casa del Niño,19.4012019,-102.0680772
+4598743435,Calle Casa del Niño,19.4002234,-102.0682169
+6859019867,Calle Casa del Niño,19.3991274,-102.0682113
+1412620400,Calle Casa del Niño y Las Delicias,19.3962749,-102.0689036
+8460079352,Las Delicias,19.3958743,-102.0674998
+8453988375,Las Delicias,19.3956853,-102.0664758
+8453988360,Las Delicias,19.3953194,-102.0649646
+8456763712,Las Delicias,19.395078,-102.0639698
+1854775967,Las Delicias,19.3942755,-102.0633102
+1854775964,Las Delicias,19.393638,-102.0623125
+1854775968,Las Delicias,19.393774,-102.0614087
+3616657302,Las Delicias,19.3939437,-102.0600992
+3616872012,Plan de San Luis,19.3936806,-102.0590412
+3598932241,Plan de San Luis,19.3934009,-102.0580684
+3599646431,Calle Felipe Zúñiga,19.3777711,-102.0478547
+3599646353,Calle Elena Román,19.3775248,-102.0462087
+3599646438,Calle Elena Román,19.3769055,-102.0449854
+3599646508,Calle Elena Román y Avenida Maruata Lugar Precioso,19.3764375,-102.0441574
+3616657090,Avenida Maruata Lugar Precioso,19.3759765,-102.0431475
+3599646473,Avenida Maruata Lugar Precioso,19.3755314,-102.0420827
+3616657076,Avenida Maruata Lugar Precioso,19.3750819,-102.0410391
+3616657069,Avenida Maruata Lugar Precioso,19.3746312,-102.0400165
+3599646496,Avenida Maruata Lugar Precioso y Paricutín,19.3744161,-102.0393661
+6852425364,Paricutín y Calle La Veracruzana,19.4201502,-102.0035505
+6568179251,Paricutín y Boulevard Industrial,19.4210704,-102.0033503
+6568179240,Boulevard Industrial,19.421434,-102.0042774
+6568179237,Boulevard Industrial,19.4218236,-102.0052376
+6852318981,Boulevard Industrial,19.4229051,-102.0079209
+3611548275,Boulevard Industrial,19.4233034,-102.0089445
+6568200094,Boulevard Industrial y Avenida Lázaro Cárdenas,19.4239851,-102.0105873
+3959371382,Boulevard Industrial,19.4244878,-102.0118818
+1236995301,Boulevard Industrial,19.4245795,-102.0131663
+3959371376,Boulevard Industrial y Avenida Villamar,19.4244556,-102.0144832
+8477784192,Boulevard Industrial,19.4240575,-102.0179981
+1236995333,Boulevard Industrial,19.4238004,-102.0205313
+1236995229,Boulevard Industrial y Industrial,19.4236278,-102.0221197
+3959371375,Boulevard Industrial,19.4234924,-102.0231564
+11159841347,Boulevard Industrial,19.4230998,-102.0270266
+8456332195,Boulevard Industrial,19.4229182,-102.0287708
+3611324261,Boulevard Industrial,19.4226937,-102.0308755
+6818328964,Boulevard Industrial,19.4225852,-102.0318435
+5174646864,Boulevard Industrial,19.4224231,-102.0332211
+3150773752,Boulevard Industrial y Costa Rica,19.4220845,-102.0362355
+3588281152,Boulevard Industrial,19.421759,-102.0390861
+3611321978,Boulevard Industrial,19.4216338,-102.0402914
+3150773741,Boulevard Industrial,19.4212278,-102.0413589
+6783727854,Calle República de Honduras y Boulevard Industrial,19.4197022,-102.0437807
+8404782107,Boulevard Industrial,19.4191327,-102.0447091
+1600442922,Boulevard Industrial y Calle 6,19.4185578,-102.0455781
+1236995290,Boulevard Industrial,19.418043,-102.0464278
+1600442928,Avenida Lázaro Cárdenas,19.4172874,-102.0462213
+8404037209,Avenida Lázaro Cárdenas,19.4152187,-102.0466999
+8404329370,Avenida Lázaro Cárdenas,19.4126858,-102.0473906
+3616872111,Avenida Lázaro Cárdenas,19.411099,-102.0478211
+3150248533,Avenida Lázaro Cárdenas,19.4100596,-102.048103
+3150248021,Avenida Lázaro Cárdenas,19.4090811,-102.0483359
+1237001829,Avenida Lázaro Cárdenas y Calle Gran Parada,19.40799,-102.0486283
+3150248007,Avenida Lázaro Cárdenas,19.4066024,-102.0490247
+1237001840,Avenida Lázaro Cárdenas y Avenida Latinoamericana,19.4051821,-102.0494311
+6820940761,Calle Francisco J. Múgica y Avenida Latinoamericana,19.4052624,-102.0503901
+2010117991,Calle Perú,19.4040876,-102.0506601
+6909884881,Calle Perú,19.4024602,-102.0509935
+2013194299,Calle Colombia y Calle Paraguay,19.4014666,-102.0502311
+2011809998,Calle Paraguay,19.3996521,-102.0507591
+3616657343,Calle Paraguay,19.3986132,-102.0510891
+3616657329,Calle Paraguay,19.3974289,-102.051431
+3596916381,Avenida Paraguay,19.3965092,-102.0517588
+3596896762,Avenida Paraguay,19.3953968,-102.0517649
+6878616993,Avenida Paraguay y Calle Niza,19.3944507,-102.0516186
+6879762044,Calle Niza,19.3947229,-102.0526629
+6879762046,Calle Niza y Calle Cuba,19.3949694,-102.0536098
+3588232342,Calle Cuba,19.3938263,-102.0534812
+3616872014,Plan de San Luis,19.3937635,-102.0590215
+6132815033,Las Delicias,19.3939484,-102.0600365
+3616657298,Las Delicias,19.3938055,-102.0611807
+1854775985,Las Delicias,19.3935722,-102.0621515
+1854775969,Las Delicias,19.3941136,-102.0631225
+1854775975,Las Delicias,19.3948878,-102.0637213
+8453988341,Las Delicias,19.3955994,-102.0661188
+1854799106,Las Delicias y Calle Casa del Niño,19.3962517,-102.0688067
+8456968143,Calle Casa del Niño,19.3990311,-102.0681341
+1854799096,Calle Casa del Niño,19.3999151,-102.0679711
+1854799154,Calle Casa del Niño,19.4008128,-102.0682266
+3592374793,Calle Casa del Niño,19.4016387,-102.0676852
+3592234042,Calle Alejandrina,19.4023482,-102.0676198
+3430835262,Calle Josefa Ortiz de Domínguez,19.4070925,-102.0744762
+3430835272,Calle Josefa Ortiz de Domínguez,19.407878,-102.07389
+3590656143,Camino Viejo a la Fundición,19.4088954,-102.0734321
+8562521287,Camino Viejo a la Fundición,19.4091019,-102.0724776
+3590656146,Camino Viejo a la Fundición,19.4094098,-102.0714706
+5237252818,Camino Viejo a la Fundición,19.4097026,-102.0705832
+1983214763,Avenida Anillo de Circunvalación,19.4104141,-102.0706446
+1983214809,Avenida Anillo de Circunvalación,19.4112913,-102.0710067
+1983214896,Avenida Anillo de Circunvalación,19.4123728,-102.0712931
+1983214959,Avenida Anillo de Circunvalación y Primo Verdad,19.4135555,-102.0717668
+1983215024,Avenida Anillo de Circunvalación,19.4146451,-102.0720397
+6793227498,Avenida Anillo de Circunvalación,19.4156943,-102.0722714
+6793196434,Avenida Anillo de Circunvalación,19.4166037,-102.0721534
+1983215174,Avenida Anillo de Circunvalación y Prolongación Juan Escutia,19.4178484,-102.0717911
+4600289074,Calle Mariano Matamoros,19.4211408,-102.0772697
+3590385123,Calle Mariano Matamoros,19.4213262,-102.0784868
+3616657694,Calle República de Cuba,19.4222961,-102.0789218
+3590271264,Calle República de Cuba,19.4232651,-102.0789061
+3616657699,Calle República de Cuba,19.4242258,-102.0788876
+3616657701,Calle República de Cuba,19.42515,-102.0788915
+3616657707,Calle República de Cuba,19.4260594,-102.0788686
+3616657711,Calle República de Cuba,19.426987,-102.0788323
+3616657715,Calle República de Cuba,19.4278988,-102.0788229
+3616657725,Calle República de Cuba,19.4296126,-102.0787504
+6799581183,Avenida Anillo de Circunvalación y Calzada La Quinta y Carapan - Playa Azul y Calzada Benito Juárez,19.4330851,-102.0747501
+4598743354,Avenida Malbec,19.4066705,-102.0748186
+4598743405,Avenida Tinto Fino,19.406088,-102.0742256
+4598743409,Avenida Tinto Fino,19.4055473,-102.0731736
+4598743401,Avenida Tinto Fino,19.4048039,-102.0721836
+4598743396,Avenida Tinto Fino,19.4040509,-102.0712838
+4598743327,Avenida Tinto Fino y Calle Alejandrina,19.4035666,-102.0705365
+3592234037,Calle Alejandrina,19.4032533,-102.0695242
+1854799104,Calle Casa del Niño,19.4028571,-102.0668451
+6859019866,Calle Casa del Niño,19.4040154,-102.0665297
+6823929805,Calle Casa del Niño y Calle Ceiba,19.4050479,-102.0663853
+6823929803,Calle Cupatitzio,19.4060321,-102.0665869
+1824647326,Calle Licenciado Primo Verdad y Calle 5 de Febrero,19.4115103,-102.0646278
+1983214904,Calle 5 de Febrero,19.4125259,-102.0642874
+4598601836,Calle 5 de Febrero,19.4134597,-102.0639884
+4598601808,Calle 5 de Febrero,19.4143906,-102.0636879
+4598601799,Calle 5 de Febrero,19.4152662,-102.0634084
+1926707092,Calle 5 de Febrero y Avenida Benito Juárez,19.4164265,-102.0630721
+4691668891,Calle 5 de Febrero,19.4174182,-102.0627372
+1978328206,Calle 5 de Febrero y Calle Nicolás Bravo,19.418369,-102.062364
+1863504385,Calle Juan Delgado y Calle 16 de Septiembre y Calle Pino Suárez,19.423096,-102.0632027
+1863504381,Calle Juan Delgado y Calle Isaac Arriaga y Calle Miguel Hidalgo,19.4241264,-102.0628631
+1863504380,Calle Juan Delgado,19.4251744,-102.062515
+3616872298,Calle Juan Delgado y Calle Manuel Doblado,19.4262123,-102.0621415
+3590272554,Calle Juan Delgado,19.4272098,-102.0618307
+1405971241,Calzada Benito Juárez,19.4255655,-102.0476844
+3616872400,Calle Magnolias y Calle Gustavo Díaz Ordaz,19.43003,-102.0311163
+3616872444,Calle Gustavo Díaz Ordaz y Calle Yacatas,19.4316644,-102.0313482
+3588505517,Calle Yacatas,19.4319317,-102.0301021
+8478113074,Privada Yacatas,19.4328256,-102.0305081
+4598702542,Cerrada Aristóteles y Avenida Aristóteles,19.4338717,-102.0307196
+6813224127,Avenida Aristóteles,19.4341574,-102.0298576
+4598702546,Avenida Aristóteles,19.4350543,-102.0298969
+6770703301,Avenida Aristóteles,19.4355446,-102.0296242
+6770703302,Avenida Pitágoras,19.4358241,-102.0285723
+4598702562,Avenida Pitágoras,19.4358017,-102.0284101
+6591902285,Avenida Anillo de Circunvalación y Callejón de los Magueyes y Avenida Lenin,19.4312624,-102.0756075
+3616872299,Calle Isaac Arriaga,19.4262232,-102.0704243
+3590272712,Calle Isaac Arriaga,19.4259569,-102.0693466
+1978328284,Calle Isaac Arriaga,19.4256573,-102.0682584
+1978328281,Calle Isaac Arriaga y Calle Revolución,19.4253617,-102.067206
+1978328280,Calle Isaac Arriaga,19.4250426,-102.0661437
+1978328278,Calle Isaac Arriaga,19.4247452,-102.0650671
+2013194443,Calle Miguel Hidalgo,19.4238084,-102.0618248
+2013194437,Calle Miguel Hidalgo y Calle Constitución,19.4235184,-102.0607541
+2013194419,Calle Miguel Hidalgo y Calle Nicolás Romero,19.4232157,-102.0596493
+2013194378,Calle Nicolás Romero y Calle 16 de Septiembre,19.4221584,-102.0599944
+1978328191,Avenida 5 de Mayo,19.4172326,-102.0583055
+1978328154,Calle Hilanderos y Avenida Las Américas,19.4157449,-102.0544288
+8425361136,Calle Hilanderos,19.4170438,-102.0540378
+3610729413,Calzada Gabriel Cervera,19.4100644,-102.0222804
+3610903388,Calzada Gabriel Cervera,19.4098277,-102.0213214
+1941889792,Calzada Gabriel Cervera,19.409585,-102.0203167
+3616657530,Calle Cueramo,19.4090437,-102.0197532
+3616657496,Calle Cueramo,19.4079406,-102.0201347
+3610729488,Calle Los Pinos y Camino Viejo a Tejerias,19.4071716,-102.0182021
+3610903362,Calle Los Pinos,19.4072007,-102.0167899
+3616657480,Avenida Los Pinos y Calle Los Pinos,19.407231,-102.0154917
+3610729510,Avenida de las Torres y Apatzingán,19.4073322,-102.0138797
+3610729497,Apatzingán y Camino a Tejerías,19.4074182,-102.0126084
+3610729901,Calle Tacámbaro,19.4076699,-102.0119405
+3610729915,Calle Tacámbaro,19.4073702,-102.0107482
+6568366595,Avenida Pitágoras,19.4357101,-102.0294307
+4598702548,Avenida Aristóteles,19.4350296,-102.0295884
+3588505522,Privada Yacatas,19.4329887,-102.0305805
+8478113077,Calle Yacatas,19.4320567,-102.0300199
+3588505495,Calzada Benito Juárez y Lázaro Cárdenas,19.4293304,-102.0319038
+3616872363,Calzada Benito Juárez y Calle Hermanos López Rayón,19.4288399,-102.0335079
+8506317431,Calzada Benito Juárez,19.4284985,-102.0346048
+3616872417,Lázaro Cárdenas,19.4307053,-102.032111
+3616872392,Calle Magnolias y Calle Adolfo López Mateos,19.4297356,-102.0328369
+6845324919,Calle Casa del Niño,19.3820138,-102.076792
+1895478868,Calle Casa del Niño,19.3828648,-102.0762115
+4572397495,Calle Casa del Niño,19.3835107,-102.0752519
+4572396256,Calle Casa del Niño,19.3841749,-102.074265
+6845272000,Calle Casa del Niño,19.3846832,-102.0734072
+6845405414,Calle Casa del Niño,19.3852418,-102.072368
+1895478897,Calle Casa del Niño,19.3861032,-102.0718396
+8434722410,Calle Casa del Niño,19.3870634,-102.0709705
+6845407758,Calle Casa del Niño,19.3880737,-102.0705165
+3596797599,Calle Casa del Niño,19.3895909,-102.0701763
+8452174059,Calle Casa del Niño,19.3904822,-102.069987
+3592374944,Calle Casa del Niño,19.3918314,-102.0696808
+1895478895,Calle Casa del Niño,19.3935443,-102.0693224
+1854799094,Calle Casa del Niño,19.3949331,-102.0691404
+1853597156,Avenida Latinoamericana,19.40566,-102.0517822
+2011809996,Avenida Latinoamericana y Avenida Lázaro Cárdenas y Calle Paraguay,19.4049975,-102.0493294
+3150248006,Avenida Lázaro Cárdenas,19.4065809,-102.0489335
+293969943,Avenida Lázaro Cárdenas y Calle Gran Parada,19.4079668,-102.0485316
+3150248020,Avenida Lázaro Cárdenas,19.4090515,-102.0482365
+3150248531,Avenida Lázaro Cárdenas,19.4100356,-102.048006
+3616872109,Avenida Lázaro Cárdenas,19.4110687,-102.0477126
+5237252862,Avenida Lázaro Cárdenas,19.4126564,-102.0472786
+8404398346,Avenida Lázaro Cárdenas,19.4151922,-102.0465777
+5237252904,Avenida Lázaro Cárdenas,19.4170351,-102.0460779
+1600443012,Calzada La Fuente,19.417388,-102.0452696
+3596797621,Calzada La Fuente,19.4171602,-102.0440774
+1414760870,Libramiento Oriente,19.4116189,-102.0260193
+1414760801,Libramiento Oriente,19.4106761,-102.0265844
+6852811546,Libramiento Oriente y Avenida Galaxia,19.4078168,-102.0284551
+1414760831,Libramiento Oriente y Calle Jesús Romero Flores,19.4059463,-102.0296611
+3547974840,Calle Jesús Romero Flores y Calle Gabriel Cervera,19.405457,-102.0287835
+6644664701,Calle Gabriel Cervera,19.4043778,-102.0294337
+3616657410,Alberto Peralta,19.4034273,-102.0288006
+3547974854,Alberto Peralta,19.4028909,-102.028028
+1941889805,Alberto Peralta y Andador José Silva Herrera,19.4022799,-102.0271991
+6927957030,Avenida Maruata Lugar Precioso,19.3748732,-102.0403014
+6864503519,Avenida Maruata Lugar Precioso,19.3753208,-102.0413192
+6864503518,Avenida Maruata Lugar Precioso,19.3759459,-102.0427287
+6864503515,Avenida Maruata Lugar Precioso,19.3763994,-102.0437833
+3599646462,Calle Elena Román,19.3767088,-102.0446385
+3599646450,Calle Elena Román,19.3772199,-102.0455708
+3599646437,Calle Felipe Zúñiga y Calle Elena Román,19.3781201,-102.0475054
+3599646345,Calle Felipe Zúñiga,19.3774304,-102.0482523
+3599133042,Libramiento Oriente,19.3771128,-102.0490794
+1854799088,Calle Casa del Niño,19.4025693,-102.0670853
+3592374667,Calle Casa del Niño,19.4033531,-102.0666413
+3592374648,Calle Casa del Niño,19.4042924,-102.0664852
+3588250133,Innominada,19.4051767,-102.0662966
+1978328243,Calle Francisco I. Madero,19.4212245,-102.0684588
+3616872235,Calle Francisco I. Madero,19.4215231,-102.0695765
+3616872239,Calle Francisco I. Madero y Calle Rafaél M. Vega,19.4218369,-102.0705892
+4600289361,Avenida Lenin,19.4311849,-102.075906
+4600289359,Avenida Lenin,19.4309396,-102.0770433
+6844852991,Avenida Lenin,19.4306584,-102.0779613
+1600414528,Avenida Lenin,19.4303216,-102.0792021
+1600414688,Avenida Lenin y Calle César Augusto Sandino,19.4300231,-102.080153
+1600414509,Avenida Francisco J. Mújica,19.4296563,-102.0811387
+3590173022,Avenida Francisco J. Mújica,19.4296325,-102.0821031
+1600414573,Avenida Francisco J. Mújica y Calle Nicolás Régules,19.4294968,-102.0837019
+1600414728,Avenida Francisco J. Mújica,19.4292563,-102.0849465
+1600414555,Avenida Francisco J. Mújica,19.4292573,-102.0861032
+3590272292,Calle Paseo de los Fresnos,19.430404,-102.0863016
+3616872115,Calle Tulipán,19.4114836,-102.0346829
+3616872122,Calle Tulipán y Calle Clavel,19.4117652,-102.0356889
+3616872126,Calle Tulipán,19.4120363,-102.0367
+3616657588,Calle Tulipán y Prolongación Lirio,19.4123211,-102.0377358
+8407560646,Prolongación Lirio,19.4114304,-102.038269
+3150265658,Prolongación Lirio,19.410306,-102.0385131
+3150265618,Prolongación Lirio y Calle 6,19.4091587,-102.038886
+3616657514,Calle Xicoténcatl,19.4084188,-102.0393701
+3150265571,Calle Xicoténcatl y Zacapu,19.4074954,-102.0398202
+3150265583,Zacapu,19.4079596,-102.040903
+3150076167,Calle Tijuana,19.4075144,-102.0418324
+3150076027,Calle Tijuana y Calle Hermanos Flores Magón,19.4057434,-102.0425294
+8403831395,Calle Hermanos Flores Magón,19.4062204,-102.0437109
+6838918973,Calle Hermanos Flores Magón,19.4066086,-102.0446467
+3150265563,Calle Hermanos Flores Magón,19.4070748,-102.0457866
+3150265574,Calle Hermanos Flores Magón,19.4075262,-102.0469625
+6132807979,Calle Gran Parada,19.407857,-102.047995
+3150248010,Calle Gran Parada,19.4082251,-102.0495394
+3150248015,Calle Gran Parada,19.4087207,-102.0513995
+297699600,Calle Gran Parada,19.4090392,-102.0525557
+1926707054,Calle Jesús González Ortega,19.4105899,-102.0539784
+1926707055,Calle Jesús González Ortega,19.4108448,-102.0549374
+1926707057,Calle Jesús González Ortega,19.4113409,-102.0567865
+1926707086,Avenida Francisco Villa,19.415647,-102.0565238
+1850625726,Avenida Francisco Villa,19.4166168,-102.0562466
+1978328266,Calle Aquiles Serdán y Calle Pino Suárez,19.4237334,-102.065376
+1978328268,Calle Pino Suárez,19.4240372,-102.0664467
+1978328274,Calle Pino Suárez,19.4243415,-102.0675134
+1978328277,Calle Pino Suárez,19.4246387,-102.0685672
+3616872276,Calle Pino Suárez,19.4249544,-102.0696423
+3590272577,Calle Pino Suárez,19.425248,-102.0706842
+8481821117,Calle República de Cuba,19.4297164,-102.0787439
+4691668875,Calle República de Cuba,19.4287963,-102.0787777
+6789177582,Calle República de Cuba,19.4278073,-102.0788262
+6789177578,Calle República de Cuba,19.4269038,-102.0788356
+3590174293,Calle Mariano Matamoros y Calle República de Cuba,19.4213843,-102.0789268
+6644658982,Andador José Silva Herrera,19.4032332,-102.026598
+1941890023,Andador José Silva Herrera y Calle Jesús Romero Flores,19.4040245,-102.0261376
+3547974856,Calle Jesús Romero Flores,19.4044897,-102.0270375
+3547974843,Calle Jesús Romero Flores y Calle Tierra,19.4049733,-102.0279001
+3610729373,Calle Tierra,19.4057393,-102.0273704
+3616872068,Calle Tierra y Avenida Galaxia,19.4068542,-102.0266424
+3616872081,Avenida Galaxia,19.4074792,-102.0276874
+1414760808,Libramiento Oriente,19.4106895,-102.0263527
+6820940762,Avenida Latinoamericana,19.405635,-102.0511092
+2013194341,Avenida Latinoamericana,19.4062768,-102.053408
+1237001826,Innominada,19.4065438,-102.0542122
+1854799086,Calle Casa del Niño,19.3948769,-102.069249
+8452174061,Calle Casa del Niño,19.3935586,-102.0693802
+8452175393,Calle Casa del Niño,19.3921973,-102.0696939
+8452174060,Calle Casa del Niño,19.390643,-102.0700527
+3596797595,Calle Casa del Niño,19.3899038,-102.0702272
+3590174300,Calle Mariano Matamoros y Calle Ignacio Zaragoza,19.4217366,-102.0814091
+4600289078,Calle Mariano Matamoros,19.4214114,-102.0799924
+4600289081,Calle Mariano Matamoros,19.4212302,-102.0789253
+4600289075,Calle Mariano Matamoros,19.4210467,-102.0772485
+3590383586,Prolongación Agustín Melgar,19.4207564,-102.0760488
+3590272228,Prolongación Agustín Melgar,19.4202131,-102.0750671
+3590385101,Prolongación Agustín Melgar,19.4197094,-102.0736952
+8482141254,Anillo de Circunvalación,19.4180323,-102.0717748
+1983215149,Avenida Anillo de Circunvalación y Calle Mariano Jiménez,19.416914,-102.0721741
+3590272737,Calle Mariano Jiménez,19.4166228,-102.0710708
+1983215108,Calle Mariano Jiménez,19.4163217,-102.0700362
+1983215096,Calle Mariano Jiménez,19.4159958,-102.0689525
+4788744345,Calle Mariano Jiménez y Calle Artículo 123,19.4156926,-102.0679351
+1983215139,Calle Artículo 123 y Calle Caracol,19.4166804,-102.0675866
+1983215129,Calle Caracol,19.4163658,-102.0664756
+1854525962,Calle Sinaloa,19.4192736,-102.0533268
+1854493749,Calle Sinaloa y Calle Jalisco,19.4201645,-102.0531196
+1854525967,Calle Sinaloa y Calle Coahuila,19.4210601,-102.0529113
+2013194375,Calle Sinaloa y Calle Monterrey,19.4219403,-102.0527066
+2010117306,Calle Monterrey,19.4221189,-102.0545446
+2010116090,Calle Francisco Villa y Calle Cuauhtémoc y Calle Veracruz,19.4230007,-102.0546636
+1833353267,Calle Francisco Villa,19.4244774,-102.0546312
+3588505763,Prolongación Francisco Villa,19.4277347,-102.0553339
+3588505765,Prolongación Francisco Villa,19.4289545,-102.0552839
+3616872406,Prolongación Francisco Villa,19.4302907,-102.0547349
+3616872428,Prolongación Francisco Villa,19.4311476,-102.0543536
+3588505832,Prolongación Francisco Villa,19.4329033,-102.0536059
+3588505771,Prolongación Francisco Villa,19.4338693,-102.0535507
+3616872507,Prolongación Francisco Villa,19.4347741,-102.0530379
+3588505849,Prolongación Sinaloa,19.4335898,-102.0498767
+3616872458,Prolongación Sinaloa,19.4323411,-102.0502229
+3616872422,Prolongación Sinaloa,19.4308635,-102.0506284
+3616872376,Prolongación Sinaloa,19.4292524,-102.0511227
+6591904239,Prolongación Sinaloa,19.4277842,-102.0515907
+2013194457,Calle Michoacán,19.4247848,-102.0511718
+1854493759,Calle Michoacán y Calle Colima,19.4235744,-102.0513423
+2013194373,Calle Michoacán y Calle Monterrey,19.4218339,-102.0517368
+1850699132,Calle Michoacán,19.4202356,-102.0520836
+1854493746,Calle Michoacán,19.4191612,-102.0523669
+1850699128,Calle Francisco Sarabia y Calle Michoacán,19.4182788,-102.0526109
+1978328185,Calle Galeana y Calle José María Morelos,19.4168849,-102.0531291
+1895543596,Calle Licenciado Primo Verdad,19.4123856,-102.0677439
+4788744342,Calle Licenciado Primo Verdad,19.4127144,-102.0688797
+4788744354,Primo Verdad,19.413016,-102.0698947
+1983214951,Primo Verdad,19.4133539,-102.0710159
+3590385421,Avenida Anillo de Circunvalación,19.4138341,-102.0718479
+4600018745,Avenida Anillo de Circunvalación y Calle Simón Bolívar,19.4147769,-102.0720731
+4691667179,Calle Simón Bolívar,19.4146174,-102.0730385
+4691667182,Calle Simón Bolívar,19.4143976,-102.0743273
+3590385449,Avenida de las Lomas,19.4145307,-102.0756031
+3590385462,Avenida de las Lomas y Calle Lava,19.4143094,-102.0767351
+3590385257,Avenida de las Lomas,19.4136796,-102.0777988
+3590385256,Avenida de las Lomas,19.4133608,-102.0782132
+4600018756,Avenida de las Lomas,19.4138226,-102.0774184
+3590385258,Avenida de las Lomas,19.4144731,-102.0763245
+6790786826,Avenida de las Lomas,19.4143118,-102.0752138
+4691667181,Calle Simón Bolívar,19.4144633,-102.0739339
+4600018746,Calle Simón Bolívar,19.4146913,-102.0725715
+1983214978,Avenida Anillo de Circunvalación,19.4141127,-102.071917
+1854493738,Calle Sinaloa y Calle Colima,19.4236753,-102.052303
+2013194458,Calle Sinaloa,19.4248814,-102.0521608
+1854493754,Calzada Benito Juárez y Prolongación Sinaloa y Calle Sinaloa,19.4260136,-102.0520451
+4691667156,Prolongación Sinaloa,19.4275243,-102.051662
+3616872351,Prolongación Sinaloa,19.428426,-102.0514143
+3616872405,Prolongación Sinaloa,19.4302173,-102.0508301
+3616872441,Prolongación Sinaloa,19.4314762,-102.0504615
+3616872470,Prolongación Sinaloa,19.432754,-102.0501001
+1850699071,Calle Gran Parada,19.4102863,-102.0570807
+1926707052,Calle Gran Parada,19.4100155,-102.0560983
+1926707050,Calle Gran Parada,19.4095176,-102.054292
+6592210909,Calle Gran Parada,19.4088534,-102.0518813
+3150248012,Calle Gran Parada,19.4084465,-102.0504039
+2013153619,Calle Hermanos Flores Magón,19.4077174,-102.0476937
+3150076162,Calle Hermanos Flores Magón,19.4072917,-102.046606
+3150265554,Calle Hermanos Flores Magón,19.4068275,-102.0454527
+6838918981,Calle Hermanos Flores Magón y Avenida Ciudad del Carmen,19.4063175,-102.0441525
+3150076130,Calle Hermanos Flores Magón,19.4058161,-102.0429733
+3616872067,Calle Tijuana,19.4068275,-102.0421247
+3616657508,Zacapu y Calle Tijuana,19.4082322,-102.041542
+3616657493,Zacapu,19.4078533,-102.0406576
+3616657484,Zacapu,19.4073794,-102.0395489
+3616657509,Calle Cuitláhuac,19.4082618,-102.0389982
+3150265616,Prolongación Lirio,19.4091334,-102.0388095
+3150265656,Prolongación Lirio,19.410287,-102.0384454
+3616872112,Prolongación Lirio,19.4113824,-102.0380545
+3927358710,Innominada,19.3749187,-102.0802621
+3927358726,Calle Juan Escutia,19.3765244,-102.0796501
+8434374645,Innominada,19.3775042,-102.0792752
+8434374646,Innominada,19.3787436,-102.078828
+3927358872,Innominada,19.3800071,-102.0783747
+3927358880,Innominada,19.3808609,-102.0777812
+1854799150,Uruapan - Apatzingan y Calle Casa del Niño,19.3815076,-102.0771101
+1895478888,Calle Casa del Niño,19.382298,-102.0766621
+4572397506,Calle Casa del Niño,19.3832517,-102.0756367
+3592234021,Calle Niño Perdido,19.4039783,-102.0697426
+3592234020,Calle Niño Perdido y Calle Ceiba,19.4052868,-102.0691084
+3616872047,Calle Ceiba,19.4051919,-102.0677074
+3592234001,Calle Casa del Niño y Calle Ceiba,19.4050599,-102.0664853
+3588505833,Calle Heriberto Jara,19.4321166,-102.054484
+3588505804,Calle Heriberto Jara y Prolongación Nicolás Romero,19.4324535,-102.0557397
+3616872488,Prolongación Nicolás Romero y Calle Capricornio,19.4333886,-102.0553219
+3616872481,Calle Capricornio,19.4332744,-102.0549418
+4429243950,Innominada,19.3845148,-102.0261781
+6886812260,Avenida Lago de Texcoco,19.3843549,-102.0251879
+4429244075,Avenida Lago de Texcoco,19.3849385,-102.0244682
+4429244071,Avenida Lago de Texcoco y Calle Emiliano Zapata,19.3858841,-102.0238138
+4429243914,Calle Emiliano Zapata,19.3867657,-102.0235405
+6864994462,Calle Emiliano Zapata,19.3878339,-102.023566
+4691668832,Calle Emiliano Zapata,19.3889852,-102.0233679
+4429243904,Calle Emiliano Zapata y Calle Licenciado Carlos Salinas de Gortari,19.3902835,-102.0229666
+1822482853,Calle Licenciado Carlos Salinas de Gortari y Calle Río Mississipi,19.3900139,-102.0219708
+6641772969,Calle Manuel Ávila Camacho,19.3907182,-102.0212528
+1822482831,Avenida San Francisco Uruapan y Calle Rosa de Castilla y Calle General Plutarco Elías Calles,19.3923023,-102.0219158
+8408127777,Calle Rosa de Castilla,19.3931735,-102.0215937
+3600713811,Calle Rosa de Castilla,19.3943979,-102.0212541
+1999575615,Calle Rosa de Castilla,19.3953441,-102.0209663
+3600822514,Gonzalo Loza,19.3962095,-102.0210367
+3600822510,Gonzalo Loza,19.3969639,-102.0219744
+3600822505,Gonzalo Loza,19.3976831,-102.0229483
+6879103869,Calle Santa Isabel,19.3984154,-102.0234882
+6879103868,Calle Santa Isabel y Santa Teresa,19.3998091,-102.0227862
+3600822618,Calle Chabacano y Calle Pomelo,19.4005927,-102.0224373
+3547974876,Santa Lucía y Mercurio,19.4015382,-102.0227752
+3616657386,Mercurio,19.4021427,-102.0237626
+3547974883,Calle Mercurio,19.4028079,-102.0249839
+6644638020,Calle Mercurio,19.403276,-102.0259014
+6644638019,Andador José Silva Herrera,19.4038731,-102.0262138
+11108459800,Libramiento Oriente,19.4064648,-102.0290951
+6644655260,Avenida Galaxia y Libramiento Oriente,19.4077884,-102.028234
+1833353249,Calle Paseo General Lázaro Cárdenas y Avenida Las Américas,19.4149221,-102.051685
+3547978008,Mercurio,19.4023114,-102.0240608
+3616657381,Mercurio,19.4017393,-102.0231038
+3616657370,Calle Pomelo y Santa Lucía,19.4009973,-102.0231151
+3600822583,Santa Teresa y Calle Chabacano y Chabacano,19.3998802,-102.0228778
+3600822592,Chabacano,19.3987844,-102.0234313
+3600822597,Gonzalo Loza,19.3980287,-102.0234184
+3600822509,Gonzalo Loza,19.3973211,-102.0224826
+3600822512,Gonzalo Loza,19.3965514,-102.0215036
+3600713827,Calle Rosa de Castilla,19.3933617,-102.0215397
+11091793453,Calle Rosa de Castilla,19.3924006,-102.021829
+1822482852,Calle General Plutarco Elías Calles,19.3910975,-102.0228493
+4429243918,Calle Emiliano Zapata,19.3893271,-102.0232441
+4429243896,Calle Emiliano Zapata,19.3882636,-102.023547
+4429244012,Calle Emiliano Zapata,19.3872058,-102.0235645
+4429244063,Calle Emiliano Zapata,19.3862422,-102.0236354
+4429244053,Avenida Lago de Texcoco,19.3852625,-102.0242469
+3588505808,Prolongación Nicolás Romero,19.4314675,-102.0561735
+3589041450,Prolongación Nicolás Romero,19.4302327,-102.0567113
+4598743056,Prolongación Nicolás Romero,19.4291006,-102.057272
+3588505805,Calzada Benito Juárez y Prolongación Nicolás Romero,19.427427,-102.0580425
+3616872306,Calle Nicolás Romero,19.4265069,-102.0584616
+3590272701,Calle Nicolás Romero,19.4255907,-102.0588796
+2013194453,Calle Nicolás Romero y Calle Cuauhtémoc,19.4242366,-102.0593248
+3596797601,Calle Casa del Niño,19.3890918,-102.0704135
+3596797612,Calle Casa del Niño,19.3881117,-102.0706394
+8434722409,Calle Casa del Niño,19.3871096,-102.0710175
+1895478858,Calle Casa del Niño,19.3863714,-102.0717926
+1895478916,Calle Casa del Niño,19.3854808,-102.0721628
+6845272001,Calle Casa del Niño,19.3847351,-102.0734404
+8445696224,Calle Casa del Niño,19.3835971,-102.0752188
+1895478890,Calle Casa del Niño,19.3829073,-102.0762383
+4572397548,Calle Casa del Niño y Calle Juata,19.3820092,-102.0768874
+1412620631,Uruapan - Apatzingan,19.3810939,-102.0775279
+3927358881,Uruapan - Apatzingan,19.3809703,-102.0787852
+3927358859,Calle Guadalupe Victoria,19.379294,-102.0801735
+3927358738,Calle Guadalupe Victoria,19.3781458,-102.0802408
+3927358732,Calle Guadalupe Victoria y Calle Juan Escutia,19.3769185,-102.0805594
+3927358716,Calle Guadalupe Victoria,19.3760188,-102.0808751
+3927358704,Innominada,19.3744355,-102.0791267
+2979747151,Benito Juárez,19.4254069,-102.0465918
+2979752153,Benito Juárez,19.425449,-102.0444883
+3611324212,Benito Juárez,19.4256428,-102.0434477
+3611324202,Benito Juárez,19.4259126,-102.0423878
+1414760791,Libramiento Oriente,19.4267448,-102.0252281
+8478475068,Libramiento Oriente,19.4257544,-102.0252443
+8456293969,Libramiento Oriente,19.4244227,-102.0252661
+2013194429,Libramiento Oriente,19.423481,-102.0252794
+3596797854,Libramiento Oriente,19.4177301,-102.0253356
+3596797850,Libramiento Oriente,19.4159847,-102.0253666
+3596797846,Libramiento Oriente,19.414244,-102.0254108
+6838829019,Libramiento Oriente,19.4131254,-102.0254374
+1600442918,Calzada de la Fuente y Libramiento Oriente,19.4120334,-102.0257924
+1941889917,Libramiento Oriente y Avenida Universo,19.4070929,-102.0287197
+3610729379,Avenida Universo,19.4065504,-102.0277975
+6841909476,Libramiento Oriente,19.4046265,-102.030591
+11578293063,Libramiento Oriente,19.4035391,-102.0312785
+1853597158,Libramiento Oriente y Avenida San Francisco Uruapan,19.3992377,-102.0340531
+3600713863,Avenida San Francisco Uruapan,19.3895948,-102.0155037
+1824601491,Avenida San Francisco Uruapan,19.3888604,-102.0145584
+3600713865,Calle San Miguel,19.3890097,-102.0135981
+6868134481,Calle San Miguel,19.3894625,-102.012605
+3616657250,Calle San Miguel,19.3897777,-102.0112041
+3600713868,Calle San Miguel,19.3900331,-102.0097652
+8451834297,Calle San Miguel,19.389201,-102.0082504
+6933000549,Calle San Miguel,19.3895214,-102.0063239
+3616871689,Calle San Miguel y José Estrada V.,19.3902102,-102.0050375
+3600822461,José Estrada V.,19.3893801,-102.0037072
+3600822444,José Estrada V.,19.3889553,-102.0028598
+3600822459,Calle Rosalio López,19.3900173,-102.0023583
+6868328510,Calle Rosalio López,19.3910926,-102.0025367
+3600822456,Calle Rosalio López,19.3924044,-102.0024844
+3616872009,Calle Rosalio López,19.3929547,-102.0024126
+3625997872,Carapan - Playa Azul,19.4747186,-102.0722333
+3625997629,Carapan - Playa Azul,19.4738153,-102.0725468
+3625997630,Carapan - Playa Azul,19.472958,-102.0728714
+3625997632,Carapan - Playa Azul,19.4716986,-102.0733006
+3625997633,Carapan - Playa Azul,19.470323,-102.073786
+3625997634,Carapan - Playa Azul,19.4694304,-102.0741266
+3625997635,Carapan - Playa Azul,19.4685553,-102.0744511
+3625997637,Carapan - Playa Azul,19.4670026,-102.0750144
+4187332864,Carapan - Playa Azul,19.4658595,-102.075423
+7831150839,Carapan - Playa Azul,19.4647512,-102.0757341
+3625997642,Carapan - Playa Azul,19.4632573,-102.0758513
+3625997643,Carapan - Playa Azul,19.4622634,-102.0759023
+3625997645,Carapan - Playa Azul,19.4606045,-102.0759747
+3625997646,Carapan - Playa Azul,19.4596712,-102.0760123
+3625997647,Carapan - Playa Azul,19.4587229,-102.0760391
+3625997648,Carapan - Playa Azul,19.4573926,-102.0761061
+3625997649,Carapan - Playa Azul,19.4559864,-102.0761704
+3625997650,Carapan - Playa Azul,19.4549141,-102.0762241
+3625997651,Carapan - Playa Azul,19.4539126,-102.076267
+3625997652,Carapan - Playa Azul,19.4520841,-102.0763609
+3940453639,Carapan - Playa Azul,19.4511121,-102.0763976
+3625997654,Carapan - Playa Azul,19.4496182,-102.0764736
+3625997655,Carapan - Playa Azul,19.4484952,-102.076495
+3625997656,Carapan - Playa Azul,19.4468614,-102.0765782
+3625997657,Carapan - Playa Azul,19.4445927,-102.0766586
+3625997658,Carapan - Playa Azul,19.4436038,-102.0766962
+3625997826,Carapan - Playa Azul,19.4426785,-102.0764801
+7831331258,Carapan - Playa Azul,19.4420754,-102.0756671
+3625997664,Carapan - Playa Azul,19.4413672,-102.0733952
+3625997665,Carapan - Playa Azul,19.4408967,-102.0721051
+3625997667,Carapan - Playa Azul,19.4402998,-102.0713541
+3625997670,Carapan - Playa Azul,19.4386988,-102.0708954
+3625997736,Carapan - Playa Azul,19.4377926,-102.0707633
+3625997672,Carapan - Playa Azul,19.4368954,-102.0706835
+3625997675,Carapan - Playa Azul,19.4363138,-102.0713592
+8474625029,Carapan - Playa Azul,19.4361172,-102.0724521
+3625997677,Carapan - Playa Azul,19.4358557,-102.0737983
+3625997679,Carapan - Playa Azul,19.4353628,-102.0746636
+6793393795,Carapan - Playa Azul,19.4349734,-102.0755572
+3625997685,Carapan - Playa Azul,19.4347388,-102.0764511
+3625997690,Carapan - Playa Azul,19.4338348,-102.0760681
+6799581182,Avenida Anillo de Circunvalación y Carapan - Playa Azul,19.4331641,-102.0748991
+3588505610,Avenida del Cerro,19.4268307,-102.0431601
+3588505607,Avenida del Cerro y Calle Quebrada,19.4281647,-102.0430735
+3616872344,Calle Quebrada y Avenida Paseo de la Cima,19.4282602,-102.0442105
+6591904244,Avenida Paseo de la Cima y Privada Paseo de la Cima,19.4293195,-102.0440836
+4598702803,Avenida Paseo de la Cima,19.4304899,-102.043832
+3588505636,Cerro del Jorullo,19.4311122,-102.0431537
+4598702808,Cerro del Jorullo,19.4315415,-102.0422898
+3588505641,Cerro del Jorullo,19.4324231,-102.042215
+4598702817,Avenida Paseo de la Cima,19.4324823,-102.042974
+4598702805,Avenida Paseo de la Cima,19.4314367,-102.0432859
+3600822457,Calle Rosalio López,19.3914044,-102.0025513
+3600822466,Calle Rosalio López,19.3903867,-102.0023382
+3600822445,José Estrada V. y Calle Rosalio López,19.3888155,-102.0024978
+3600822443,José Estrada V.,19.3901457,-102.0048889
+8453910659,Calle San Miguel,19.3896324,-102.0061134
+3600713871,Calle San Miguel,19.3889326,-102.0075779
+3600713934,Calle San Miguel,19.3896968,-102.008959
+3600713990,Calle San Miguel,19.3898634,-102.0108304
+3616871685,Calle San Miguel,19.3895406,-102.0123337
+3616657245,Calle San Miguel,19.3891464,-102.0133497
+6916204819,Avenida San Francisco Uruapan,19.3887421,-102.0142338
+3599671551,Avenida San Francisco Uruapan,19.3894387,-102.0153131
+1824601489,Avenida San Francisco Uruapan,19.3901972,-102.0162019
+1824601506,Avenida San Francisco Uruapan,19.3909687,-102.0168237
+1895543663,Avenida San Francisco Uruapan,19.3911489,-102.0181253
+1895543670,Avenida San Francisco Uruapan,19.3913095,-102.0193864
+1822482827,Avenida San Francisco Uruapan,19.3929559,-102.0228908
+1822482809,Avenida San Francisco Uruapan,19.3936092,-102.0238412
+1822482851,Avenida San Francisco Uruapan,19.3942878,-102.0247858
+1822482828,Avenida San Francisco Uruapan,19.3949764,-102.025736
+1822482822,Avenida San Francisco Uruapan,19.395619,-102.0266935
+1822482854,Avenida San Francisco Uruapan,19.396975,-102.0286615
+1822482815,Libramiento Oriente y Avenida San Francisco Uruapan,19.3990356,-102.033952
+1895543610,Libramiento Oriente y Calle Miguel Hidalgo,19.4030085,-102.0313735
+3547974838,Calle Miguel Hidalgo y Calle Gabriel Cervera,19.4024919,-102.0305725
+6879182059,Calle Gabriel Cervera,19.4033849,-102.0300087
+6879180490,Alberto Peralta,19.4037909,-102.0293222
+3610729359,Alberto Peralta,19.4032198,-102.0285284
+3610729361,Alberto Peralta,19.4026754,-102.0277232
+6644658984,Andador José Silva Herrera,19.4026248,-102.0269619
+3547974874,Andador José Silva Herrera y Calle Mercurio,19.403538,-102.0264172
+3610729357,Calle Jesús Romero Flores,19.4041783,-102.0264927
+3547974858,Calle Jesús Romero Flores,19.4047414,-102.0275042
+3959371366,Libramiento Oriente,19.4229081,-102.0250778
+1414760792,Libramiento Oriente,19.4242121,-102.0250277
+8478024104,Libramiento Oriente,19.4252498,-102.025137
+8478024097,Libramiento Oriente,19.4266828,-102.0251128
+6828075907,Libramiento Oriente,19.4284219,-102.0250634
+1414760848,Libramiento Oriente,19.4312949,-102.024874
+1236968039,Calzada Benito Juárez,19.4317743,-102.025652
+8478113055,Calzada Benito Juárez,19.4313282,-102.0266001
+6644616502,Calzada Benito Juárez,19.4305695,-102.0280941
+1986193743,Calzada Benito Juárez,19.4301319,-102.0293528
+3588505622,Avenida Paseo de la Cima,19.4305499,-102.0438048
+3588505620,Avenida Paseo de la Cima,19.429649,-102.0440401
+4598702688,Calle Panorama y Privada Paseo de la Cima,19.429018,-102.0448769
+3588505650,Calle Loma Larga,19.4283741,-102.0454162
+3616872318,Calle Loma Larga,19.4270365,-102.0455846
+8503553965,Calle Loma Larga,19.4259959,-102.0456991
+1853562327,Calle Colima y Calle Yucatán,19.4237549,-102.0532566
+2013194376,Calle Monterrey y Calle Yucatán,19.4220267,-102.0536215
+1854493740,Calle Yucatán y Calle Jalisco,19.4202677,-102.0540401
+8474470511,Carapan - Playa Azul,19.4336333,-102.0755498
+3167960873,Carapan - Playa Azul,19.4341471,-102.0763492
+6793393796,Carapan - Playa Azul,19.4348807,-102.0760614
+3167960881,Carapan - Playa Azul,19.4356677,-102.0739659
+8528184792,Carapan - Playa Azul,19.4359818,-102.0726384
+3167960884,Carapan - Playa Azul,19.4362394,-102.0713373
+3167960887,Carapan - Playa Azul,19.4369122,-102.0705818
+6848816379,Carapan - Playa Azul,19.4379341,-102.0706633
+4429584697,Carapan - Playa Azul,19.4392032,-102.0708318
+3167960890,Carapan - Playa Azul,19.4401494,-102.0710001
+3167960893,Carapan - Playa Azul,19.441003,-102.0719227
+3167960894,Carapan - Playa Azul,19.441992,-102.075169
+3167960896,Carapan - Playa Azul,19.442568,-102.076264
+3167960899,Carapan - Playa Azul,19.4436804,-102.0766012
+7831260012,Carapan - Playa Azul,19.4469973,-102.0764717
+3940453638,Carapan - Playa Azul,19.4511019,-102.0763003
+3167960903,Carapan - Playa Azul,19.4534689,-102.076223
+3167960904,Carapan - Playa Azul,19.455258,-102.076116
+3167960907,Carapan - Playa Azul,19.4572747,-102.0760424
+3167960908,Carapan - Playa Azul,19.4629744,-102.0757938
+3167960909,Carapan - Playa Azul,19.4642397,-102.0757304
+3625997828,Carapan - Playa Azul y Uruapan-La Basilia,19.4651422,-102.0755922
+7848164740,Carapan - Playa Azul,19.4685344,-102.074374
+3167960912,Carapan - Playa Azul,19.4698772,-102.0738877
+3167960913,Carapan - Playa Azul,19.472266,-102.0730034
+3167960916,Carapan - Playa Azul,19.4737186,-102.0724561
+6937690513,Carapan - Playa Azul,19.4745248,-102.0721508
+6587165244,Camino Viejo a Santa Rosa,19.3673386,-102.0242657
+6587165239,Camino Viejo a Santa Rosa,19.3684379,-102.0247648
+6587165227,Camino Viejo a Santa Rosa,19.3713772,-102.0260845
+6903481575,Camino Viejo a Santa Rosa,19.3724206,-102.0265118
+8506899355,Camino Viejo a Santa Rosa,19.3733633,-102.0269154
+6903890704,Camino Viejo a Santa Rosa,19.3757512,-102.0280118
+2029265484,Camino Viejo a Santa Rosa,19.3802247,-102.0299892
+2029265486,Camino Viejo a Santa Rosa,19.3809677,-102.0305601
+2029265492,Camino Viejo a Santa Rosa,19.3818493,-102.0311562
+3599646627,Calle Bosque de San Juan,19.3796504,-102.0388619
+3599646582,Calle Bosque de San Juan y Calle San Patricio,19.3801984,-102.0398514
+3599646566,Calle San Patricio,19.3810747,-102.039479
+3599646568,Calle San Patricio y Camino Viejo a Santa Rosa,19.3823421,-102.038957
+3599646726,Camino Viejo a Santa Rosa,19.3820056,-102.0401654
+6925416475,Camino Viejo a Santa Rosa,19.3817785,-102.0411202
+8495814705,Camino Viejo a Santa Rosa,19.3824092,-102.0421473
+6841909473,Libramiento Oriente,19.4038176,-102.030858
+1414760844,Calle Jesús Romero Flores y Libramiento Oriente,19.4058408,-102.0294885
+3616872420,Calle Paseo de los Laureles y CallePaseo del Nogal,19.4308234,-102.0858989
+4598743342,Avenida Tinto Fino,19.4063531,-102.0748247
+4691668870,Avenida Tinto Fino,19.4059446,-102.0738456
+4598743346,Avenida Tinto Fino,19.4053579,-102.0728088
+4598743399,Avenida Tinto Fino,19.4045126,-102.0718829
+4598743348,Avenida Tinto Fino,19.4038655,-102.0710023
+4691668889,Calle Alejandrina,19.4034154,-102.0700313
+3592234058,Calle Alejandrina,19.4029677,-102.0689571
+3592234040,Calle Alejandrina,19.4025278,-102.0680543
+8496640889,Calle Hermanos López Rayón,19.4270203,-102.0332387
+3596916301,Calle Niza,19.3929571,-102.0467123
+3616872013,Calle Eucalipto y Concorde,19.3936711,-102.0469453
+3596916225,Calle Eucalipto,19.3953106,-102.045879
+3596916227,Sauces y Calle Olivos,19.3962048,-102.0461646
+3596916229,Calle Olivos y Álamos,19.3975423,-102.0456276
+3596916235,Álamos y Calle Pinos,19.3979325,-102.0467936
+3616657344,Calle Honduras,19.3987473,-102.0474773
+3588250112,Calle Honduras y Calle Luxemburgo,19.3990286,-102.0485739
+3588250106,Calle Honduras y Calle Polonia,19.3994062,-102.0498259
+4598647321,Calle Polonia,19.3984073,-102.0496664
+3588250108,Calle Polonia,19.3972121,-102.049536
+3588250111,Calle Polonia y Avenida Estocolmo,19.3961469,-102.0496005
+3596916261,Avenida Estocolmo,19.3964731,-102.0504932
+2011809986,Calle Paraguay y Avenida Estocolmo y Avenida Paraguay,19.3968717,-102.0515948
+3596896740,Avenida Estocolmo,19.3971058,-102.0526723
+3616872020,Avenida Estocolmo,19.3973883,-102.0537616
+2013194286,Avenida Estocolmo,19.3976605,-102.0546735
+1978328146,Calle Mazatlán y Avenida Las Américas,19.4152649,-102.0526111
+1978328150,Avenida Las Américas,19.4155105,-102.053541
+1978328160,Avenida Las Américas y Prolongación Acapulco,19.4159782,-102.0553121
+6740310002,Avenida Las Américas,19.4162255,-102.0562559
+1978328181,Avenida Las Américas,19.4167786,-102.0583857
+6740353257,Avenida Las Américas,19.4170316,-102.0594212
+3599133600,Avenida Paseo de la Revolución,19.3726144,-102.056771
+8528033095,Avenida Paseo de la Revolución,19.3734561,-102.0574134
+3616872075,Avenida Galaxia,19.4072628,-102.0273226
+3610729382,Calle Tierra,19.4064481,-102.0269088
+3610729371,Calle Tierra,19.4053489,-102.0276241
+6644657451,Andador José Silva Herrera,19.4024212,-102.0270951
+1600414513,Calle Paseo de los Fresnos y Avenida Francisco J. Mújica,19.4292658,-102.0861918
+1853597159,Avenida Latinoamericana,19.4019455,-102.0415433
+8524324137,Avenida Latinoamericana,19.4023927,-102.04257
+8524324138,Avenida Latinoamericana,19.4028393,-102.0435372
+3150075984,Calle Tijuana,19.4044003,-102.0430335
+3150076024,Calle Hermanos Flores Magón y Calle Tijuana,19.4056535,-102.0425633
+4447936091,Avenida Uruapan,19.4070581,-102.0442434
+3616872092,Avenida Uruapan,19.408279,-102.04453
+3150076197,Calle Parque Nacional,19.4090804,-102.043935
+3616657554,Calle Aluminio,19.4098362,-102.0426842
+3616657564,Calle Aluminio,19.4107659,-102.0422485
+3616657582,Calle Aluminio,19.4119478,-102.0416728
+3616657607,Calle Camelia y Calle Tulipán,19.4133404,-102.0415749
+3150773620,Calle Camelia,19.4142928,-102.0412611
+3150773636,Calle Camelia,19.4152554,-102.0409647
+3150265709,Calle Camelia,19.4163083,-102.0406508
+3150773677,Calle Río Lerma,19.4178842,-102.0392189
+3589042211,Calle César Augusto Sandino,19.4313396,-102.0801224
+3616872457,Calle César Augusto Sandino,19.4323481,-102.0800949
+3616872486,Calle César Augusto Sandino y Lázaro Cárdenas,19.4333588,-102.0800811
+3589042291,Calle Ernesto Guevara y Ernesto Guevara,19.4343592,-102.0805854
+3616872498,Ernesto Guevara,19.4343704,-102.0815588
+3616872500,Ernesto Guevara,19.4343867,-102.0825264
+3616872503,Ernesto Guevara,19.4344099,-102.0835701
+3616872516,Calle Juventino Rosas y Calle Lucio Blanco,19.4354893,-102.0840737
+3616872523,Calle Juventino Rosas,19.4364175,-102.0841263
+3616872535,Calle Juventino Rosas,19.4376163,-102.0841633
+3590173090,Calle Juventino Rosas,19.438535,-102.0841896
+3590173089,Calle Adolfo López Mateos,19.4389512,-102.0851861
+3590174139,Calle Adolfo López Mateos,19.4393316,-102.086523
+3589042087,Calle Adolfo López Mateos,19.4402256,-102.0877668
+6587360047,Calle Adolfo López Mateos,19.4406469,-102.0887429
+8417214589,Calle Adolfo López Mateos,19.4407559,-102.0898381
+4598647387,Calle Adolfo López Mateos,19.4406375,-102.0909208
+4598647591,Calle Adolfo López Mateos y Calle Pedregal,19.4402113,-102.0916396
+4598743363,Innominada,19.4063785,-102.0749792
+3616657473,Calle Emiliano Zapata,19.4068309,-102.0730304
+3616657463,Calle Emiliano Zapata,19.4062901,-102.0721052
+3616657446,Calle Emiliano Zapata,19.4056046,-102.0710311
+3592233906,Calle Emiliano Zapata y 2a Transversal de Niño Artillero,19.4050354,-102.0701602
+3959370255,Calzada Benito Juárez,19.4318663,-102.024649
+1236968104,Calzada Benito Juárez,19.4329052,-102.0232752
+6828075939,Carretera Pátzcuaro-Uruapan,19.4340843,-102.0212337
+6813224154,Carretera Pátzcuaro-Uruapan,19.4348162,-102.0199576
+8498829256,Carretera Pátzcuaro-Uruapan,19.4371812,-102.0164868
+3588282274,Carretera Pátzcuaro-Uruapan,19.438109,-102.0150488
+8478024105,Carretera Pátzcuaro-Uruapan,19.4388784,-102.013983
+8478475044,Carretera Pátzcuaro-Uruapan,19.4395429,-102.0130625
+8451933965,Carretera Pátzcuaro-Uruapan,19.4400893,-102.0122373
+8498829257,Carretera Pátzcuaro-Uruapan,19.4409488,-102.0110026
+297699342,Carretera Pátzcuaro-Uruapan,19.4420388,-102.0099058
+3611549202,Carretera Pátzcuaro-Uruapan,19.4430689,-102.0093165
+3167960900,Carretera Pátzcuaro-Uruapan,19.445168,-102.0081451
+3611549229,Carretera Pátzcuaro-Uruapan,19.4464463,-102.0074089
+3611549422,Carretera Pátzcuaro-Uruapan,19.447837,-102.0069274
+8452103473,Carretera Pátzcuaro-Uruapan,19.4499134,-102.0066056
+8452103474,Carretera Pátzcuaro-Uruapan,19.4522402,-102.006163
+297699344,Carretera Pátzcuaro-Uruapan,19.4532303,-102.005593
+3599646264,Carretera Pátzcuaro-Uruapan,19.4534504,-102.0043941
+8452103476,Carretera Pátzcuaro-Uruapan,19.4532784,-102.0029363
+297699348,Carretera Pátzcuaro-Uruapan,19.4534495,-102.0019858
+8452103478,Carretera Pátzcuaro-Uruapan,19.454003,-102.0012251
+3167960905,Carretera Pátzcuaro-Uruapan,19.4555014,-102.0005456
+3611549447,Carretera Pátzcuaro-Uruapan y Calle Manuel Bravo M.,19.4566397,-102.0001786
+3611549452,Calle Manuel Bravo M.,19.4576666,-102.0014069
+3611549446,Calle Manuel Bravo M.,19.4582354,-102.002138
+8407560648,Calle Tulipán,19.412584,-102.0387579
+3616657598,Calle Tulipán,19.4128243,-102.0396933
+3616657601,Calle Tulipán,19.413111,-102.040604
+3616872141,Calle Tulipán,19.4136736,-102.0428635
+3616872152,Calle Bugambilia,19.4148891,-102.0434404
+3150773640,Calle Bugambilia,19.415893,-102.0432691
+3616872168,Calle Bugambilia,19.4168997,-102.0430735
+6783727852,Calle Macarena,19.4179899,-102.0428368
+6783727851,Calle Macarena,19.4189735,-102.0426653
+3616657389,Avenida Insurgentes,19.4022207,-102.0660608
+3616657374,Avenida Insurgentes,19.4012008,-102.065146
+3592374602,Avenida Insurgentes,19.4004376,-102.0644734
+297699349,Carretera Pátzcuaro-Uruapan,19.4543773,-102.0009542
+8452103477,Carretera Pátzcuaro-Uruapan,19.4536287,-102.0016381
+297699346,Carretera Pátzcuaro-Uruapan,19.4532961,-102.0025514
+1236995279,Carretera Pátzcuaro-Uruapan,19.4534031,-102.0038645
+297699345,Carretera Pátzcuaro-Uruapan,19.4534105,-102.005205
+1236995330,Carretera Pátzcuaro-Uruapan,19.4526474,-102.0060517
+8453938010,Carretera Pátzcuaro-Uruapan,19.4481095,-102.0068814
+6644489950,Carretera Pátzcuaro-Uruapan,19.4469922,-102.0072026
+3167960901,Carretera Pátzcuaro-Uruapan,19.4455654,-102.0078883
+3611549203,Carretera Pátzcuaro-Uruapan,19.4437011,-102.0089798
+8452122746,Carretera Pátzcuaro-Uruapan,19.4422823,-102.0097665
+3611549073,Carretera Pátzcuaro-Uruapan,19.4415135,-102.010408
+8498829250,Carretera Pátzcuaro-Uruapan,19.4406198,-102.0115387
+8498829241,Carretera Pátzcuaro-Uruapan,19.4399584,-102.0124742
+8498829253,Carretera Pátzcuaro-Uruapan,19.4391453,-102.0137639
+8498829259,Carretera Pátzcuaro-Uruapan,19.4384128,-102.0147949
+8498829248,Carretera Pátzcuaro-Uruapan,19.4378439,-102.0155937
+3167960883,Carretera Pátzcuaro-Uruapan,19.4359999,-102.0182091
+3167960880,Carretera Pátzcuaro-Uruapan,19.4353005,-102.0192079
+3167960870,Calzada Benito Juárez,19.431873,-102.0254309
+6838672159,2a Transversal de Niño Artillero,19.4051099,-102.0700891
+3616872078,Calle Emiliano Zapata,19.4073787,-102.0738927
+4598743362,Avenida Malbec y Calle Josefa Ortiz de Domínguez,19.4068263,-102.0748249
+3592374612,Avenida Insurgentes y Lázaro Cárdenas,19.4005319,-102.0646068
+6924950105,Lázaro Cárdenas,19.3998185,-102.0651837
+3616657338,Prolongación Oriente y Calle Héroe de Nacozari,19.398298,-102.0655391
+3592374806,Calle Héroe de Nacozari,19.398799,-102.0665516
+6924950111,Calle Héroe de Nacozari,19.399061,-102.06745
+1854799080,Calle Casa del Niño,19.3997438,-102.0679632
+1854799143,Calle Casa del Niño,19.400594,-102.0682588
+8403896367,Calle Bugambilia y Calle Tulipán,19.4139077,-102.0436227
+3598932201,Calle Hermanos Flores Magón,19.3873091,-102.0528519
+3598932200,Calle Hermanos Flores Magón y General José Zamora,19.3877744,-102.054314
+3616657231,Calle Hermanos Flores Magón,19.3880227,-102.0553074
+3616657235,Calle Hermanos Flores Magón,19.388496,-102.0571464
+3616657238,Calle Hermanos Flores Magón,19.3887376,-102.0580781
+3592234032,Avenida Lázaro Cárdenas Poniente,19.4062519,-102.0676906
+8562521297,Avenida Lázaro Cárdenas Poniente,19.4067816,-102.0701037
+3592234012,Avenida Lázaro Cárdenas Poniente,19.4070516,-102.071058
+3430835268,Avenida Lázaro Cárdenas Poniente,19.4075544,-102.0718743
+5237252754,Avenida Lázaro Cárdenas Poniente,19.4080832,-102.0727476
+3430835280,Calle Josefa Ortiz de Domínguez y Camino Viejo a la Fundición y Avenida Lázaro Cárdenas Poniente y Colorido,19.4086464,-102.0736092
+3616657537,Colorido,19.40917,-102.0744937
+3616657548,Colorido,19.4097534,-102.0754371
+3590385497,Colorido y Calle Mariano Olivo,19.4102892,-102.0762938
+5237252825,Calle Mariano Olivo,19.4112645,-102.0759117
+3590385471,Lava,19.4121271,-102.0757867
+6790786819,Calle Lava,19.4127232,-102.0764047
+3590385463,Calle Lava,19.4141325,-102.0766764
+4691667184,Avenida de las Lomas,19.4139206,-102.077391
+4600019895,Avenida de las Lomas,19.4130733,-102.0791756
+4600284372,Avenida de las Lomas,19.4132101,-102.0801194
+4600284388,Avenida de las Lomas,19.4133421,-102.0812819
+4600018762,Avenida de las Lomas,19.4135542,-102.0824964
+1600442931,Boulevard Industrial,19.4178761,-102.0464256
+1600442889,Boulevard Industrial y Calle 6,19.4183833,-102.0456143
+3150773692,Boulevard Industrial,19.4190334,-102.0446353
+3150265729,Boulevard Industrial,19.4211912,-102.0411886
+1236995283,Boulevard Industrial,19.4215605,-102.0399991
+3150265732,Boulevard Industrial,19.4217002,-102.0386439
+8407192576,Boulevard Industrial y Calle Pinzón,19.4219266,-102.0367898
+8427589998,Boulevard Industrial,19.4222457,-102.0338636
+1414760796,Boulevard Industrial y Industrial,19.4223754,-102.0326767
+6818328967,Boulevard Industrial,19.4225147,-102.0315829
+3959371359,Boulevard Industrial,19.4230067,-102.027016
+3959371374,Boulevard Industrial,19.4234089,-102.0231511
+1236995222,Boulevard Industrial,19.4236752,-102.0205329
+8477836100,Boulevard Industrial,19.4238059,-102.0193629
+6864954265,Boulevard Industrial,19.4239303,-102.0183531
+1236995238,Boulevard Industrial,19.4244954,-102.0131722
+3959371386,Boulevard Industrial,19.4244265,-102.0120397
+8485320337,Boulevard Industrial,19.4239656,-102.0108056
+8498854996,Avenida Lázaro Cárdenas,19.424663,-102.0099702
+6568200101,Avenida Lázaro Cárdenas,19.4259144,-102.0088776
+6568200103,Avenida Lázaro Cárdenas,19.4269545,-102.0079904
+6568200106,Avenida Lázaro Cárdenas,19.4282583,-102.0069202
+6568200108,Avenida Lázaro Cárdenas,19.4295251,-102.0057761
+6568179278,Avenida Paricutín,19.4306681,-102.0060412
+4691668927,Calle Pedregal,19.4392072,-102.0913312
+4598647628,Calle Pedregal y Calle Turmalina,19.4373608,-102.0907304
+4598647383,Calle Turmalina y Calle Moctezuma,19.4375758,-102.0898138
+3616872530,Calle Moctezuma,19.4373897,-102.0885022
+3616872531,Calle Moctezuma,19.4374447,-102.0871235
+3616872532,Calle Moctezuma y Calle Miguel Hidalgo,19.4375158,-102.0860629
+6878732289,Calle Miguel Hidalgo,19.436266,-102.0861693
+3616872520,Calle Lucio Blanco,19.4355985,-102.0857719
+3616872517,Calle Lucio Blanco,19.4355168,-102.0846163
+3616872504,Ernesto Guevara y Calle Juventino Rosas,19.4344203,-102.084035
+3616872501,Ernesto Guevara,19.4343971,-102.082993
+3616872487,Lázaro Cárdenas y Calle Ernesto Guevara,19.4333336,-102.0805648
+3589042263,Calle César Augusto Sandino,19.4303306,-102.0801604
+6789177567,Avenida Lenin,19.4301495,-102.0794383
+2013194456,Calle Constitución y Calle Cuauhtémoc,19.4245909,-102.0604273
+3590272700,Calle Cuauhtémoc,19.4238518,-102.0576347
+2013194435,Calle Cuauhtémoc,19.4234961,-102.056223
+2013194417,Calle Cuauhtémoc,19.4232101,-102.055301
+2013194413,Calle Yucatán y Calle Veracruz,19.4229005,-102.0534508
+1854525983,Calle Yucatán y Calle Coahuila,19.4211544,-102.0538291
+1854525980,Calle Michoacán y Calle Coahuila,19.4209552,-102.0519273
+1854525994,Calle Michoacán,19.4201894,-102.0522632
+3150265695,Prolongación de Américas y Calle Camelia,19.4124095,-102.0418337
+3616657565,Calle Platino,19.4109144,-102.0425901
+3616657556,Calle Platino,19.4099822,-102.0430353
+3596797658,Calle Parque Nacional y Calle Platino,19.4091072,-102.0434885
+8403831394,Avenida Uruapan y Calle Parque Nacional,19.4090253,-102.0447037
+6838918975,Avenida Uruapan,19.4079109,-102.0445333
+6838918980,Calle Hermanos Flores Magón y Avenida Uruapan y Avenida Ciudad del Carmen,19.4064161,-102.0441725
+3150248003,Calle Hermanos Flores Magón,19.4059666,-102.0433415
+3150076000,Calle Tijuana,19.405007,-102.0428049
+3150075968,Calle Tijuana,19.4033514,-102.0434269
+3150075957,Avenida Latinoamericana,19.4023048,-102.042692
+1853597149,Avenida Latinoamericana,19.4018382,-102.0416012
+3611549236,Calle Zarzamora,19.4464445,-102.0042828
+3616872564,Calle Zarzamora,19.4455981,-102.0048497
+3616872556,Calle Zarzamora,19.4446925,-102.005519
+3611549212,Carretera Pátzcuaro-Uruapan y Calle Cacao,19.4454543,-102.0079547
+1405971234,Paseo General Lázaro Cárdenas y Calzada Benito Juárez,19.4256334,-102.0483773
+1854525981,Calle Paseo General Lázaro Cárdenas y Calle Moctezuma,19.424514,-102.0481323
+3588250135,Calle Norte,19.4048564,-102.0657041
+6935109557,Calle Norte,19.4050453,-102.0646513
+3588250143,Norte y Calle Norte y Calle Jardines del Recuerdo,19.4036085,-102.0631925
+6879728480,Calle Jardines del Recuerdo,19.4029456,-102.0624395
+6879651350,Janitzio,19.4023067,-102.061869
+3592368566,Janitzio,19.4014938,-102.0614485
+3592368562,Janitzio,19.4002268,-102.060744
+6913208945,Calle Oros,19.399121,-102.0593096
+5237252911,Efren Capiz,19.3986538,-102.0594253
+3616657239,General José Zamora,19.388813,-102.0540123
+6821251595,Calle Lázaro Cárdenas,19.3891531,-102.054968
+6821251597,Calle Lázaro Cárdenas,19.3896428,-102.0567977
+3616657251,Calle Lázaro Cárdenas,19.3898794,-102.0577178
+8474651167,General José Zamora,19.3899404,-102.0538506
+3616657257,Calle Reforma Agraria,19.3904584,-102.0555282
+3616657259,Calle Reforma Agraria,19.3907017,-102.0564705
+3616657261,Calle Reforma Agraria,19.390954,-102.0573981
+2730522297,Avenida Paseo de la Revolución y Calle Reforma Agraria,19.3912381,-102.0584513
+1926707069,Avenida Benito Juárez,19.4132421,-102.0532277
+1850699101,Avenida Benito Juárez,19.4135679,-102.0541482
+8556415075,Avenida Benito Juárez,19.4140234,-102.0554243
+1926707080,Avenida Benito Juárez,19.4148848,-102.0580036
+1850625725,Avenida Benito Juárez,19.4151771,-102.0589499
+2974423215,Avenida Benito Juárez,19.4155847,-102.0602757
+1236968043,Calzada Benito Juárez,19.4301194,-102.0668232
+1236968041,Calzada Benito Juárez,19.4307266,-102.0677124
+4452048085,Calzada Benito Juárez,19.4316013,-102.0685374
+6754262850,Calzada Benito Juárez,19.4326979,-102.0694497
+3589041687,Calzada Benito Juárez,19.4333859,-102.0700702
+6791559371,Calzada Benito Juárez,19.4339411,-102.0711771
+1236968056,Calzada Benito Juárez,19.4346677,-102.0733974
+1236968113,Calzada Benito Juárez,19.4336059,-102.0746542
+7829405842,Uruapan-La Basilia,19.4646753,-102.0746988
+6568891215,Uruapan-La Basilia,19.4642559,-102.0719461
+6568891217,Uruapan-La Basilia,19.4636122,-102.0697174
+3625997832,Uruapan-La Basilia,19.4633167,-102.0687274
+3625997833,Uruapan-La Basilia,19.4629424,-102.0670161
+3625997835,Uruapan-La Basilia,19.4625985,-102.0658574
+3625997830,Uruapan-La Basilia,19.4646368,-102.0744995
+7831260014,Uruapan-La Basilia,19.4650714,-102.0754675
+7831150837,Carapan - Playa Azul,19.4755619,-102.0718047
+6471096575,Carapan - Playa Azul,19.476555,-102.0714343
+6845639652,Carapan - Playa Azul,19.4774796,-102.071094
+3167960918,Carapan - Playa Azul,19.4789236,-102.0705591
+3167960919,Carapan - Playa Azul,19.4799372,-102.0700923
+6648358566,Carapan - Playa Azul,19.4809766,-102.0694609
+6845639654,Carapan - Playa Azul,19.4818647,-102.0689482
+7764797921,Carapan - Playa Azul,19.4827383,-102.0691077
+7764797928,Carapan - Playa Azul,19.4832769,-102.0699888
+7764797927,Carapan - Playa Azul,19.48399,-102.0706809
+7764797926,Carapan - Playa Azul,19.4854174,-102.0710604
+7782885709,Carapan - Playa Azul,19.486368,-102.0712734
+6845639616,Carapan - Playa Azul,19.4873025,-102.0714748
+3167960929,Carapan - Playa Azul,19.4882297,-102.0716315
+7765234576,Carapan - Playa Azul,19.4926045,-102.0707972
+6845639621,Carretera Uruapan-Tiamba,19.4933926,-102.0702827
+6845639618,Carretera Uruapan-Tiamba,19.4932167,-102.068688
+6845639619,Carretera Uruapan-Tiamba,19.4927236,-102.0670277
+7764967243,Carretera Uruapan-Tiamba,19.492783,-102.0661037
+3599646195,Carretera Uruapan-Tiamba,19.4952913,-102.0636991
+7764967240,Carretera Uruapan-Tiamba,19.4954847,-102.0627402
+3599646198,Carretera Uruapan-Tiamba,19.4941029,-102.0614862
+3599646199,Carretera Uruapan-Tiamba,19.4932027,-102.060589
+7764967233,Carretera Uruapan-Tiamba,19.4923671,-102.060349
+7765103467,Carretera Uruapan-Tiamba,19.4921796,-102.0585392
+7765103441,Carretera Uruapan-Tiamba,19.4924501,-102.0570294
+7764967229,Carretera Uruapan-Tiamba,19.4927287,-102.0558858
+6650960578,Carretera Uruapan-Tiamba,19.4919297,-102.0514119
+3599646204,Carretera Uruapan-Tiamba,19.4914998,-102.0491937
+3599646206,Carretera Uruapan-Tiamba,19.4918311,-102.0482227
+7764967222,Carretera Uruapan-Tiamba,19.4924101,-102.0468608
+7765234535,Carretera Uruapan-Tiamba,19.4921059,-102.043563
+4545203135,Carretera Uruapan-Tiamba y Ramal a Zirapóndiro,19.4918715,-102.0419598
+4545203136,Ramal a Zirapóndiro,19.4938482,-102.0406344
+7765053621,Ramal a Zirapóndiro,19.4943456,-102.039814
+4545203140,Ramal a Zirapóndiro,19.4953722,-102.0397148
+4545203146,Ramal a Zirapóndiro,19.4952862,-102.0390911
+4545203150,Ramal a Zirapóndiro,19.4960819,-102.038542
+7790342589,Ramal a Zirapóndiro,19.496917,-102.0388994
+4545203153,Ramal a Zirapóndiro,19.4979878,-102.0390992
+7790342592,Ramal a Zirapóndiro,19.4990169,-102.0391421
+7790342594,Ramal a Zirapóndiro,19.500013,-102.039071
+7790342595,Ramal a Zirapóndiro,19.5012001,-102.0382489
+7790342596,Ramal a Zirapóndiro,19.501999,-102.0376367
+4545203157,Ramal a Zirapóndiro,19.5003721,-102.0389114
+4545203155,Ramal a Zirapóndiro,19.4994922,-102.0391528
+4545203154,Ramal a Zirapóndiro,19.4984821,-102.0391086
+4545203152,Ramal a Zirapóndiro,19.4974189,-102.0390616
+7765053624,Ramal a Zirapóndiro,19.4963861,-102.0386298
+7765053626,Ramal a Zirapóndiro,19.4953127,-102.0386942
+4545203144,Ramal a Zirapóndiro,19.4956693,-102.0392776
+4545203139,Ramal a Zirapóndiro,19.494783,-102.0396692
+4545203137,Ramal a Zirapóndiro,19.4940498,-102.0402914
+7765322391,Carretera Uruapan-Tiamba,19.4915917,-102.0401181
+3599646208,Carretera Uruapan-Tiamba,19.4914139,-102.0389476
+6648142000,Carretera Uruapan-Tiamba,19.4911408,-102.0369574
+7765234542,Carretera Uruapan-Tiamba,19.4906217,-102.0336689
+6648142015,Carretera Uruapan-Tiamba,19.4904758,-102.0326847
+6648142018,Carretera Uruapan-Tiamba,19.490075,-102.0316561
+3599646211,Carretera Uruapan-Tiamba,19.489898,-102.0308273
+3588282230,5a. Cerrada,19.4265387,-102.0368583
+1941818900,Calle Pinzón,19.4256415,-102.0368031
+8414502848,Calle Pinzón,19.4242463,-102.0368146
+6751311495,Calle Pinzón,19.4232781,-102.0368314
+3588281148,Calle Pinzón,19.4222558,-102.0368162
+3611251646,Avenida Villamar,19.4132873,-102.0143867
+3611251642,Avenida Villamar,19.4123279,-102.0145543
+6804206940,Avenida de las Torres,19.4115898,-102.0142365
+3616657562,Avenida de las Torres,19.4104869,-102.0141533
+3616657540,Avenida de las Torres,19.409265,-102.0140326
+3610729462,Camino Viejo a Tejerias,19.4069101,-102.0181777
+1895543623,Camino Viejo a Tejerias,19.4057082,-102.0180212
+3600822802,Camino Viejo a Tejerias,19.4043998,-102.0182537
+3600822795,Camino Viejo a Tejerias,19.4035045,-102.0185562
+3600822785,Camino Viejo a Tejerias,19.4023549,-102.0189163
+3616657372,Calle Tulipán y Camino Viejo a Tejerias,19.4010746,-102.0193405
+3600822602,Benito Quezada García,19.3986952,-102.020278
+6644685063,Benito Quezada García,19.3976124,-102.0205182
+3600822607,Benito Quezada García,19.3964691,-102.0207503
+8408127782,Avenida San Francisco Uruapan,19.3928094,-102.0226591
+8523403511,Libramiento Oriente,19.3963562,-102.0359362
+1414760845,Libramiento Oriente,19.3954077,-102.0365481
+8509815182,Libramiento Oriente,19.3906662,-102.0396426
+8528268730,Libramiento Oriente,19.3889016,-102.040781
+8498706877,Libramiento Oriente,19.3862855,-102.0424953
+2029265498,Libramiento Oriente y Camino Viejo a Santa Rosa,19.3838896,-102.0440566
+8495814712,Camino Viejo a Santa Rosa,19.3829131,-102.0427927
+2029265493,Camino Viejo a Santa Rosa,19.3818525,-102.041424
+3599646575,Calle San Patricio,19.3792099,-102.0402932
+6927957024,Avenida Santa Rosa y Avenida Lago de Pátzcuaro y Calle San Patricio,19.3781343,-102.0408446
+6925443715,Avenida Quirindavara,19.379469,-102.0432938
+6925443709,Avenida Quirindavara,19.380287,-102.0448397
+3599133645,Libramiento Oriente y Profesor Jorge Orozco A.,19.3807916,-102.0458097
+6925437525,Libramiento Oriente,19.380175,-102.0464794
+6897067201,Libramiento Oriente,19.3792768,-102.0470721
+3616872416,Avenida Paricutín,19.4305796,-102.0061191
+3616872385,Avenida Lázaro Cárdenas,19.4295837,-102.0058557
+3616872345,Avenida Lázaro Cárdenas,19.4282983,-102.0069737
+3616872317,Avenida Lázaro Cárdenas,19.4270361,-102.0080751
+3616872283,Avenida Lázaro Cárdenas,19.4252737,-102.009571
+8498854999,Avenida Lázaro Cárdenas,19.42426,-102.0104332
+1236995250,Boulevard Industrial,19.4242955,-102.0113722
+1236995179,Boulevard Industrial,19.424594,-102.012437
+3959371370,Industrial,19.4234145,-102.0248548
+8456293991,Industrial,19.4232249,-102.0266363
+1853597144,Industrial,19.4230871,-102.027673
+3616872208,Prolongación Jalisco y Calle 6,19.4193572,-102.0453997
+3616872209,Prolongación Jalisco,19.4194685,-102.0464699
+3616872210,Prolongación Jalisco,19.4196241,-102.0478351
+8414591583,Avenida Benito Juárez,19.4130393,-102.0526023
+6845324920,Calle Juata,19.3819753,-102.077888
+6845324926,Calle Juata,19.382523,-102.0787784
+4572397589,Calle Juata y Privada Kuta,19.3824933,-102.0799843
+4572397586,Privada Kuta,19.3815952,-102.0799269
+8434374648,Uruapan - Apatzingan y Calle Guadalupe Victoria,19.3811287,-102.0793659
+8478024101,Libramiento Oriente,19.4244037,-102.025035
+8478475099,Libramiento Oriente,19.4256601,-102.0251309
+6799581166,Calzada Benito Juárez,19.4334102,-102.0745666
+1236968100,Calzada Benito Juárez,19.4342558,-102.0739916
+6791559366,Calzada Benito Juárez,19.433893,-102.0713031
+6791559368,Calzada Benito Juárez,19.4335187,-102.0703939
+6754262851,Calzada Benito Juárez,19.4327497,-102.0697112
+4452048084,Calzada Benito Juárez,19.431839,-102.0688982
+1236968084,Calzada Benito Juárez,19.430557,-102.0677124
+6754198932,Calzada Benito Juárez,19.4298004,-102.0664081
+3959371367,Industrial,19.4231369,-102.0247714
+3611254730,Industrial,19.4232591,-102.0235531
+293969947,Boulevard Industrial,19.4235184,-102.0097303
+3611255299,Boulevard Industrial,19.4231491,-102.008805
+3611255311,Boulevard Industrial,19.4227962,-102.0078957
+6644826645,Boulevard Industrial,19.4222561,-102.0065948
+6852318979,Boulevard Industrial,19.4218501,-102.0055957
+8488877045,Boulevard Industrial,19.4214011,-102.0045061
+3611255345,Boulevard Industrial y A La Feria,19.4210002,-102.0035331
+6852425365,A La Feria y Calle La Veracruzana,19.4201439,-102.0036632
+1850699123,Avenida Benito Juárez y Prolongación Acapulco,19.4141698,-102.0558508
+1850625727,Calle Paseo General Lázaro Cárdenas y Avenida Benito Juárez,19.4129248,-102.0522491
+6810246324,Calle Paseo General Lázaro Cárdenas,19.4135334,-102.0518198
+6751282092,Calle Paseo General Lázaro Cárdenas y Avenida Las Américas,19.4148595,-102.0514317
+3590174166,Calle Nicolás Régules,19.427134,-102.083795
+4691668884,Calle Nicolás Régules,19.4288917,-102.08372
+4598743297,Calle Revolución,19.4290321,-102.0660763
+6591902843,Calle Revolución,19.4281634,-102.0663507
+1978328306,Calle Revolución,19.426428,-102.0669043
+6838928385,Avenida Ciudad del Carmen,19.4053817,-102.0440868
+6838928389,Avenida Ciudad del Carmen,19.4043625,-102.0444511
+6838928391,Avenida Ciudad del Carmen y Avenida Latinoamericana,19.4033506,-102.0448469
+3150075960,Avenida Latinoamericana,19.402722,-102.0436527
+3610729620,Calle Tacámbaro y Jacona,19.407188,-102.0099583
+8498896292,Jacona,19.4084275,-102.0096455
+3616657524,Calle Pátzcuaro,19.4088046,-102.0103888
+3616657531,Calle Pátzcuaro,19.4090778,-102.0115462
+3610729502,Camino a Tejerías,19.4091258,-102.012367
+5237279818,Avenida de las Torres,19.4101175,-102.0139535
+5237280614,Avenida de las Torres y Camino Real a Santa Catarina,19.4117674,-102.0140837
+6804092535,Avenida Villamar,19.412498,-102.0144805
+3611251667,Avenida Villamar,19.4147826,-102.0143382
+3611251673,Avenida Villamar,19.4157955,-102.0144242
+3611251679,Avenida Villamar,19.416868,-102.014443
+3611255161,Avenida Villamar,19.4179292,-102.0144376
+3611255164,Calle San Fernando,19.418554,-102.0136061
+3611255154,Calle San Fernando,19.4189234,-102.0123146
+3611255169,Calle San Fernando,19.4191574,-102.0112109
+3611255173,Calle San Fernando,19.4194053,-102.0100683
+3611255318,Pera,19.4189765,-102.0094863
+3611255328,Calle La Veracruzana,19.4189455,-102.0081184
+3611255334,Calle La Veracruzana,19.4192801,-102.0068745
+3611251692,Calle La Veracruzana,19.4196,-102.0056442
+6852318977,Paricutín,19.4209407,-102.0033869
+2013194366,Calle Monterrey,19.4216355,-102.0497043
+2013194371,Calle Monterrey,19.4217585,-102.05074
+1854493736,Calle Jalisco y Calle 16 de Septiembre,19.4204707,-102.0550008
+2010117144,Calle 16 de Septiembre,19.4207656,-102.0560735
+2013194364,Calle 16 de Septiembre,19.4210187,-102.0570805
+2010117143,Calle 16 de Septiembre,19.4215587,-102.058068
+2013194374,Calle 16 de Septiembre,19.4218415,-102.0589868
+2013194391,Calle 16 de Septiembre,19.4224918,-102.0610823
+2013194409,Calle 16 de Septiembre,19.42278,-102.0621332
+8488877104,Calle La Veracruzana,19.4198492,-102.0047455
+8498702915,Calle La Veracruzana,19.4189755,-102.0080137
+3616872190,Pera y Calle La Veracruzana,19.4186426,-102.0093723
+3611255148,Calle San Fernando,19.4186654,-102.0132521
+3611251685,Avenida Villamar y Calle San Fernando,19.4183542,-102.0144524
+8474681509,Avenida Villamar,19.4173057,-102.0145181
+3611251675,Avenida Villamar,19.4161547,-102.0144188
+3611251668,Avenida Villamar,19.4151605,-102.0143773
+3611251657,Avenida Villamar,19.4138615,-102.0142928
+3611251641,Avenida Villamar,19.4128547,-102.0144618
+3610729514,Camino Real a Santa Catarina y Avenida de las Torres,19.4118605,-102.0142633
+3616657566,Avenida de las Torres,19.4109371,-102.0141882
+3616657549,Avenida de las Torres,19.4096849,-102.0140782
+3616657516,Avenida de las Torres,19.4084377,-102.0139682
+6818328966,Industrial,19.4224134,-102.031627
+6818328969,Industrial,19.4227405,-102.0285487
+8456293992,Industrial,19.422953,-102.0268388
+3959371362,Industrial,19.4230616,-102.0255254
+3588248782,Libramiento Oriente,19.3821158,-102.0451897
+6821427555,Profesor Jorge Orozco A. y Libramiento Oriente,19.3808963,-102.0460034
+3599646442,Avenida Quirindavara,19.3769287,-102.0440361
+3616657099,Avenida Maruata Lugar Precioso,19.3762785,-102.0438409
+3616657088,Avenida Maruata Lugar Precioso,19.3758272,-102.0427829
+3616657083,Avenida Maruata Lugar Precioso,19.3753859,-102.0417614
+3616657073,Avenida Maruata Lugar Precioso,19.3749141,-102.0406444
+6927957026,Avenida Maruata Lugar Precioso,19.3744845,-102.0396383
+3599646417,Paricutín,19.3739472,-102.0390238
+1237001851,Libramiento Oriente,19.3700008,-102.055262
+1237001835,Libramiento Oriente,19.369082,-102.055864
+3927219848,Carapan - Playa Azul,19.3680848,-102.0565243
+8428476697,Carapan - Playa Azul,19.3668073,-102.0572101
+3599133655,Carapan - Playa Azul,19.3657797,-102.0572431
+3927219838,Carapan - Playa Azul,19.3648184,-102.0572402
+3927219837,Carapan - Playa Azul,19.3641261,-102.0581565
+3927219836,Carapan - Playa Azul,19.3635564,-102.0589154
+1197826595,Carapan - Playa Azul,19.3624191,-102.0605068
+3927219834,Carapan - Playa Azul,19.3616426,-102.0613937
+3927219831,Carapan - Playa Azul,19.3607585,-102.062182
+1197826654,Carapan - Playa Azul,19.3589665,-102.062781
+8424944762,Carapan - Playa Azul,19.3567168,-102.0608975
+3927219617,Carapan - Playa Azul,19.3554123,-102.0601733
+3927219610,Carapan - Playa Azul,19.3546355,-102.0588517
+3927219608,Carapan - Playa Azul,19.3545094,-102.0572459
+3927219589,Carapan - Playa Azul,19.3537001,-102.0568286
+3626121539,Uruapan-Arroyo Colorado,19.3524792,-102.0564793
+6861166372,Uruapan-Arroyo Colorado,19.35192,-102.0569439
+6861166367,Uruapan-Arroyo Colorado,19.3512292,-102.0565631
+6861166363,Uruapan-Arroyo Colorado,19.3497715,-102.0567173
+3927356917,Uruapan-Arroyo Colorado,19.3492533,-102.0557725
+3927356890,Uruapan-Arroyo Colorado,19.3488617,-102.054483
+3927356708,Uruapan-Arroyo Colorado,19.3482657,-102.0532908
+3927356666,Uruapan-Arroyo Colorado,19.3473395,-102.0529327
+3927356485,Uruapan-Arroyo Colorado,19.3460298,-102.0520824
+6861166376,Uruapan-Arroyo Colorado,19.3456894,-102.0520543
+3927356521,Uruapan-Arroyo Colorado,19.3467776,-102.0522996
+3626121546,Uruapan-Arroyo Colorado,19.3479101,-102.0530829
+3626121545,Uruapan-Arroyo Colorado,19.3486377,-102.0536394
+6641654298,Uruapan-Arroyo Colorado,19.3490034,-102.0550724
+6641312420,Uruapan-Arroyo Colorado,19.3493134,-102.055981
+6861166364,Uruapan-Arroyo Colorado,19.3505459,-102.0568997
+6861166368,Uruapan-Arroyo Colorado,19.351338,-102.0566288
+6641312425,Uruapan-Arroyo Colorado,19.3520533,-102.0565805
+3626121538,Carapan - Playa Azul y Uruapan-Arroyo Colorado,19.3531402,-102.0573862
+1197826599,Carapan - Playa Azul,19.3541977,-102.0569161
+3927219603,Carapan - Playa Azul,19.3544436,-102.0581323
+1197826622,Carapan - Playa Azul,19.3552466,-102.0600499
+3927219624,Carapan - Playa Azul,19.3563051,-102.0605698
+1197826583,Carapan - Playa Azul,19.358282,-102.0625517
+1197826634,Carapan - Playa Azul,19.3600014,-102.0626308
+1197826667,Carapan - Playa Azul,19.364718,-102.0573493
+8428430969,Carapan - Playa Azul,19.3656426,-102.057129
+8428476696,Carapan - Playa Azul,19.366713,-102.0571783
+8428430974,Carapan - Playa Azul,19.3679131,-102.0565215
+1237001841,Libramiento Oriente,19.3691682,-102.0556023
+1237001849,Libramiento Oriente,19.3699647,-102.055039
+1824611943,Calle Río Volga,19.3852455,-102.0169257
+1824611944,Calle Río Volga,19.3861607,-102.016512
+6868066004,Calle Río Volga,19.3871788,-102.0169953
+3599671537,Calle Río Volga,19.3883814,-102.0168747
+1895543666,Calle Río Volga,19.3897317,-102.0166315
+6912966527,Avenida San Francisco Uruapan,19.3909113,-102.01675
+1822482842,Calle Licenciado Carlos Salinas de Gortari,19.3905743,-102.0239462
+1822482845,Calle Licenciado Carlos Salinas de Gortari,19.3909246,-102.0251492
+1926703920,Calle Licenciado Carlos Salinas de Gortari y Privada 28 de Abril,19.3912948,-102.0263403
+1926703919,Calle Rey David y Avenida Valle Real,19.390856,-102.0269505
+6641800175,Avenida Valle Real,19.3916596,-102.0275721
+1941889783,Avenida Valle Real,19.3927023,-102.0280713
+1941889999,Avenida Valle Real,19.3936392,-102.0280922
+1941889785,Avenida Valle Real,19.3944614,-102.0279902
+8407443934,Melchor Muzquiz,19.3956213,-102.0274208
+3091652613,Avenida Valle Real,19.3950789,-102.0277988
+8407310990,Avenida Valle Real,19.3940768,-102.0278487
+1824601505,Avenida Valle Real,19.3932732,-102.0283479
+1941890008,Avenida Valle Real,19.3923686,-102.0279102
+1824601503,Avenida Valle Real,19.3910119,-102.0272741
+11090374241,Privada 28 de Abril y Calle Rey Alejandro,19.3910368,-102.0265345
+1824611945,Calle Río Mississipi,19.3897741,-102.020818
+6641772967,Calle Mariano Arista,19.3905715,-102.0200877
+1824601488,Avenida San Francisco Uruapan,19.3913819,-102.0198685
+6916204816,Calle Río Volga,19.3860717,-102.016565
+3592374857,Calle Oros,19.3995952,-102.0602575
+3592368533,Janitzio,19.400964,-102.0612821
+3592368529,Janitzio,19.4020568,-102.0614687
+6725250018,Benito Juárez,19.4254585,-102.0469795
+2979747150,Benito Juárez,19.4253796,-102.0457402
+3611549213,Calle Cacao,19.444301,-102.0059068
+3616872558,Calle Zarzamora,19.444989,-102.0052934
+6800261022,Calle Mariano Matamoros,19.4210141,-102.0771356
+3616872176,Prolongación Juan Escutia,19.4175675,-102.0707662
+6793167031,Prolongación Juan Escutia,19.417294,-102.0698049
+1983215152,Prolongación Caracol y Calle Caracol,19.41701,-102.0686229
+3598932040,Plan de San Luis,19.393118,-102.0567417
+3598932072,Plan de San Luis,19.39277,-102.0554204
+3616657306,Calle Cuba y Calle Niza,19.3948617,-102.0535986
+3596896772,Calle Niza,19.3945313,-102.0522988
+3596916370,Calle Niza,19.3942519,-102.0510578
+3596916345,Calle Niza,19.3939377,-102.0498337
+3150075967,Avenida Latinoamericana y Avenida Ciudad del Carmen,19.4033212,-102.044774
+3616872042,Avenida Ciudad del Carmen,19.4043343,-102.0443634
+3616872048,Avenida Ciudad del Carmen,19.4053542,-102.0440081
+3150076141,Calle Hermanos Flores Magón y Avenida Ciudad del Carmen,19.4062906,-102.0440774
+3150265553,Calle Hermanos Flores Magón,19.4067687,-102.0450195
+3150265566,Calle Hermanos Flores Magón,19.407223,-102.0461786
+3150265577,Calle Hermanos Flores Magón,19.4076756,-102.0473489
+1600442926,Calle 6,19.4182236,-102.0456588
+3616657719,Calle Nicolás Régules,19.4280311,-102.0837669
+3616657233,Calle Hermanos Flores Magón,19.38825,-102.0561927
+3588250101,General José Zamora,19.3911191,-102.0537052
+3588232343,Calle Cuba y Plan de San Luis y General José Zamora,19.3922716,-102.0536073
+3598932027,Calle Cuba,19.3932507,-102.0535067
+3596916325,Andador Molino del Rey,19.3935917,-102.0489965
+3596916294,Calle Tipitín y Prolongación Antonio Talavera,19.392582,-102.0481707
+3616872011,Calle Tipitín,19.3935909,-102.0478292
+8577450848,Calle Luxemburgo,19.3954654,-102.0484158
+3596916255,Calle Luxemburgo,19.3972027,-102.0483904
+2013151456,Calle Honduras y Calle Cananea,19.3983451,-102.0463114
+6937539097,Calle Cananea,19.3991936,-102.0460461
+6858901383,Calle Cananea,19.4002937,-102.0458998
+2013151732,Calle Cananea,19.4013923,-102.0457951
+2013151698,Calle Cananea,19.4024107,-102.0456704
+2013151454,Calle Cananea y Avenida Latinoamericana,19.4035178,-102.0455414
+2013151870,Avenida Latinoamericana,19.4030953,-102.0445341
+3150773601,Calle Clavel,19.4127434,-102.0353857
+3150773611,Calle Clavel,19.4137401,-102.0351175
+8408236548,Calle Clavel,19.4152588,-102.0346392
+3150773650,Calzada de la Fuente y Calle Clavel,19.4164684,-102.0343021
+3150265715,Costa Rica,19.4166062,-102.0371935
+3150773718,Costa Rica,19.4195216,-102.0366839
+3150265721,Costa Rica,19.420419,-102.0365048
+3150773750,Costa Rica,19.4218463,-102.0362628
+3611324242,Calle Pinzón,19.4232819,-102.0367067
+3611324247,Calle Pinzón,19.4249767,-102.0366772
+1941818895,Calle Pinzón,19.426183,-102.0367815
+3588483591,5a. Cerrada,19.4272574,-102.0369309
+3616872315,Avenida Paseo de la Cima,19.4269102,-102.0443433
+1895543624,Avenida San Francisco Uruapan,19.3910989,-102.0175691
+1850744498,Manuel Perez Coronado,19.4049012,-102.0586163
+2010106123,Manuel Perez Coronado,19.4060781,-102.0590127
+3588505774,Prolongación Francisco Villa,19.4352869,-102.0526004
+3588505772,Prolongación Francisco Villa,19.4342668,-102.0534824
+6746674940,Prolongación Francisco Villa,19.4333037,-102.0534584
+3616872447,Prolongación Francisco Villa y Calle Heriberto Jara,19.431977,-102.0540188
+3588505762,Calzada Benito Juárez y Prolongación Francisco Villa,19.4265191,-102.0550884
+1983215009,Calle Abasolo,19.414359,-102.0671308
+4788744344,Calle Abasolo,19.4146848,-102.0682968
+1983215093,Calle Mariano Jiménez y Calle Abasolo,19.4158411,-102.0684211
+1983215145,Avenida Anillo de Circunvalación y Calle Mariano Jiménez,19.4168917,-102.0720782
+3590385125,Calle Mariano Matamoros,19.4214775,-102.0797823
+3590385128,Calle Mariano Matamoros,19.4216393,-102.0807704
+6927957029,Avenida Maruata Lugar Precioso,19.3747392,-102.0399654
+6864713580,Avenida Maruata Lugar Precioso,19.3751776,-102.0409948
+3599646474,Avenida Maruata Lugar Precioso,19.3756361,-102.0420432
+6864503517,Avenida Maruata Lugar Precioso,19.3760985,-102.0430884
+6864503514,Avenida Maruata Lugar Precioso,19.3765433,-102.0441086
+3599646446,Avenida Quirindavara y Calle Profesor Enrique Flores Magón,19.3773445,-102.0438389
+3599646445,Calle Profesor Enrique Flores Magón y Calle Enrique Aguilar,19.3780528,-102.0451622
+8456293990,Industrial,19.4233289,-102.0257197
+1978328234,Calle Jalisco,19.4199808,-102.051147
+1850699111,Calle Michoacán,19.420177,-102.0519957
+1854526005,Calle Yucatán,19.4193968,-102.0542398
+3590272716,Avenida Emilio Carranza y Privada de Emilio Carranza,19.4230359,-102.070919
+1941889819,Camino Viejo a Tejerias,19.4006557,-102.0194714
+3616657378,Calle Tulipán,19.4015601,-102.0200522
+3616657391,Calle Tulipán,19.4022848,-102.0210646
+3600822682,Calle Tulipán,19.4030313,-102.0221108
+3600822676,Calle Tulipán,19.4036968,-102.0230462
+3600822670,Calle Tulipán,19.4043892,-102.0240071
+3610729419,Calle Plan de Ayala,19.4052611,-102.0242909
+3610729429,Calle Plan de Ayala,19.4062111,-102.0234483
+6791348587,Avenida Anillo de Circunvalación,19.4310879,-102.0756483
+4600289336,Avenida Anillo de Circunvalación,19.4297493,-102.0757127
+8448290540,Calle Nicolás Régules,19.4262303,-102.0838333
+6788665388,Ángel Davis,19.4251663,-102.0836735
+3590174173,Ángel Davis,19.4252217,-102.0826792
+6831170396,Ángel Davis,19.4251714,-102.0814969
+3590174339,Calle Ignacio Zaragoza,19.4242328,-102.0814282
+3590383588,Calle Ignacio Zaragoza,19.4226112,-102.0814489
+8559975377,Calle Mariano Matamoros,19.4216727,-102.0813993
+1983215098,Avenida Anillo de Circunvalación,19.4160144,-102.0722818
+6935189445,Avenida Anillo de Circunvalación,19.4126043,-102.0714936
+1983214837,Avenida Anillo de Circunvalación,19.4116935,-102.0712763
+1983214783,Avenida Anillo de Circunvalación,19.4107907,-102.0709957
+1983214735,Avenida Anillo de Circunvalación,19.4100503,-102.0704529
+3590656137,Camino Viejo a la Fundición,19.4094941,-102.0708897
+3590656151,Camino Viejo a la Fundición,19.409264,-102.0718745
+3590656141,Camino Viejo a la Fundición,19.4091054,-102.0729038
+3430835278,Calle Josefa Ortiz de Domínguez,19.408571,-102.07366
+3430835270,Calle Josefa Ortiz de Domínguez,19.407696,-102.073958
+4598743370,Avenida Tinto Fino,19.4062762,-102.0747027
+4598743407,Avenida Tinto Fino,19.405755,-102.0735348
+4598743412,Avenida Tinto Fino,19.4050755,-102.0724909
+4598743347,Avenida Tinto Fino,19.4042984,-102.0716074
+4598743350,Avenida Tinto Fino,19.4036779,-102.0708981
+6924858947,Calle Alejandrina,19.4032902,-102.069673
+3596916374,Avenida Paraguay,19.3946415,-102.0515456
+6859124467,Avenida Paraguay,19.3958016,-102.0517109
+8484921774,Avenida Paraguay,19.3968066,-102.0516305
+2013194287,Calle Paraguay,19.3980251,-102.0512583
+2013194290,Calle Paraguay,19.3991872,-102.0509152
+4691667146,Calle Paraguay,19.4006525,-102.0504715
+3616872036,Calle Paraguay,19.4026559,-102.0498849
+6852864451,Calle Paraguay,19.4038002,-102.0495526
+8523006262,Avenida Paseo de la Revolución,19.372491,-102.056862
+8495842017,Profesor Jorge Orozco A.,19.3806654,-102.0455945
+3599646523,Profesor Jorge Orozco A.,19.3793877,-102.0433423
+3599646543,Profesor Jorge Orozco A.,19.3789098,-102.0424694
+3599646594,Calle Bosque de San Juan,19.3798399,-102.0392114
+3599646565,Calle San Patricio,19.380699,-102.0396346
+3600713820,Calle Rosa de Castilla,19.392669,-102.0217383
+3600713841,Calle Rosa de Castilla,19.3938463,-102.0214303
+3616872015,Calle Rosa de Castilla,19.3948054,-102.021093
+3600822499,Calle Rosa de Castilla y Gonzalo Loza,19.3960461,-102.020821
+3600822527,Benito Quezada García,19.397174,-102.0206096
+1895543628,Camino Viejo a Tejerias,19.4017055,-102.0191233
+1895543594,Camino Viejo a Tejerias,19.4054699,-102.0180183
+3610729484,Camino Viejo a Tejerias,19.4064305,-102.0180962
+3610729490,Calle Los Pinos,19.4071602,-102.0178239
+3610729655,Calle José Marcelo,19.4076687,-102.0128605
+3611255175,Avenida Villamar,19.4192497,-102.0144779
+3611251637,Avenida Villamar,19.4207256,-102.0143909
+3611251636,Boulevard Industrial y Avenida Villamar,19.4243531,-102.0144577
+3616872287,Calle Manuel Doblado,19.4255793,-102.0600982
+3616872293,Calle Manuel Doblado,19.4258836,-102.0611152
+7764967219,Carretera Uruapan-Tiamba,19.4902065,-102.0321563
+6648142010,Carretera Uruapan-Tiamba,19.4905744,-102.0332801
+7764967221,Carretera Uruapan-Tiamba,19.4925112,-102.0463344
+7764967223,Carretera Uruapan-Tiamba,19.4920156,-102.0479465
+7764967227,Carretera Uruapan-Tiamba,19.4914417,-102.0486921
+7764967228,Carretera Uruapan-Tiamba,19.4927135,-102.0555398
+7764967230,Carretera Uruapan-Tiamba,19.4921775,-102.0579484
+7764967232,Carretera Uruapan-Tiamba,19.4922697,-102.0599104
+7764967236,Carretera Uruapan-Tiamba,19.4930283,-102.0605019
+7764967239,Carretera Uruapan-Tiamba,19.4950157,-102.0621876
+7764967241,Carretera Uruapan-Tiamba,19.4955454,-102.0629708
+3599646194,Carretera Uruapan-Tiamba,19.4928563,-102.0659977
+3599643492,Carretera Uruapan-Tiamba,19.4930677,-102.0680632
+3599643491,Carretera Uruapan-Tiamba,19.4933598,-102.0700038
+3625997599,Carapan - Playa Azul,19.4931466,-102.0707766
+3625997601,Carapan - Playa Azul,19.4918343,-102.0710448
+3625997602,Carapan - Playa Azul,19.4907647,-102.0712755
+3625997603,Carapan - Playa Azul,19.4898115,-102.0714632
+3625997605,Carapan - Playa Azul,19.4888127,-102.0716671
+3625997608,Carapan - Playa Azul,19.4878569,-102.0716482
+3625997609,Carapan - Playa Azul,19.4869491,-102.0714686
+3625997610,Carapan - Playa Azul,19.4857051,-102.0712004
+7764797933,Carapan - Playa Azul,19.4845147,-102.0709169
+3625997613,Carapan - Playa Azul,19.4835349,-102.0704274
+6845639656,Carapan - Playa Azul,19.4829621,-102.0694953
+3625997618,Carapan - Playa Azul,19.4822655,-102.0689428
+3625997620,Carapan - Playa Azul,19.4810846,-102.0694457
+6648362725,Carapan - Playa Azul,19.4799285,-102.0701951
+3625997623,Carapan - Playa Azul,19.4788968,-102.0706572
+6471098789,Carapan - Playa Azul,19.4773152,-102.0712718
+3625997626,Carapan - Playa Azul,19.4759849,-102.0717529
+6597235487,Innominada,19.462053,-102.0647204
+3625997641,Carapan - Playa Azul,19.4642563,-102.0757815
+4598702789,Privada Paseo de la Cima,19.4291872,-102.0447142
+1405971274,Innominada,19.425258,-102.0481087
+3611324199,Calzada Benito Juárez y Benito Juárez,19.4255397,-102.0471619
+3150773732,Costa Rica,19.4208516,-102.0364272
+8408236528,Calle Clavel,19.4155524,-102.0345468
+3150247993,Calle Cananea,19.403547,-102.0456107
+6859006286,Calle Cananea,19.4024703,-102.045764
+6750512303,Calle Cananea,19.4014458,-102.0458907
+2013194295,Calle Cananea,19.4003317,-102.0459895
+6937539096,Calle Cananea,19.3992151,-102.0461132
+3596916240,Calle Pinos y Calle Honduras,19.3985173,-102.0467599
+3596916245,Calle Honduras,19.3988774,-102.0479605
+8499181247,Calle Luxemburgo,19.3980956,-102.0484467
+3588250114,Calle Luxemburgo,19.3961775,-102.0482523
+8509815630,Calle Luxemburgo,19.3950007,-102.0484839
+6927303508,Andador Molino del Rey,19.3944725,-102.0488959
+3596916333,Andador Molino del Rey,19.39304,-102.04911
+6821223410,Andador Alvarado,19.3922868,-102.0493573
+3596916357,Calle Doctor Juan de Alvarado,19.3928839,-102.0501258
+3596916355,Calle Doctor Juan de Alvarado,19.3932347,-102.0514926
+3616657252,General José Zamora y Calle Reforma Agraria,19.3900021,-102.0538419
+6821251594,General José Zamora y Calle Lázaro Cárdenas,19.3888863,-102.0539989
+4691668896,Avenida Estocolmo,19.3976874,-102.0547861
+6859124469,Avenida Estocolmo y Avenida Paraguay,19.3969021,-102.0516935
+2011814305,Calle Luxemburgo y Avenida Estocolmo,19.3957144,-102.0483793
+3596916231,Calle Olivos,19.3965848,-102.0460259
+3596916221,Calle Eucalipto y Sauces,19.3957958,-102.0455715
+6821284554,Concorde,19.3931419,-102.046061
+3596916282,Concorde,19.3930917,-102.0459967
+1926707078,Prolongación Acapulco,19.414774,-102.0556708
+8478408469,Manuel Perez Coronado,19.4024482,-102.0584061
+2013194301,Calle Caracas,19.4015967,-102.0576464
+2013194298,Calle Caracas,19.4013582,-102.0566976
+2010111472,Calle Paseo General Lázaro Cárdenas y Calle Caracas,19.4010838,-102.0556829
+6879762057,Glorieta Agrobiología,19.3956967,-102.0569356
+8478040943,Calle Niza,19.3954546,-102.0558973
+3598932075,Calle Niza,19.3950217,-102.0542067
+3596896764,Calle Niza,19.3946541,-102.0527883
+3596916362,Calle Niza,19.3943839,-102.0517251
+3596916375,Calle Niza,19.3941426,-102.0506319
+3596916330,Calle Niza,19.3938635,-102.0495732
+6878389501,Calle Batallón de Morelos,19.3942564,-102.047984
+3596916343,Calle Niza,19.3940321,-102.0501922
+8460871038,Calle Niza,19.3943475,-102.0514266
+8478040941,Calle Niza,19.3953704,-102.05519
+6879762047,Calle Niza,19.3956307,-102.0562154
+6879762055,Glorieta Agrobiología y Calle Paseo General Lázaro Cárdenas,19.3960333,-102.0569562
+2013194284,Calle Paseo General Lázaro Cárdenas,19.3969231,-102.0566783

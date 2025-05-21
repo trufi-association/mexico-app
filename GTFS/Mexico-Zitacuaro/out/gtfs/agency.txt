@@ -1,0 +1,18 @@
+agency_id,agency_name,agency_timezone,agency_url
+0,Amarilla,America/Mexico_City,https://example.com/
+1,Roja y Azul,America/Mexico_City,https://example.com/
+2,Azul,America/Mexico_City,https://example.com/
+3,Blanca,America/Mexico_City,https://example.com/
+4,Morada,America/Mexico_City,https://example.com/
+5,Rojo y Negro,America/Mexico_City,https://example.com/
+6,Verde,America/Mexico_City,https://example.com/
+7,Roja,America/Mexico_City,https://example.com/
+8,Naranja,America/Mexico_City,https://example.com/
+9,Guinda,America/Mexico_City,https://example.com/
+10,Café,America/Mexico_City,https://example.com/
+11,Dorada y Marrón,America/Mexico_City,https://example.com/
+12,verde,America/Mexico_City,https://example.com/
+13,Rosa,America/Mexico_City,https://example.com/
+14,Roja y Negra,America/Mexico_City,https://example.com/
+15,Coral,America/Mexico_City,https://example.com/
+16,Azul Cielo,America/Mexico_City,https://example.com/

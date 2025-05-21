@@ -1,0 +1,81 @@
+route_id,agency_id,route_short_name,route_long_name,route_color,route_type
+16138027,0,11R,11R - Calle Emilio Carranza - Calle Piedra Ancha,FF9729,3
+16138036,1,102R,102R - Calle de la Vid - Avenida Anillo de Circunvalación,FDC7C7,3
+16138039,0,11I,11I - Calle Piedra Ancha - Calle Emilio Carranza,FF9729,3
+16138077,2,1I,1I - Calle Hermanos López Rayón - Avenida Vino Tinto,0015FF,3
+16138089,3,10R,10R - Calle Justo Sierra - Calle Camino a Santa Rosa,00FF2C,3
+16138093,0,12I,12I - Calle Villamar - Calle Manuel Ocaranza,FDC7C7,3
+16138106,0,17R,17R - Calle Manuel Ocaranza - Calle Río Volga,00FF2C,3
+16138112,3,10I,10I - Calle Camino a Santa Rosa - Calle Justo Sierra,00FF2C,3
+16138117,0,14I,14I - Calle Alvarado - Prolongación Agustín Melgar,FDC7C7,3
+16138165,3,18I,18I - Calle Tlazazalca - Avenida Anillo de Circunvalación,FDC7C7,3
+16138173,0,19R,19R - Calle Paseo de los Fresnos - Calle Maruata Lugar Precioso,FF9729,3
+16138184,0,176I,176I - Avenida la Veracruzana - Avenida Anillo de Circulación,FF9729,3
+16138187,1,1SI,1SI - Avenida Malbec - Avenida Pitágoras,0015FF,3
+16138287,3,18R,18R - Avenida Anillo de Circunvalación - Calle Tlazazalca,FDC7C7,3
+16138293,1,1SR,1SR - Avenida Pitágoras - Avenida Malbec,0015FF,3
+16138296,1,1AI,1AI - Avenida Pitágoras - Avenida Malbec,0015FF,3
+16138297,3,2R,2R - Calle Amadeo Betancourt - Calle del Niño,00FF2C,3
+16138302,0,19I,19I - Calle Maruata Lugar Precioso - Calle Paseo de los Fresnos,FF9729,3
+16138322,0,20I,20I - Calle Tulipán - Calle Mariano Matamoros,0015FF,3
+16138353,3,2I,2I - Calle del Niño - Calle Amadeo Betancourt,00FF2C,3
+16138357,0,21R,21R - Prolongación Francisco Villa - Calle Mariano Matamoros,0015FF,3
+16138372,3,22I,22I - Prolongación Sinaloa - Avenida Las Lomas,0015FF,3
+16138375,3,22R,22R - Avenida Las Lomas - Prolongación Sinaloa,0015FF,3
+16138379,0,20R,20R - Calle Mariano Matamoros - Calle Tulipán,0015FF,3
+16138396,0,24R,24R - Calle Nicolás Romero - Jucutacato,FF9729,3
+16138402,0,25I,25I - La Laguna - Calle Manuel Ocaranza,0015FF,3
+16138408,0,25R,25R - Calle Manuel Ocaranza - La Laguna,0015FF,3
+16138411,0,24I,24I - Jucutacato - Calle Nicolás Romero,FF9729,3
+16138415,3,26I,26I - Tejerías - Avenida Emilio Carranza,FDC7C7,3
+16140225,2,27R,27R - Avenida Paseo de la Cima - Carretera Uruapan-Carapan,FDC7C7,3
+16140252,3,26R,26R - Avenida Emilio Carranza - Tejerías,FDC7C7,3
+16140253,2,27I,27I - Carretera Uruapan-Carapan - Avenida Paseo de la Cima,FDC7C7,3
+16140259,3,28I,28I - San José del Puerto - Paseo del Nogal,0015FF,3
+16140261,2,1R,1R - Avenida Vino Tinto - Calle Hermanos López Rayón,0015FF,3
+16140267,1,13I,13I - Calle Nicolás Bravo - Calle Fuerza Áerea,FF9729,3
+16140269,3,2AI,2AI - Calle Amadeo Betancourt - Avenida Paseo de la Revolución,00FF2C,3
+16140281,3,2AR,2AR - Avenida Paseo de la Revolución - Calle Amadeo Betancourt,00FF2C,3
+16140283,3,28R,28R - Paseo del Nogal - San José del Puerto,0015FF,3
+16140292,3,31I,31I - Avenida Latinoamiericana - Calle La Quebradora,FF9729,3
+16140296,2,33R,33R - Avenida Malbec - Toreo Alto,0015FF,3
+16140322,3,35I,35I - Calle Tulipán - Avenida Insurgentes,FDC7C7,3
+16140323,2,33I,33I - Toreo Alto - Avenida Malbec,0015FF,3
+16140326,3,35R,35R - Avenida Insurgentes - Calle Tulipán,FDC7C7,3
+16140335,3,3I,3I - Calle Hermanos Flores Magón - Avenida de las Lomas,0015FF,3
+16140338,0,5R,5R - Calle José María Morelos - Calle Paricutín,0015FF,3
+16140340,3,31R,31R - Calle La Quebradora - Avenida Latinoamiericana,FF9729,3
+16140378,0,85R,85R - Toreo Bajo - Calle Efrén Capiz,0015FF,3
+16140449,3,3R,3R - Avenida de las Lomas - Calle Hermanos Flores Magón,0015FF,3
+16140451,3,4I,4I - Calle Camino Viejo a Zumpimito - Zirapondiro/Tiamba,00FF2C,3
+16140456,0,45R,45R - Calle Juan Delgado - Avenida Paseo de la Revolución,00FF2C,3
+16140459,0,5I,5I - Calle Paricutín - Calle José María Morelos,0015FF,3
+16140463,3,40I,40I - Calle Juan Escutia - Calle Hermanos López Rayón,0015FF,3
+16140480,0,6I,6I - Paseo de los Fresnos - Clinica 76,FF9729,3
+16140497,0,6R,6R - Clinica 76 - Paseo de los Fresnos,FF9729,3
+16160431,3,40R,40R - Calle Hermanos López Rayón - Calle Juan Escutia,0015FF,3
+16160475,3,66R,66R - Avenida Latinoamiericana - Calle Nicolás Régules,FDC7C7,3
+16160482,0,7I,7I - Calle Emilio Carranza - Clinica 81,FF9729,3
+16160498,0,7R,7R - Clinica 81 - Calle Emilio Carranza,FF9729,3
+16160501,1,76R,76R - Avenida Emilio Caranza - Calle Chante,6F0EAD,3
+16160511,0,9R,9R - Calzada Benito Juárez - Arroyo Colorado,0015FF,3
+16160513,0,9I,9I - Arroyo Colorado - Calzada Benito Juárez,0015FF,3
+16160514,0,8I,8I - Calle Río Volga - Avenida Anillo de Circulación,0015FF,3
+16160555,0,8R,8R - Avenida Anillo de Circulación - Calle Río Volga,0015FF,3
+16160557,0,12R,12R - Calle Manuel Ocaranza - Calle Villamar,FDC7C7,3
+16160562,0,85I,85I - Calle Eftrén Capiz - Toreo Bajo,0015FF,3
+16160567,1,1AR,1AR - Avenida Malbec - Avenida Pitágoras,0015FF,3
+16160605,0,14R,14R - Prolongación Agustín Melgar - Calle Alvarado,FDC7C7,3
+16160610,3,66I,66I - Calle Nicolás Régules - Avenida Latinoamericana,FDC7C7,3
+16160615,2,50I,50I - Avenida Paseo de la Cima - Avenida Paseo de la Revolución,FF9729,3
+16160627,0,17I,17I - Calle Río Volga - Calle Manuel Ocaranza,00FF2C,3
+16160646,0,21I,21I - Calle Mariano Matamoros - Prolongación Francisco Villa,0015FF,3
+16160647,1,76I,76I - Calle Chante - Avenida Emilio Caranza,6F0EAD,3
+16160682,1,102I,102I - Avenida Anillo de Circunvalación - Calle de la Vid,FDC7C7,3
+16160862,0,176R,176R - Avenida Anillo de Circulación - Avenida la Veracruzana,FF9729,3
+16160906,0,45I,45I - Avenida Paseo de la Revolución - Calle Juan Delgado,00FF2C,3
+16191109,3,4R,4R - Zirapondiro/Tiamba - Calle Camino Viejo a Zumpimito,00FF2C,3
+16191368,2,5OR,5OR - Avenida Paseo de la Revolución - Avenida Paseo de la Cima,FF9729,3
+16244014,1,13R,13R - Calle Fuerza Áerea - Calle Nicolás Bravo,FF9729,3
+16268349,3,15R,15R - Calle Hermanos López Rayón - Calle Tipitin,00FF2C,3
+16335654,3,15I,15I - Calle Tipitin - Calle Hermanos López Rayón,00FF2C,3
